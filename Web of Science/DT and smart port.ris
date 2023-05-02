@@ -1,0 +1,1105 @@
+﻿TY  - JOUR
+AU  - Wang, K
+AU  - Hu, QQ
+AU  - Zhou, MJ
+AU  - Zun, Z
+AU  - Qian, XM
+TI  - Multi-aspect applications and development challenges of digital twin-driven management in global smart ports
+T2  - CASE STUDIES ON TRANSPORT POLICY
+LA  - English
+KW  - Digital twin
+KW  - Smart port
+KW  - Visual-based management
+KW  - Digital twin model
+KW  - Systematic framework
+KW  - WIRELESS COMMUNICATION
+KW  - INDUSTRIAL INTERNET
+KW  - IMPLEMENTATION
+KW  - SUPPORT
+KW  - SYSTEMS
+KW  - BIM
+KW  - INTEGRATION
+KW  - AUTOMATION
+KW  - OPERATION
+KW  - FRAMEWORK
+AB  - Digital twin (DT) creates a revolutionary opportunity for the smart ports' authorities, with the capability of high-fidelity digital representation of real-world things. DT-driven management is able to predict potential risk, it is considered to be a key integration involves transport and operation related with smart port supply chains. This paper presents DT information visualizations & outcome loop of global smart ports' management, and core technique towards smart ports' processes based on DT-driven management. A systematic framework of DT-based model for smart port's management is presented, which can be categorized into physical layer, data layer, model layer, service layer and application layer. Decision-makers engage in operational management through the DT-based models and platform. To illustrate DT mechanism, multi-aspect functional applications of DT-driven management are discussed, including cargo handling and transportation, containers operation and storage, data communication and sharing, risk prediction, and environmental protection in global smart ports. Meanwhile, this paper proposes concerned challenges of DT-driven management integrated with optimized cross-platform in smart ports' processes, to indicate there are barriers ahead to get to an ideal visual-based management system. Current challenges help decision-makers to determine where to find a proper strategy to win, in the future, DT visual applications can be extended in several directions of global port industry. This work contributes to address a comprehensive overview of DT managing capabilities together with details of necessary architecture to support effective simulations in virtual port's space. It provides DT-driven platform will enable better management across the smart port activities from design to transport to operation and sustainment of innovative plan.
+AD  - Shanghai Maritime Univ, Coll Ocean Sci & Engn, Shanghai, Peoples R ChinaAD  - Shanghai Maritime Univ, Dept Safety Sci & Engn, Shanghai, Peoples R ChinaAD  - Shanghai Maritime Univ, Marine Publ Safety Res Ctr, Shanghai, Peoples R ChinaAD  - Beijing Inst Technol, Sch Mechatron Engn, Beijing, Peoples R ChinaC3  - Shanghai Maritime UniversityC3  - Shanghai Maritime UniversityC3  - Shanghai Maritime UniversityC3  - Beijing Institute of TechnologyFU  - Shanghai Key Projects of Soft Science [20692193100]; National Natural Science Foundation of China [52001196]; State Key Laboratory of Explosion Science and Technology in BIT, China Institute of Communications Education [JTYB20-60]
+FX  - This work is financially sponsored by Shanghai Key Projects of Soft Science (20692193100) and National Natural Science Foundation of China (52001196). Kan WANG acknowledges State Key Laboratory of Explosion Science and Technology in BIT, China Institute of Communications Education (JTYB20-60) for providing supporting. More importantly, the authors would like to gratefully acknowledge the editors and reviewers for the valuable suggestions and comments.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2213-624X
+SN  - 2213-6258
+J9  - CASE STUD TRANSP POL
+JI  - Case Stud. Transp. Policy
+DA  - SEP
+PY  - 2021
+VL  - 9
+IS  - 3
+SP  - 1298
+EP  - 1312
+DO  - 10.1016/j.cstp.2021.06.014
+C6  - AUG 2021
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000687100100001
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  93
+ER  -
+
+TY  - JOUR
+AU  - Yang, WQ
+AU  - Bao, XY
+AU  - Zheng, Y
+AU  - Zhang, L
+AU  - Zhang, ZQ
+AU  - Zhang, Z
+AU  - Li, L
+TI  - A digital twin framework for large comprehensive ports and a case study of Qingdao Port
+T2  - INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY
+LA  - English
+KW  - Digital twin
+KW  - Smart port
+KW  - Cyber-physical system
+KW  - Ubiquitous sensing
+KW  - Data mapping and fusion
+KW  - CHALLENGES
+KW  - MANAGEMENT
+AB  - The increase in port scale and business complexity has led to an increased demand for comprehensive and lean control on ports. The current operation mode is facing the bottleneck of the increasingly significant production efficiency and performance. Digital twin (DT) technology realizes holographic visual management and control patterns using cyber-physical fusion and promotes the transformation of a port to an intelligent operation mode. In this paper, the framework of a digital twin application system is proposed based on the analysis of business characteristics of large-scale comprehensive ports. Construction methods and technologies such as digital twin modeling, global ubiquitous perception, data mapping, and model fusion are analyzed. With regard to the construction needs of Qingdao Port's digital twin system, this paper presents a case study and illustrates the overall design process and function of the digital twin system for typical terminals. The system realizes the intelligent operation of the port with the core functions of three-dimensional visual monitoring and optimal dispatching based on real-time perception data. This paper serves as a feasible reference for future intelligent development of large ports and the application of digital twin technology.
+AD  - Shanghai Jiao Tong Univ, Sch Mech Engn, Bldg Mech Engn,Room A715,DongChuan Rd 800, Shanghai 200240, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, Inst Smart Mfg & Informat Engn, Shanghai, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, Shanghai Key Lab Adv Mfg Environm, Shanghai, Peoples R ChinaAD  - Qingdao Port Int Co Ltd, Qingdao 266011, Peoples R ChinaAD  - Qingdao Co Ltd, Shandong Port Technol Grp, Qingdao 266011, Peoples R ChinaAD  - China Waterborne Transport Res Inst, Beijing 100088, Peoples R ChinaC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityFU  - National Key R&D Program of China [2020YFB1710802]; Shanghai Key lab of Advanced Manufacturing Environment
+FX  - This work is sponsored by National Key R & D Program of China (No. 2020YFB1710802) and Shanghai Key lab of Advanced Manufacturing Environment.
+PU  - SPRINGER LONDON LTD
+PI  - LONDON
+PA  - 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN  - 0268-3768
+SN  - 1433-3015
+J9  - INT J ADV MANUF TECH
+JI  - Int. J. Adv. Manuf. Technol.
+DO  - 10.1007/s00170-022-10625-1
+C6  - DEC 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000899101200001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  34
+ER  -
+
+TY  - CPAPER
+AU  - Emanuele, A
+AU  - Anastasiia, R
+AU  - Roberto, R
+AU  - Sergey, S
+ED  - Fujita, H
+ED  - Fournier-Viger, P
+ED  - Ali, M
+ED  - Wang, Y
+TI  - An Agenda on the Employment of AI Technologies in Port Areas: The TEBETS Project
+T2  - ADVANCES AND TRENDS IN ARTIFICIAL INTELLIGENCE: THEORY AND PRACTICES IN ARTIFICIAL INTELLIGENCE
+LA  - English
+CP  - 35th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE)
+KW  - Simulation
+KW  - Anylogic
+KW  - Microsoft Project Bonsai
+KW  - Port safety
+AB  - This paper presents the agenda extending the project reported at the International Maritime Transport and Logistics Conference "Marlog 10" in 2021. Within the framework of the Smart Port model project proposed by the European Union institutions, we examined the control model of the port of Genoa and the digital twin representation of the Terminal San Giorgio. The application of digital technologies to intermodal systems like ports and harbors would give highly positive results in terms of efficiency and effectiveness. The resources employed were a Digital Twin realized with the Optimize software, a simulation developed through Anylogic, a tracking system operated by OpenGTS, and an AI platform developed through Bonsai. In addition, we have considered the libraries that, in our opinion, are necessary when designing a port simulation model. Our proposed model includes loading, unloading, storage planning, and other operations taking place at the port of Genoa. The article presents various agents which play a fundamental role in the simulation.
+AD  - Univ Genoa, I-16100 Genoa, ItalyAD  - Bauman Moscow State Tech Univ, Moscow 105005, RussiaC3  - University of GenoaC3  - Bauman Moscow State Technical UniversityPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-08530-7
+SN  - 978-3-031-08529-1
+J9  - LECT NOTES ARTIF INT
+PY  - 2022
+VL  - 13343
+SP  - 633
+EP  - 647
+DO  - 10.1007/978-3-031-08530-7_53
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000876774100053
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  22
+ER  -
+
+TY  - JOUR
+AU  - Wu, W
+AU  - Zhao, ZH
+AU  - Shen, LD
+AU  - Kong, XTR
+AU  - Guo, DQ
+AU  - Zhong, RY
+AU  - Huang, GQ
+TI  - Just Trolley: Implementation of industrial IoT and digital twin-enabled spatial-temporal traceability and visibility for finished goods logistics
+T2  - ADVANCED ENGINEERING INFORMATICS
+LA  - English
+KW  - IoT-enabled manufacturing
+KW  - Digital twin
+KW  - Spatial-temporal traceability and visibility
+KW  - Cyber-physical synchronization
+KW  - Finished good logistics
+KW  - LOCALIZATION
+KW  - SYSTEM
+AB  - The efficiency of the factory logistics after production and before warehousing becomes no less important in terms of the overall productivity, product quality, and service level, especially under mass customization. However, it almost remains traditional in the industry and gains insufficient academic studies due to its triviality and irregularity. This paper aims to develop an Industrial Internet of Things (IIoT) and Digital Twin (DT) enabled platform of real-time tracking and tracing (ID-PORT) for finished goods logistics. The architecture facilitates collaborative tracking methods to actualize timely spatial-temporal traceability and visibility with cyber-physical synchronization. Furthermore, smart location-based services (LBS) are activated to enhance operational efficiency. A real-life case study is conducted in a world-leading computer manufacturer's factory to illustrate the feasibility and evaluate the performance of the platform. An implementation concept, "Just Trolley", which treats every location or area as a trolley in the digital world, is created as guidance to streamline the system development, deployment and operations. A comparative analysis shows a significant reduction in the time of product picking-up and order emergency detecting, further shortening the order lead time and improving the service level. Meanwhile, the overall productivity has also increased. The insights and lessons reaped from this case may spark new ideas and inspire practitioners to meet similar needs in the industry.
+AD  - Univ Hong Kong, Dept Ind & Mfg Syst Engn, Hong Kong, Peoples R ChinaAD  - Nanjing Univ Posts & Telecommun, Sch Internet Things, Nanjing, Peoples R ChinaAD  - Shenzhen Univ, Coll Econ, Collaborat Res Ctr Supply Chain Innovat, Dept Transportat Econ & Logist Management, Shenzhen, Peoples R ChinaC3  - University of Hong KongC3  - Nanjing University of Posts & TelecommunicationsC3  - Shenzhen UniversityFU  - Innovation and Technology Fund [ITP/021/20LP]
+FX  - Acknowledgement Our work is supported in part by the Innovation and Technology Fund (No. ITP/021/20LP) .
+PU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 1474-0346
+SN  - 1873-5320
+J9  - ADV ENG INFORM
+JI  - Adv. Eng. Inform.
+DA  - APR
+PY  - 2022
+VL  - 52
+C7  - 101571
+DO  - 10.1016/j.aei.2022.101571
+C6  - MAR 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000798819300002
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  41
+ER  -
+
+TY  - JOUR
+AU  - Senthilnathan, K
+AU  - Annapoorani, I
+TI  - Multi-Port Current Source Inverter for Smart Microgrid Applications: A Cyber Physical Paradigm
+T2  - ELECTRONICS
+LA  - English
+KW  - cyber physical systems
+KW  - dual output inverter
+KW  - rapid control prototype
+KW  - SLIDING MODE CONTROL
+KW  - DIGITAL TWIN
+KW  - SYSTEM
+KW  - VULNERABILITIES
+KW  - IMPLEMENTATION
+KW  - CHALLENGES
+KW  - INTERNET
+AB  - This paper presents a configuration of dual output single-phase current source inverter with six-switches for microgrid applications. The inverter is capable of delivering power to two independent set of loads of equal voltages or different voltages at the load end. The control strategy is based on integral sliding mode control (ISMC). The cyber twin model-based test bench is developed to analyze the performance of the inverter. The cyber twin is a virtual model of the physical system to simulate behaviours. The performance of the inverter is analyzed with a cyber twin model and monitored through the remote system. Also, the inverter is analyzed with different voltage conditions.
+AD  - Vellore Inst Technol, Sch Elect Engn, Chennai 600127, Tamil Nadu, IndiaC3  - Vellore Institute of Technology (VIT)C3  - VIT ChennaiPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2079-9292
+J9  - ELECTRONICS-SWITZ
+JI  - Electronics
+DA  - JAN
+PY  - 2019
+VL  - 8
+IS  - 1
+C7  - 1
+DO  - 10.3390/electronics8010001
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000457142800001
+N1  - Times Cited in Web of Science Core Collection:  10
+Total Times Cited:  12
+Cited Reference Count:  41
+ER  -
+
+TY  - CPAPER
+AU  - Tokita, K
+AU  - Fujiwara, K
+AU  - Yoshida, M
+AU  - Yakabe, T
+A1  - IEEE
+TI  - Development of a Simplified Six-port Correlator for the 28 GHz band
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Six-Port Correlator
+KW  - transmission coefficient measurement
+KW  - 28 GHz band
+AB  - Recently, there has been a rapid increase in the demand for microwave and millimeter-wave applications represented by 5G technologies. With the wide use of microwave and millimeter-wave components, there is a great demand for inexpensive measurement instruments. This work developed a simplified six-port correlator (SPC) for vector network analyzers (VNAs) in the 28 GHz band. This simplified SPC measures the magnitude and phase information of a device under test, independently. A noncombined power detection method was used to improve the measurement dynamic range. We demonstrated the transmission properties of a band-pass filter in the 28 GHz band on the simplified SPC. Consequently, in magnitude measurement, the dynamic range of the simplified SPC was over 40 dB.
+AD  - Tokyo Metropolitan Ind Technol Res Inst, Koto Ku, 2-4-10 Aomi, Tokyo 1350064, JapanAD  - CDEX Co Ltd, 1623-1 Momura, Inagi, Tokyo 2060804, JapanAD  - Multi Port Lab Ltd Liabil Partnership, UEC Aliance Ctr 322,1-1-1 Kojimacho, Chofu, Tokyo 1820026, JapanFU  - METI Monozukuri R&D Support Grant Program for SMEs [JPJ005698]
+FX  - This work was supported by the METI Monozukuri R&D Support Grant Program for SMEs (grant number JPJ005698). We would like to thank Editage (www.editage.com) for English language editing.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 420
+EP  - 422
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600136
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - CPAPER
+AU  - Lee, J
+AU  - Lee, J
+A1  - IEEE
+TI  - Direct Conversion from Two-Port S-parameters to Coupled-Line Impedances
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Coupled lines
+AB  - This paper illustrates a straightforward method to diagnose the even- and odd-mode impedances of a pair of coupled lines without driving them with common- and differential-mode excitations (four-port measurements). It will be shown that two consecutive two-port measurements of coupled lines are sufficient to fully determine the modal impedances, supported by equations that link the two-port measurement results and the impedances.
+AD  - Korea Univ, Microwave Millimeter Wave LAB, Seoul 02841, South KoreaC3  - Korea UniversityFU  - National Research Foundation of Korea (NRF) through the Korea Government (MSIT) [2022R1A2B5B01001340]
+FX  - This work was supported by the National Research Foundation of Korea (NRF) through the Korea Government (MSIT) under Grant No. 2022R1A2B5B01001340.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 193
+EP  - 195
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600064
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  6
+ER  -
+
+TY  - CPAPER
+AU  - Sano, M
+AU  - Hashimoto, K
+A1  - IEEE
+TI  - Compact Six-Port Out-of-Phase Power Divider With Reduced Amplitude Imbalance
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Out-of-phase power divider
+KW  - ring crossover
+KW  - dual-polarized antenna
+KW  - stripline
+AB  - This paper presents a compact six-port power divider that performs two independent out-of-phase divisions with small amplitude imbalance between the output ports. The power divider was composed of a hybrid ring with a circumferential length of one guided wavelength lambda(g) and non-uniform characteristic impedance. The scattering matrix of this power divider was derived analytically, and the characteristic impedance of each segment of the ring was determined to minimize the amplitude imbalance. A power divider with a non-uniform stripline ring and operating at 2.45GHz was designed. Reduced amplitude imbalance was observed during electromagnetic simulation with the new design.
+AD  - Toshiba Co Ltd, Wireless Syst Lab, Corp Res & Dev Ctr, Informat & Commun Platform Labs,Saiwai Ku, 1 Komukai Toshiba Cho, Kawasaki, Kanagawa 2128582, JapanC3  - Toshiba CorporationPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 19
+EP  - 21
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600007
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - CPAPER
+AU  - Abu Sufian, M
+AU  - Hussain, N
+AU  - Abbas, A
+AU  - Awan, WA
+AU  - Choi, D
+AU  - Kim, N
+A1  - IEEE
+TI  - A series fed planar array-based 4-port MIMO antenna for 5G mmWave IoT Applications
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - MIMO antenna
+KW  - 5G mmWave
+KW  - 28 GHz
+KW  - series-fed planar array
+KW  - low mutual coupling
+KW  - Internet of Things (IoT) antenna
+KW  - high gain antenna
+AB  - This paper presents the design of a series fed planar array-based 4-port multiple-input-multiple-output (MIMO) antenna for 28 GHz Internet of Things (IoT) applications. The unit element comprises a conventional rectangular patch-shaped series array antenna offering high gain along with loaded patches to suppress the side lobe level. The unit element of the MIMO antenna is designed using a 0.787mm thick Rogers RT5880 having an overall compact size of 16mm x 16 mm. Afterward, to meet the requirements of modern 5G systems a MIMO antenna is constructed by utilizing unit elements in such a way that each element is rotated 900 with reference to the previous element. The MIMO antenna also offers a compact size of 32mm x 32 mm having an impedance bandwidth ranging from 27.66 GHz to 29.14 GHz, which refers to 5.21% of the central frequency. The MIMO performance parameters show that the proposed antenna offers a peak gain of 10.6 dBi along with low mutual coupling and envelope correlation coefficient (ECC) of < -40 dB and < 0.0001, respectively. The strong performance parameter of the single element as well as the MIMO antenna makes the proposed work a strong candidate for mm-wave IoT applications.
+AD  - Chungbuk Natl Univ, Dept Informat & Commun Engn, Chungdae Ro 1, Cheongju 28644, Chungcheongbuk, South KoreaAD  - Sejong Univ, Dept Smart Device Engn, Seoul 05006, South KoreaC3  - Chungbuk National UniversityC3  - Sejong UniversityFU  - Institute of Information & communications Technology Planning & Evaluation (IITP) - Korean Government (MSIT) [1711160559, 2022-0-00452-001]
+FX  - This work was supported by the Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korean Government (MSIT) (No.1711160559, 2022-0-00452-001, Development of 3.3kW cluster wireless charging technologies for robot).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 880
+EP  - 882
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600288
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Ye, YJ
+AU  - Cheong, P
+AU  - Choi, WW
+A1  - IEEE
+TI  - Effect of Static Reflector in Vital Sign Radar Sensing System
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Vital signs
+KW  - radar
+KW  - six-port interferometric circuit
+KW  - modulator
+KW  - reflector
+AB  - Non-contact short-range radar sensors can detect object movement based on the amplitude and phase readouts. Such systems are widely used in industries, but the medical sector is of special interest. In this work, a Doppler radar system based on six-port interferometric topology is presented to investigate the effect of the reflection by the environment or static part of an object on the received signals from the desired modulator (i.e., a patient's chest). The experimental results show that the static reflector partially distorts the reflected signal of the modulator. In addition, the larger the area, the more significant the distortion is, laying a foundation for future research.
+AD  - Univ Macau, Fac Sci & Technol, Dept Elect & Comp Engn, Macau, Peoples R ChinaC3  - University of MacauFU  - Macao Science and Technology Development Fund [FDCT/0074/2021/A]; University of Macau [CG-FST-2022, SRG2021-00019-FST]
+FX  - This work was partly supported by the Macao Science and Technology Development Fund under Grant FDCT/0074/2021/A, and the University of Macau (CG-FST-2022) and (SRG2021-00019-FST).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 563
+EP  - 565
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600183
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Zhu, H
+AU  - Guo, YJ
+A1  - IEEE
+TI  - Compact and Wideband Filtering Power Dividers with Arbitrary and Constant Output Phase Difference
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Arbitrary phase difference
+KW  - compact
+KW  - filtering
+KW  - phase shifter
+KW  - power divider
+KW  - pi-shaped structure
+KW  - wideband
+KW  - Wilkinson
+AB  - This paper presents a wideband filtering power divider with arbitrary phase difference between two output ports. Different from the traditional Wilkinson power dividers, this structure utilizes two pi-shaped structures to replace the quarter-wavelength transmission lines. Based on the pi-shaped structure, the phase characteristics can be modified without affecting the magnitude of the transmission coefficient. As a result, the phase difference between output ports can be changed to a non-zero value. A planar design is modelled, simulated, fabricated and measured to verify the design concept.
+AD  - Univ Technol Sydney, Global Big Data Technol Ctr, 81 Broadway, Ultimo, NSW 2007, AustraliaC3  - University of Technology SydneyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 788
+EP  - 790
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600257
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Tan, Q
+AU  - Luk, KM
+A1  - IEEE
+TI  - Wideband Co-Linearly Polarized Antenna for Simultaneous Transmission and Reception Applications
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - co-linearly polarized
+KW  - ME dipole antenna
+KW  - STAR
+KW  - wideband
+AB  - A wideband co-linearly polarized antenna is proposed for the simultaneous transmission and reception (STAR) application in the same frequency. It has good isolation between the transmitting and receiving ports and identical radiation properties over a wide frequency band, based on two partially overlapped basic magneto-electric (ME) dipoles and the modified central part, forming a defected rectangular tube suspended above the ground plane. The antenna also has a simple structure. A prototype is fabricated and measured for validation, showing the measured port isolation higher than 22 dB from 1.90-2.91 GHz (42.0%) and up to 42 dB and good radiation performance.
+AD  - City Univ Hong Kong, Dept Elect Engn, Kowloon, Hong Kong, Peoples R ChinaC3  - City University of Hong KongPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 886
+EP  - 888
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600290
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - CPAPER
+AU  - Wang, XL
+AU  - Yang, S
+AU  - Lu, GY
+A1  - IEEE
+TI  - Compensation Approach for Miniaturized Wilkinson Power Divider Design
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Compensation approach
+KW  - coupled microstrip line strcuture
+KW  - phase velocity difference
+KW  - Wilkinson power divider
+AB  - Although coupled microstrip line structure are widely used in various microwave components for miniaturization, because of its phase velocity difference in Wilkinson power divider design, port reflections (S-11, S-22 and S-33) cannot match with port isolation (S-32) at the same center frequency. In this paper, several compensation approaches are summarized for compact Wilkinson power dividers with single-band application. By adding extra lumped elements, capacitor or inductor can be shunted into the coupled microstrip line structures. Considering less parasitic effects around lumped elements, extra 50 Omega transmission lines and open-circuited stubs are preferred for high frequency applications. Finally, several selected examples are fabricated and measured, all the simulated results are matched with measured results very well.
+AD  - Jilin Univ, State Key Lab Integrated Optoelecfron, Coll Elect Sci & Engn, Int Ctr Future Sci, 2699 Qianjin St, Changchun 130012, Peoples R ChinaC3  - Jilin UniversityFU  - Project of the Education Department of Jilin Province [JJKH20211093KJ]; Interdisciplinary Integration and Innovation Project of JLU [JLUXKJC2020204]; Project of Science and Technology Development Program of Changchun City [21ZY23]
+FX  - This work was supported by Project of the Education Department of Jilin Province (Grant No. JJKH20211093KJ), Interdisciplinary Integration and Innovation Project of JLU (Grant No. JLUXKJC2020204) and the Project of Science and Technology Development Program of Changchun City (Grant No. 21ZY23).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 16
+EP  - 18
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600006
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  9
+ER  -
+
+TY  - CPAPER
+AU  - Zhou, SZ
+AU  - Xu, Z
+AU  - Zong, ZY
+AU  - Wu, W
+A1  - IEEE
+TI  - A Wide-Scanning Broadband Dual-Polarized Tightly Coupled Dipole MIMO Antenna Array for C-\X- Band
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - dual-polarized
+KW  - broadband
+KW  - wide-scanning angle
+KW  - TCDA
+KW  - edge effects
+AB  - This paper presents a wide-scanning broadband dual-polarization MIMO array with 4 - 12 GHz operational band, based on tightly coupled dipole array (TCDA). The stubs of the dipoles and the feed ribs (consisting of metallic patterns) achieve the improved bandwidth and scanning angle. The simulation results demonstrate that, over the operating bandwidth, the proposed infinite array can work with VSWR < 2.6 for E-plane scanning up to 60 degrees and VSWR < 3 for H-plane scanning up to 50 degrees. Then, a 4x4 dual-polarized finite array is proposed. For finite arrays, edge effects may result in a severe mismatch of the edge elements. Sometimes the array can be expanded to alleviate this problem, but when space is limited, each port should be utilized as possible. Optimizing the edge elements, the simulated active VSWR of the presented small-scale array is typically less than two at broadside, including edge ports.
+AD  - Nanjing Univ Sci & Technol, Sch Elect & Opt Engn, Nanjing, Peoples R ChinaC3  - Nanjing University of Science & TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 157
+EP  - 159
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600052
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - CPAPER
+AU  - Hoang, DHT
+AU  - Nguyen, VXT
+AU  - Do, TT
+AU  - Nguyen, DN
+AU  - Vu, TA
+AU  - Tran, QN
+A1  - IEEE
+TI  - MUTUAL COUPLING REDUCTION OF MIMO ANTENNA USING METAMATERIAL ABSORBER FOR 5G BASE STATIONS
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - +/- 45 degrees polarization
+KW  - metamaterial absorber
+KW  - multual coupling
+KW  - multiple-input multiple-output (MIMO) application
+KW  - SYSTEM
+AB  - In this paper, a high port-to-port isolation multiple inputs multiple outputs (MIMO) dual-polarized antenna which covering N41 band has been present in favor of 5G New Radio (5GNR) base stations. The mutual coupling is reduced by using an array of metamaterial absorber which is orthogonally introduced in center of two subarrays at a center frequency of 2.6 GHz. The 3 x 8 antenna array where the closely inter-antenna spacing (center to center) of 68 mm x 55 mm (0.59 lambda(0) x 0.48 lambda(0)) is proposed. An array of 12 x 1 unit cell of metamaterial absorber is utilized to enhance col - polarized isolation (S-31) and cross - polarized isolation (S-21). The measured results which correspond well with the simulated ones illustrate a satisfactory mutual coupling reduction, thus cross - polarized isolation vertical bar S-21 vertical bar has improved from -19 dB to -26.8 dB and the col - polarized isolation vertical bar S-31 vertical bar has enhanced from -16.8 dB to -25 dB comparing to the utilization of metallic wall.
+AD  - Viettel High Technol Ind Corp, Wireless Broadband R&D Ctr, Hanoi, VietnamAD  - Hanoi Univ Sci & Technol, Hanoi, VietnamC3  - Hanoi University of Science & TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 767
+EP  - 769
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600250
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  5
+ER  -
+
+TY  - CPAPER
+AU  - Nakamura, M
+AU  - Ikeda, A
+AU  - Tajima, T
+AU  - Seyama, M
+A1  - IEEE
+TI  - An Accurate and Compact Reflection Measurement Module towards Microwave Dielectric Measurement of Biological Samples
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - dielectric
+KW  - measurement
+KW  - spectroscopy
+KW  - reflection
+KW  - biological samples
+KW  - 1 port measurement
+KW  - stability
+KW  - SPECTROSCOPY
+AB  - A 4.9 GHz reflection measurement module for dielectric measurement of biological samples is proposed. The module has a compact size of 120 x 55 x 13 mm. To compensate for the number of components and power consumption, we propose an architecture composed of one transmitter, receiver and an SPnT switch and the stability of the phase signal was 0.004 degrees in a 2-h continuous measurement. Furthermore, we demonstrate in vitro measurement of an aqueous solution of glucose using the module. The dielectric constant shows good agreement within 1.5 % error compared with that measured by a vector network analyzer. This module is expected to be used for novel biological applications such as noninvasive sensing and SAR evaluation.
+AD  - NTT Corp, NTT Device Technol Labs, 3-1 Morinosato Wakamiya, Atsugi, Kanagawa, JapanAD  - NTT Corp, Biomed & Informat Res Ctr, NTT Basic Res Labs, 3-1 Morinosato Wakamiya, Atsugi, Kanagawa, JapanC3  - Nippon Telegraph & Telephone CorporationC3  - Nippon Telegraph & Telephone CorporationPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 940
+EP  - 942
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600308
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  13
+ER  -
+
+TY  - CPAPER
+AU  - Hattenhorst, B
+AU  - Musch, T
+A1  - IEEE
+TI  - On the Influence of Impedance Matching for the Sensitivity of Reflection Phase Measurements with Resonant Sensors
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - sensor
+KW  - reflection
+KW  - phase
+KW  - matching
+AB  - In this contribution, the influence of impedance matching for sensors that incorporate phase measurements in a one-port reflection setup is elaborated in detail. The developed theoretical basis is validated by three-dimensional electromagnetic simulations that are corroborated by reflection measurements of a metamaterial-based, resonant near-field sensor with varying impedance matching conditions.
+AD  - Ruhr Univ Bochum, Inst Elect Circuits, Univ Stt 150, D-44801 Bochum, GermanyC3  - Ruhr University BochumPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 336
+EP  - 338
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600110
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  6
+ER  -
+
+TY  - CPAPER
+AU  - Ginzberg, N
+AU  - Cohen, E
+A1  - IEEE
+TI  - Watt-Level Electrical-Balanced Duplexer Front-End with Power Recycling for Full-Duplex RF Systems
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Full-duplex
+KW  - power recycling
+KW  - rectifier
+KW  - electrical-balanced duplexer (EBD)
+KW  - energy harvesting
+AB  - This paper proposes an efficiency enhancement technique in a full-duplex electrical-balanced duplexer (EBD) front-end based on a quadrature balanced harvester (QBHV) connection at the isolation EBD port. A circuit prototype employing GaN PA devices around 400 MHz with 40% harvester efficiency measured 25% efficiency improvement (1 dB) with better than 25 dB TX-RX isolation and nonlinearity performance similar to a standalone power amplifier (PA).
+AD  - Technion, Fac Elect & Comp Engn, Haifa, IsraelC3  - Technion Israel Institute of TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 569
+EP  - 571
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600185
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Chen, WH
+AU  - Xu, F
+AU  - Zhang, YM
+AU  - Yu, ZQ
+AU  - Zhou, JY
+A1  - IEEE
+TI  - Dual Circularly Polarized Stacked Patch Filtenna Without Quadrature Coupler or Extra filters
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - filtenna
+KW  - filtering antenna
+KW  - patch antenna
+KW  - dual polarization
+KW  - circular polarization
+AB  - Dual polarized filtennas are considered as key components in communication systems. In this paper, a dual circularly polarized (CP) stacked patch filtenna without quadrature coupler or extra filters is proposed. High port isolation is ensured by adopting a stacked patch. Based on the analysis of the equivalent circuit, two T-shaped transmission line networks are added to the feedlines and two radiation nulls at the two sides of the passband are generated. A passband of 3.4-3.6GHz and a bandpass filtering response are achieved.
+AD  - Southeast Univ, Sch Informat Sci & Engn, State Key Lab Millimeter Waves, Nanjing, Peoples R ChinaAD  - ZGC Inst Ubiquitous X Innovat & Applicat, Beijing 100876, Peoples R ChinaAD  - China Mobile Res Inst, Future Res Lab, Beijing 100053, Peoples R ChinaC3  - Southeast University - ChinaC3  - China MobileFU  - Southeast University-China Mobile Research Institute Joint Innovation Center
+FX  - The authors wish to acknowledge the assistance and support of the APMC 2022 Steering Committee. This work is funded by Southeast University-China Mobile Research Institute Joint Innovation Center.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 28
+EP  - 30
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600009
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - CPAPER
+AU  - Yang, MY
+AU  - Wu, RB
+A1  - IEEE
+TI  - Optimal Design for Acoustic Wave SAW Extractor with Simple Matching Circuits
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - SAW
+KW  - Optimization
+KW  - Extractor
+KW  - Cellular mid/high band (MHB)
+KW  - Wi-Fi
+AB  - This study applies the optimization approach to design a SAW extractor in a broadband RF module, which demonstrates bandpass and bandstop features in the in-band to two output ports, while bandstop and bandpass features, respectively, in the out of bands. The extractor is formed by eight SAW resonators based on mBVD model and simple matching circuits of two inductors. Compared with the commercially available product, the designed SAW extractor can meet the stringent product specifications in the frequency range of 0.7GHz similar to 2.7GHz
+AD  - Natl Taiwan Univ, Dept Grad Inst Commun Engn, Taipei 10617, TaiwanAD  - Natl Taiwan Univ, Dept Elect Engn, Taipei 10617, TaiwanC3  - National Taiwan UniversityC3  - National Taiwan UniversityFU  - Ministry of Science and Technology, Taiwan [MOST 109-2221-E-002-172-MY3]
+FX  - This study is partly supported by the Ministry of Science and Technology, Taiwan, under Grant MOST 109-2221-E-002-172-MY3
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 776
+EP  - 778
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600253
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Kameya, M
+AU  - Gofuku, E
+AU  - Nakamura, K
+A1  - IEEE
+TI  - Impact of Differential-mode Noise Converted from External RF Noise on Differential Transmission and its Reduction by Differential Signal Balancer
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Common-mode filter
+KW  - Differential-mode noise
+KW  - External RF noise
+KW  - Glass cloth
+KW  - Mode-conversion
+KW  - RF interference
+AB  - The impact of differential-mode noise converted from RF noise applied to the differential transmission line channel (DTLC) due to the common-mode filter (CMF) and glass cloth in the DTLC substrate is analyzed. The differential mode noise generated in DTLC with CMF is measured with a 4-port network analyzer. Based on this measurement result, the influence of glass cloth is incorporated into the electromagnetic simulation model of DTLC. By applying this DTLC model to circuit analysis, the suitability of various CMFs as solutions for RF interference is evaluated.
+AD  - Kyushu Inst Technol, Ctr Microelect Syst, 680-4 Kawazu, Iizuka, Fukuoka 8208502, JapanC3  - Kyushu Institute of TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 202
+EP  - 204
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600067
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Liu, HM
+AU  - Wang, JH
+AU  - Wang, XS
+AU  - Ren, JH
+AU  - Chen, SY
+A1  - IEEE
+TI  - Wideband Planar Rat-Race Coupler with Small In-Band Phase Deviation Error
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Rat-race coupler
+KW  - wideband
+KW  - small phase deviation error
+KW  - compact
+KW  - planar
+KW  - DESIGN
+KW  - LINE
+AB  - A wideband planar rat-race coupler with small in-band phase deviation error is presented. Wide operation bandwidth is achieved by using shorted parallel-coupled (SPC) four-line. Flat in-band output ports phase differences are maintained by using the component-loaded transmission line (CL-TL). Equations are derived for the calculation of the circuit parameters. For validation, a prototype is designed, fabricated and measured. The measurement results show that a bandwidth of more than 50 % is realized under the criterions of 10-dB return loss, 0.5-dB amplitude imbalance, and 2 degrees phase deviation error.
+AD  - Dalian Maritime Univ, Sch Informat Sci & Technol, Dalian, Peoples R ChinaC3  - Dalian Maritime UniversityFU  - Liaoning Revitalization Talents Program [XLYC2007067]; Dalian Youth Science and Technology Star Project [2020RQ007]; Fundamental Research Funds for the Central Universities [3132022245]
+FX  - This work was supported in part by the Liaoning Revitalization Talents Program under Grant XLYC2007067, in part by the Dalian Youth Science and Technology Star Project under Grant 2020RQ007 and in part by the Fundamental Research Funds for the Central Universities under Grant 3132022245.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 758
+EP  - 760
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600247
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - CPAPER
+AU  - Tang, CW
+AU  - Yang, CH
+A1  - IEEE
+TI  - Design of A High Attenuation a Microstrip Wide-Stopband Bandstop Filter Applied in Ku and K Bands
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - wide bandwidth
+KW  - high attenuation
+KW  - bandstop filter
+KW  - coupled line
+KW  - COMPACT
+AB  - The compact microstrip bandstop filters with high attenuation and wide stopband have been developed. In order to realize the bandstop filter with broad stopband and great attenuation within the stopband, the coupled lines with single-ended ground have been adopted at both input and output ports. Moreover, for a greater fractional bandwidth, a higher impedance ratio Z(e)/Z(o) of the adopted coupled lines is required. The bandstop filter, with the attenuation of 40 dB and a fractional bandwidth of 60%, has been developed for applied in Ku and K bands to verify the proposed method.
+AD  - Natl Chung Cheng Univ, Dept Cummunicat Engn, 168 Univ Rd, Chiayi, TaiwanAD  - Natl Chung Cheng Univ, Dept Elect Engn, 168 Univ Rd, Chiayi, TaiwanC3  - National Chung Cheng UniversityC3  - National Chung Cheng UniversityPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 611
+EP  - 613
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600198
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  11
+ER  -
+
+TY  - CPAPER
+AU  - Kikuchi, K
+AU  - Yamamoto, H
+A1  - IEEE
+TI  - Demonstration of Accurate Evaluation Methods for High-Power GaN HEMT Die
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - High-power amplifiers
+KW  - Transistors
+KW  - Gallium nitride
+KW  - Calibration
+KW  - Electromagnetic field
+AB  - In this paper, we investigated evaluation methods for high-power transistor die, which are related to the design of test fixtures with impedance transformers and modeling of bonding wires. The results of electromagnetic field analysis using the finite element method indicated a discontinuity in the return path between the test fixture and the bonding wires. A 4-port equivalent circuit model was proposed that takes into account the inductance caused by this discontinuity, and we were able to remove the effect of the bonding wires and discontinuity in the return path from the measurement results for 70 Watt GaN HEMT die.
+AD  - Sumitomo Elect Ind Ltd, Sakae Ku, 1 Taya Cho, Yokohama, Kanagawa 2448588, JapanC3  - Sumitomo Electric IndustriesPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 187
+EP  - 189
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600062
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Zhu, YL
+AU  - Dong, YD
+AU  - Bornemann, J
+A1  - IEEE
+TI  - Dual-Band Quasi-Elliptic Filter With Wide Upper Stopband in Hybrid SIW-Microstrip Technology
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Dual-band filter
+KW  - hybrid microstrip and SIW
+KW  - high selectivity
+KW  - quasi-elliptic response
+KW  - wide stopband
+AB  - A dual-band quasi-elliptic filter with wide stopband characteristics is presented. Two single-band cross-coupled filters, which are realized in hybrid microstrip and substrate integrated waveguide (SIW) technologies, are paralleled to construct the filter. To suppress SIW higher-order modes, orthogonal feeding ports are applied. In addition, due to the staggered resonant frequencies of the microstrip and SIW resonators, the next higher-order mode can be further degraded. To demonstrate the concept, a dual-band filter prototype centered at 8 GHz and 10.5 GHz is designed, fabricated and measured. Its experimental results show good agreement with simulations, exhibiting high selectivity and wide-stopband characteristics.
+AD  - Univ Elect Sci & Technol China, Chengdu, Sichuan, Peoples R ChinaAD  - Univ Victoria, Dept Elect & Comp Engn, Victoria, BC, CanadaC3  - University of Electronic Science & Technology of ChinaC3  - University of VictoriaPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 608
+EP  - 610
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600197
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Liu, HM
+AU  - Zhang, HX
+AU  - Yu, D
+AU  - Zhao, ZM
+AU  - Wang, XS
+A1  - IEEE
+TI  - A Miniaturized Wideband Symmetric 3x3 Nolen Matrix with Phase Compensation Technique
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Nolen matrix
+KW  - wideband
+KW  - phase compensation
+KW  - miniaturization
+AB  - In the paper, a miniaturized wideband symmetric 3x3 Nolen matrix with phase compensation technique is presented. By adjusting the phase slope through three pairs of differential phase shifters, the flatness of the output ports phase differences is improved. Besides, size reduction is obtained by using trans-directional couplers. Based on the designed equations, a prototype operating at 5.8 GHz is fabricated and measured. The fractional bandwidths (FBWs) for more than 10 dB return loss and isolation are 31.21 % and 45.17 %, respectively. Under the criterions of 1-dB amplitude imbalance and 5 degrees phase derivation error, the measured FBWs are more than 20.86% and 16.03%, separately.
+AD  - Dalian Maritime Univ, Sch Informat Sci & Technol, Dalian, Peoples R ChinaC3  - Dalian Maritime UniversityFU  - Liaoning Revitalization Talents Program [XLYC2007067]; Dalian Youth Science and Technology Star Project [2020RQ007]; Fundamental Research Funds for the Central Universities [3132022245]
+FX  - This work was supported in part by the Liaoning Revitalization Talents Program under Grant XLYC2007067, in part by the Dalian Youth Science and Technology Star Project under Grant 2020RQ007 and in part by the Fundamental Research Funds for the Central Universities under Grant 3132022245.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 755
+EP  - 757
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600246
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Lanier, FP
+AU  - Sutinjo, A
+A1  - IEEE
+TI  - A Multiplexer Design Methodology for Highly Sensitive Matching Networks
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Multiplexing
+KW  - impedance matching
+KW  - passive circuits
+KW  - tunable circuits and devices
+KW  - antenna feeds
+AB  - Multiplexing several frequency bands for subsystems at VHF, UHF, and/or L-Band to a single monopole/dipole-type antenna is preferred for small satellites. However, a monopole/dipole antenna over such a frequency span will have a frequency dependent impedance that is usually low resistive highly capacitive at the lower frequencies. The low antenna resistance and high loadline match requires large impedance transformations, which means that each match becomes highly sensitive. This paper presents a methodology to multiplex matching network to a common antenna port that manages the matching network sensitivity. The design and measurement results are also presented for an example triplexer circuit.
+AD  - Curtin Univ, Curtin Inst Radio Astron, Perth, WA, AustraliaC3  - Curtin UniversityPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 205
+EP  - 207
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600068
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  6
+ER  -
+
+TY  - CPAPER
+AU  - Desta, N
+AU  - Cohen, E
+A1  - IEEE
+TI  - A 0.15 um Depletion Mode GaN Bootstrapped N-path Filter with 23dBm Inband Blocker Handling
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Gallium nitride
+KW  - linearity
+KW  - N-path filters
+AB  - This paper suggests linearity improvement of N-path filters, using a Depletion mode (D-mode) 0.15um GaN process. GaN has a high breakdown voltage which can support large powers. By simulating one port 4-path filter with 1 GHz LO frequency and 1.001 GHz RF input frequency (1MHz baseband), integrated with BB node bootstrap circuit based on LO and BB combination, we demonstrate a high-Q filter with 14MHz bandwidth and 14dB rejection ratio for the inband (IB) blocker of 23dBm. We also show a high linearity performance by achieving IB P1dB of 26dBm, which is 14dB higher than the same N-path without bootstrap.
+AD  - Technion, Fac Elect Engn, Haifa, IsraelC3  - Technion Israel Institute of TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 746
+EP  - 748
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600243
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Sen Hao, R
+AU  - Cheng, YJ
+A1  - IEEE
+TI  - Shared-Aperture Circularly-polarized Antenna Array with Wide Bandwidth for K/Ka-band SatCom
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Shared aperture
+KW  - antenna array
+KW  - circular polarization
+KW  - satellite communication
+AB  - a K/Ka-band shared-aperture antenna array is presented in this paper. The antenna array has the properties of dual wide bandwidths, orthogonal circular polarizations, and a high isolation. Wideband endfire elements are used as the radiator. A new topology is proposed to arrange the elements in a uniform distribution and with sufficient areas. The cut-off property of the substrate integrated waveguide (SIW) and the stripe-line filter are used to isolate the K-band and the Ka-band ports. At the same time, the isolation structures turn the out-of-band elements to be "auxiliary elements". With the "auxiliary elements", the mutual-coupling between K- and Ka-band radiators are utilized to achieve circular polarization.
+AD  - Univ Elect Sci & Technol China, EHF Key Lab Fundamental Sci, Sch Elect Sci & Engn, 2006 Xiyuan Ave, Chengdu 611731, Sichuan, Peoples R ChinaC3  - University of Electronic Science & Technology of ChinaFU  - National Key Research and Development Plan of China [2020YFB1806202]; Stable Support of Defense Technology and Industry Agency; National Defense Pre-Research Foundation of China
+FX  - This work is supported in part by National Key Research and Development Plan of China under Grant 2020YFB1806202, in part by the Stable Support of Defense Technology and Industry Agency, in part by National Defense Pre-Research Foundation of China (Insightful Plan).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 154
+EP  - 156
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600051
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Yoshida, T
+AU  - Honjo, K
+AU  - Ishikawa, R
+A1  - IEEE
+TI  - DC Voltage Synthesis of 2.45-GHz-Band Sub-mW High-Efficiency Rectifier using Zero-Threshold GaAs HEMTs
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - wireless power transfer
+KW  - rectifier
+KW  - zero-threshold GaAs HEMT
+KW  - DC voltage synthesis
+KW  - sub mW
+AB  - In order to obtain a sufficient DC output voltage, a DC voltage synthesis configuration has been developed by using sub-mW-class high-efficiency zero-threshold GaAs HEMT rectifiers at the2.45-GHz band. A sub-mW-class high-efficiency rectifier has been successfully realized based on a resonance control technique for a small-signal condition. In addition, a cold-start operation was also realized by using a zero-threshold GaAs HEMT. By connecting the DC output ports of the GaAs HEMT rectifiers in series, a DC output voltage synthesis rectifier has been constructed. The fabricated rectifier exhibited an equivalent RF-to-DC power conversion efficiency of 67% and a DC output voltage of 2.1 V at each input power of 0 dBm.
+AD  - Univ Electrocommun, 1-5-1 Chohugaoka, Tokyo 1828585, JapanC3  - University of Electro-Communications - JapanFU  - JST CREST [JPMJCR20Q1]
+FX  - This work was supported by JST CREST grant number JPMJCR20Q1, Japan.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 572
+EP  - 574
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600186
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  5
+ER  -
+
+TY  - CPAPER
+AU  - Regalia, P
+AU  - Kumar, AVP
+A1  - IEEE
+TI  - A Microwave Dielectric Resonator based Sensor for Detecting both Linear and Angular Displacements
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Microstrip line
+KW  - Dielectric resonator
+KW  - Reflection coefficient
+KW  - Fixed frequency sensor
+KW  - Displacement sensor
+AB  - Authors propose a microwave dielectric resonator (DR) based displacement sensor for detecting both linear and angular displacements. To enable this, a cylindrical dielectric resonator loaded with a metal strip is coupled to a 50 Omega open ended microstrip line. For this circuit, the magnitude of reflection coefficient (vertical bar S-11 vertical bar) at the microstrip port is sensitive to both the linear and angular displacements of the DR with respect to the open end of the line. Both numerical simulation and measurements are carried out to demonstrate the feasibility of the sensor. The proposed sensor provides 17 dB/mm sensitivity in 0-2 mm range, and -3.5 dB/mm in 2-10 mm range. For the same, the angular displacement sensitivity is 0.45 dB/(0) over the range of 0-90 degrees.
+AD  - Birla Inst Technol & Sci BITS, Dept Elect & Elect Engn, Pilani Campus, Pilani 333031, Rajasthan, IndiaC3  - Birla Institute of Technology & Science Pilani (BITS Pilani)FU  - Department of Science and Technology (DST), Govt. of India [EMR/2017/001126]; DST-FIST [SR/FST/ETI-346/2013]
+FX  - This work was supported by the Department of Science and Technology (DST), Govt. of India, through the Science and Engineering Research Board (SERB) grant Ref. EMR/2017/001126, and partly by the DST-FIST grant Ref: SR/FST/ETI-346/2013.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 533
+EP  - 535
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600173
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Sudo, K
+AU  - Mikase, R
+AU  - Taguchi, Y
+AU  - Takizawa, K
+AU  - Sato, Y
+AU  - Sato, K
+AU  - Hayafuji, H
+AU  - Ohira, M
+A1  - IEEE
+TI  - A 28 GHz Band Dual-Polarized LTCC Filtering Antenna with Extracted-pole Unit
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - mobile communication
+KW  - millimeter wave antennas
+KW  - bandpass filters
+AB  - This paper proposes a dual-polarized filtering antenna with extracted-pole unit (EPU) using LTCC substrate. The EPU realizes the high skirt characteristic of the bandpass filter with transmission zeros (TZs) located near the passband without cross coupling. The filtering antenna with EPU is designed and fabricated in 28 GHz band for 5G Band-n257 (26.5-29.5 GHz). The measured S-11 is less than -10.6 dB in Band-n257, and the isolation between two ports for dual polarization is greater than 20.0 dB. The measured peak antenna gain is 4.0 dBi at 28.8 GHz and the gain is larger than 2.5 dBi in Band-n257. The frequency characteristics of the measured antenna gain shows the high skirt characteristic out of band, which is in good agreement with electromagnetic (EM)-simulated results.
+AD  - Murata Mfg Co Ltd, Kyoto, JapanAD  - Saitama Univ, Grad Sch Sci & Engn, Saitama, JapanC3  - Murata Manufacturing Co LtdC3  - Saitama UniversityPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 306
+EP  - 308
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600100
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  9
+ER  -
+
+TY  - CPAPER
+AU  - Ishihara, K
+AU  - Saitou, A
+AU  - Honjo, K
+AU  - Ishikawa, R
+A1  - IEEE
+TI  - Optimizations of Curvature of Concave Reflectors and Feed-Point Azimuths of Loop Antennas for Long-Range OAM Communication
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Orbital angular momentum
+KW  - multiplexing
+KW  - loop antenna
+KW  - paraboloid
+KW  - ORBITAL ANGULAR-MOMENTUM
+AB  - The signal-to-interference ratio (SIR) on a 4-channel orbital angular momentum (OAM) multiplex long-range communication system with 12-GHz loop antennas has been successfully improved by using curvature optimized concave reflectors. To equally concentrate each power of OAM waves with mode-dependent diffraction into the receiving area, the curvature of the reflector was optimized by simulation for a reflector radius of 15 cm and a communication distance of 70 cm. In addition, by optimizing combination for the port directions of the loop antennas, transmissions of interference waves are suppressed in the long-range OAM communication. With the fabricated loop antenna arrays and the optimized reflectors, performance for OAM communication is estimated at a communication distance of 70 cm. Measured transmissions of the worst-value signal waves increased by more than 6.5 dB and measured worst-value SIR improved by 9.9 dB.
+AD  - Univ Electrocommun, Dept Comp & Network Engn, 1-5-1 Chofugaoka, Chofu, Tokyo, JapanC3  - University of Electro-Communications - JapanFU  - Ministry of Internal Affairs and Communications, Japan [225003001]
+FX  - This work is partly funded by Ministry of Internal Affairs and Communications, Japan, for SCOPE Programme (225003001).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 393
+EP  - 395
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600128
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  5
+ER  -
+
+TY  - CPAPER
+AU  - Yang, L
+AU  - Psychogiou, D
+AU  - Gomez-Garcia, R
+A1  - IEEE
+TI  - High-Order Input-Reflectionless Quasi-Elliptic-Type Wideband Bandpass Filter Using Dual-Mode Slotline Resonator
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Absorptive filter
+KW  - bandpass filter (BPF)
+KW  - two-layer structure
+KW  - reflectionles filter
+KW  - wideband filter
+AB  - A high-order input-reflectionless quasi-elliptic-type wideband bandpass filter (BPF) that exploits a complementary-diplexer-based topology is reported. Firstly, a fourth-order wideband microstrip-to-microstrip vertical transition employing a dual-mode slotline resonator as the reflective-type BPF channel is designed. It features a sharp-rejection BPF response with two close-to-passband transmission zeros (TZs). To attain broadband input-reflectionless behavior, a shunt resistively-terminated microstrip pi-shape network is used as the absorptive bandstop-filter (BSF) channel. The RF theoretical operational principle of the conceived broadband BPF is detailed. Compared to prior-art high-order input-/two-port-reflectionless wideband BPFs, the proposed BPF features not only improved passband flatness at the passband edges, but also relatively-high stopband power-attenuation levels and power-absorption ratios. For experimental-validation purposes, a two-layer fourth-order BPF microstrip prototype centered at 1 GHz is developed and tested.
+AD  - Univ Alcala, Dept Signal Theory & Commun, Madrid 28871, SpainAD  - Univ Coll Cork, Sch Engn, Cork T12 K8AF, IrelandC3  - Universidad de AlcalaC3  - University College CorkFU  - EU [754382]; Spanish Ministry of Science and Innovation (State Research Agency) [PID2020-116983RB-I00]
+FX  - This work was supported in part by the GOT ENERGY TALENT (GET) fellowship programme cofunded by the EU as part of the H2020-MSCACOFUND programme under Grant Agreement number 754382 and in part by the Spanish Ministry of Science and Innovation (State Research Agency) under Project PID2020-116983RB-I00.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 455
+EP  - 457
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600147
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Kamidaki, C
+AU  - Okuyama, Y
+AU  - Kubo, T
+AU  - Lee, W
+AU  - Ozdag, C
+AU  - Sadhu, B
+AU  - Yamaguchi, Y
+AU  - Guan, N
+A1  - IEEE
+TI  - A 24-30 GHz Power Amplifier with > 20 dBm Psat and < 0.1 dB AM-AM Distortion for 5G Applications
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - 5G
+KW  - mm-wave
+KW  - power amplifier
+KW  - SiGe BiCMOS tecnology
+KW  - EVM
+KW  - ACLR
+KW  - PAE
+KW  - AM-AM
+AB  - This paper presents a power amplifier (PA) designed as a part of a transceiver front-end fabricated in 0.13-mu m SiGe BiCMOS. The PA shares its output antenna port with a low noise amplifier using a transmission/reception switch. The output matching network of the PA is designed to provide high output power, low AM-AM distortion, and uniform performance over frequencies in the range of 24.25-29.5 GHz. Measurements of the front-end in TX mode demonstrate peak S-21 of 30.3 dB at 26.7 GHz, S-21 3-dB bandwidth of 9.8 GHz from 22.2 to 32.0 GHz, and saturated output power (P-sat) above 20 dBm with power-added efficiency (PAE) above 22% from 24 to 30 GHz. For a 64-QAM 400 MHz bandwidth OFDM signal, -25 dBc EVM is measured at an average output power of 12.3 dBm and average PAE of 8.8%. The PA achieves a competitive ITRS FoM of 92.9.
+AD  - Fujikura Ltd, Elect Technol R&D Ctr, Sakura, Chiba, JapanAD  - IBM TJ Watson Res Ctr, Yorktown Hts, NY USAC3  - Fujikura LtdC3  - International Business Machines (IBM)PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 273
+EP  - 275
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600090
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Setiawan, A
+AU  - Yonemoto, N
+AU  - Nohmi, H
+AU  - Murata, H
+A1  - IEEE
+TI  - Analysis of Millimeter-Wave Imaging Using Dielectric Lens for Fourier Transformation
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - millimeter wave
+KW  - lens
+KW  - imaging
+KW  - fourier transforms
+AB  - Millimeter-waves (mmW) have the advantages to penetrate clothes and are safe for the human body which is suitable for use in public spaces for security applications. In this paper, analysis of single-frequency imaging in mmW with Fast Fourier Transform (FFT) by using a lens is introduced. Concept of imaging by collecting amplitudes and phases of the signals from the aperture after passing through a lens is given. Results show a noticeable two-dimensional image of reconstructed objects involving FFT for millimeter-wave imaging which coincided with the W-band imaging experimental results.
+AD  - Mie Univ, Grad Sch Engn, Tsu, Mie 5148507, JapanAD  - Natl Inst Maritime Port & Aviat Technol, Elect Nav Res Inst, 7-42-23 Jindaiji Higashi, Chofu, Tokyo 1820012, JapanAD  - Alouette Technol Inc, 3-2-24 Shimorenjaku, Mitaka, Tokyo 1810013, JapanAD  - Natl Res & Innovat Agcy, Bandung, IndonesiaC3  - Mie UniversityFU  - MIC, Japan [JPJ000254]
+FX  - This work was supported by the MIC, Japan through the project entitled "Research and Development of radar fundamental technology for advanced recognition of moving objects for security enhancement (JPJ000254).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 339
+EP  - 341
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600111
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+

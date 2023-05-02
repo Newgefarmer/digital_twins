@@ -1,0 +1,271 @@
+﻿TY  - JOUR
+AU  - Wang, K
+AU  - Hu, QQ
+AU  - Zhou, MJ
+AU  - Zun, Z
+AU  - Qian, XM
+TI  - Multi-aspect applications and development challenges of digital twin-driven management in global smart ports
+T2  - CASE STUDIES ON TRANSPORT POLICY
+LA  - English
+KW  - Digital twin
+KW  - Smart port
+KW  - Visual-based management
+KW  - Digital twin model
+KW  - Systematic framework
+KW  - WIRELESS COMMUNICATION
+KW  - INDUSTRIAL INTERNET
+KW  - IMPLEMENTATION
+KW  - SUPPORT
+KW  - SYSTEMS
+KW  - BIM
+KW  - INTEGRATION
+KW  - AUTOMATION
+KW  - OPERATION
+KW  - FRAMEWORK
+AB  - Digital twin (DT) creates a revolutionary opportunity for the smart ports' authorities, with the capability of high-fidelity digital representation of real-world things. DT-driven management is able to predict potential risk, it is considered to be a key integration involves transport and operation related with smart port supply chains. This paper presents DT information visualizations & outcome loop of global smart ports' management, and core technique towards smart ports' processes based on DT-driven management. A systematic framework of DT-based model for smart port's management is presented, which can be categorized into physical layer, data layer, model layer, service layer and application layer. Decision-makers engage in operational management through the DT-based models and platform. To illustrate DT mechanism, multi-aspect functional applications of DT-driven management are discussed, including cargo handling and transportation, containers operation and storage, data communication and sharing, risk prediction, and environmental protection in global smart ports. Meanwhile, this paper proposes concerned challenges of DT-driven management integrated with optimized cross-platform in smart ports' processes, to indicate there are barriers ahead to get to an ideal visual-based management system. Current challenges help decision-makers to determine where to find a proper strategy to win, in the future, DT visual applications can be extended in several directions of global port industry. This work contributes to address a comprehensive overview of DT managing capabilities together with details of necessary architecture to support effective simulations in virtual port's space. It provides DT-driven platform will enable better management across the smart port activities from design to transport to operation and sustainment of innovative plan.
+AD  - Shanghai Maritime Univ, Coll Ocean Sci & Engn, Shanghai, Peoples R ChinaAD  - Shanghai Maritime Univ, Dept Safety Sci & Engn, Shanghai, Peoples R ChinaAD  - Shanghai Maritime Univ, Marine Publ Safety Res Ctr, Shanghai, Peoples R ChinaAD  - Beijing Inst Technol, Sch Mechatron Engn, Beijing, Peoples R ChinaC3  - Shanghai Maritime UniversityC3  - Shanghai Maritime UniversityC3  - Shanghai Maritime UniversityC3  - Beijing Institute of TechnologyFU  - Shanghai Key Projects of Soft Science [20692193100]; National Natural Science Foundation of China [52001196]; State Key Laboratory of Explosion Science and Technology in BIT, China Institute of Communications Education [JTYB20-60]
+FX  - This work is financially sponsored by Shanghai Key Projects of Soft Science (20692193100) and National Natural Science Foundation of China (52001196). Kan WANG acknowledges State Key Laboratory of Explosion Science and Technology in BIT, China Institute of Communications Education (JTYB20-60) for providing supporting. More importantly, the authors would like to gratefully acknowledge the editors and reviewers for the valuable suggestions and comments.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2213-624X
+SN  - 2213-6258
+J9  - CASE STUD TRANSP POL
+JI  - Case Stud. Transp. Policy
+DA  - SEP
+PY  - 2021
+VL  - 9
+IS  - 3
+SP  - 1298
+EP  - 1312
+DO  - 10.1016/j.cstp.2021.06.014
+C6  - AUG 2021
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000687100100001
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  93
+ER  -
+
+TY  - JOUR
+AU  - Yang, WQ
+AU  - Bao, XY
+AU  - Zheng, Y
+AU  - Zhang, L
+AU  - Zhang, ZQ
+AU  - Zhang, Z
+AU  - Li, L
+TI  - A digital twin framework for large comprehensive ports and a case study of Qingdao Port
+T2  - INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY
+LA  - English
+KW  - Digital twin
+KW  - Smart port
+KW  - Cyber-physical system
+KW  - Ubiquitous sensing
+KW  - Data mapping and fusion
+KW  - CHALLENGES
+KW  - MANAGEMENT
+AB  - The increase in port scale and business complexity has led to an increased demand for comprehensive and lean control on ports. The current operation mode is facing the bottleneck of the increasingly significant production efficiency and performance. Digital twin (DT) technology realizes holographic visual management and control patterns using cyber-physical fusion and promotes the transformation of a port to an intelligent operation mode. In this paper, the framework of a digital twin application system is proposed based on the analysis of business characteristics of large-scale comprehensive ports. Construction methods and technologies such as digital twin modeling, global ubiquitous perception, data mapping, and model fusion are analyzed. With regard to the construction needs of Qingdao Port's digital twin system, this paper presents a case study and illustrates the overall design process and function of the digital twin system for typical terminals. The system realizes the intelligent operation of the port with the core functions of three-dimensional visual monitoring and optimal dispatching based on real-time perception data. This paper serves as a feasible reference for future intelligent development of large ports and the application of digital twin technology.
+AD  - Shanghai Jiao Tong Univ, Sch Mech Engn, Bldg Mech Engn,Room A715,DongChuan Rd 800, Shanghai 200240, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, Inst Smart Mfg & Informat Engn, Shanghai, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, Shanghai Key Lab Adv Mfg Environm, Shanghai, Peoples R ChinaAD  - Qingdao Port Int Co Ltd, Qingdao 266011, Peoples R ChinaAD  - Qingdao Co Ltd, Shandong Port Technol Grp, Qingdao 266011, Peoples R ChinaAD  - China Waterborne Transport Res Inst, Beijing 100088, Peoples R ChinaC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityFU  - National Key R&D Program of China [2020YFB1710802]; Shanghai Key lab of Advanced Manufacturing Environment
+FX  - This work is sponsored by National Key R & D Program of China (No. 2020YFB1710802) and Shanghai Key lab of Advanced Manufacturing Environment.
+PU  - SPRINGER LONDON LTD
+PI  - LONDON
+PA  - 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN  - 0268-3768
+SN  - 1433-3015
+J9  - INT J ADV MANUF TECH
+JI  - Int. J. Adv. Manuf. Technol.
+DO  - 10.1007/s00170-022-10625-1
+C6  - DEC 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000899101200001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  34
+ER  -
+
+TY  - CPAPER
+AU  - Emanuele, A
+AU  - Anastasiia, R
+AU  - Roberto, R
+AU  - Sergey, S
+ED  - Fujita, H
+ED  - Fournier-Viger, P
+ED  - Ali, M
+ED  - Wang, Y
+TI  - An Agenda on the Employment of AI Technologies in Port Areas: The TEBETS Project
+T2  - ADVANCES AND TRENDS IN ARTIFICIAL INTELLIGENCE: THEORY AND PRACTICES IN ARTIFICIAL INTELLIGENCE
+LA  - English
+CP  - 35th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE)
+KW  - Simulation
+KW  - Anylogic
+KW  - Microsoft Project Bonsai
+KW  - Port safety
+AB  - This paper presents the agenda extending the project reported at the International Maritime Transport and Logistics Conference "Marlog 10" in 2021. Within the framework of the Smart Port model project proposed by the European Union institutions, we examined the control model of the port of Genoa and the digital twin representation of the Terminal San Giorgio. The application of digital technologies to intermodal systems like ports and harbors would give highly positive results in terms of efficiency and effectiveness. The resources employed were a Digital Twin realized with the Optimize software, a simulation developed through Anylogic, a tracking system operated by OpenGTS, and an AI platform developed through Bonsai. In addition, we have considered the libraries that, in our opinion, are necessary when designing a port simulation model. Our proposed model includes loading, unloading, storage planning, and other operations taking place at the port of Genoa. The article presents various agents which play a fundamental role in the simulation.
+AD  - Univ Genoa, I-16100 Genoa, ItalyAD  - Bauman Moscow State Tech Univ, Moscow 105005, RussiaC3  - University of GenoaC3  - Bauman Moscow State Technical UniversityPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-08530-7
+SN  - 978-3-031-08529-1
+J9  - LECT NOTES ARTIF INT
+PY  - 2022
+VL  - 13343
+SP  - 633
+EP  - 647
+DO  - 10.1007/978-3-031-08530-7_53
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000876774100053
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  22
+ER  -
+
+TY  - JOUR
+AU  - Senthilnathan, K
+AU  - Annapoorani, I
+TI  - Multi-Port Current Source Inverter for Smart Microgrid Applications: A Cyber Physical Paradigm
+T2  - ELECTRONICS
+LA  - English
+KW  - cyber physical systems
+KW  - dual output inverter
+KW  - rapid control prototype
+KW  - SLIDING MODE CONTROL
+KW  - DIGITAL TWIN
+KW  - SYSTEM
+KW  - VULNERABILITIES
+KW  - IMPLEMENTATION
+KW  - CHALLENGES
+KW  - INTERNET
+AB  - This paper presents a configuration of dual output single-phase current source inverter with six-switches for microgrid applications. The inverter is capable of delivering power to two independent set of loads of equal voltages or different voltages at the load end. The control strategy is based on integral sliding mode control (ISMC). The cyber twin model-based test bench is developed to analyze the performance of the inverter. The cyber twin is a virtual model of the physical system to simulate behaviours. The performance of the inverter is analyzed with a cyber twin model and monitored through the remote system. Also, the inverter is analyzed with different voltage conditions.
+AD  - Vellore Inst Technol, Sch Elect Engn, Chennai 600127, Tamil Nadu, IndiaC3  - Vellore Institute of Technology (VIT)C3  - VIT ChennaiPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2079-9292
+J9  - ELECTRONICS-SWITZ
+JI  - Electronics
+DA  - JAN
+PY  - 2019
+VL  - 8
+IS  - 1
+C7  - 1
+DO  - 10.3390/electronics8010001
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000457142800001
+N1  - Times Cited in Web of Science Core Collection:  10
+Total Times Cited:  12
+Cited Reference Count:  41
+ER  -
+
+TY  - CPAPER
+AU  - Zhu, H
+AU  - Guo, YJ
+A1  - IEEE
+TI  - Compact and Wideband Filtering Power Dividers with Arbitrary and Constant Output Phase Difference
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Arbitrary phase difference
+KW  - compact
+KW  - filtering
+KW  - phase shifter
+KW  - power divider
+KW  - pi-shaped structure
+KW  - wideband
+KW  - Wilkinson
+AB  - This paper presents a wideband filtering power divider with arbitrary phase difference between two output ports. Different from the traditional Wilkinson power dividers, this structure utilizes two pi-shaped structures to replace the quarter-wavelength transmission lines. Based on the pi-shaped structure, the phase characteristics can be modified without affecting the magnitude of the transmission coefficient. As a result, the phase difference between output ports can be changed to a non-zero value. A planar design is modelled, simulated, fabricated and measured to verify the design concept.
+AD  - Univ Technol Sydney, Global Big Data Technol Ctr, 81 Broadway, Ultimo, NSW 2007, AustraliaC3  - University of Technology SydneyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 788
+EP  - 790
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600257
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Kameya, M
+AU  - Gofuku, E
+AU  - Nakamura, K
+A1  - IEEE
+TI  - Impact of Differential-mode Noise Converted from External RF Noise on Differential Transmission and its Reduction by Differential Signal Balancer
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Common-mode filter
+KW  - Differential-mode noise
+KW  - External RF noise
+KW  - Glass cloth
+KW  - Mode-conversion
+KW  - RF interference
+AB  - The impact of differential-mode noise converted from RF noise applied to the differential transmission line channel (DTLC) due to the common-mode filter (CMF) and glass cloth in the DTLC substrate is analyzed. The differential mode noise generated in DTLC with CMF is measured with a 4-port network analyzer. Based on this measurement result, the influence of glass cloth is incorporated into the electromagnetic simulation model of DTLC. By applying this DTLC model to circuit analysis, the suitability of various CMFs as solutions for RF interference is evaluated.
+AD  - Kyushu Inst Technol, Ctr Microelect Syst, 680-4 Kawazu, Iizuka, Fukuoka 8208502, JapanC3  - Kyushu Institute of TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 202
+EP  - 204
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600067
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Kikuchi, K
+AU  - Yamamoto, H
+A1  - IEEE
+TI  - Demonstration of Accurate Evaluation Methods for High-Power GaN HEMT Die
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - High-power amplifiers
+KW  - Transistors
+KW  - Gallium nitride
+KW  - Calibration
+KW  - Electromagnetic field
+AB  - In this paper, we investigated evaluation methods for high-power transistor die, which are related to the design of test fixtures with impedance transformers and modeling of bonding wires. The results of electromagnetic field analysis using the finite element method indicated a discontinuity in the return path between the test fixture and the bonding wires. A 4-port equivalent circuit model was proposed that takes into account the inductance caused by this discontinuity, and we were able to remove the effect of the bonding wires and discontinuity in the return path from the measurement results for 70 Watt GaN HEMT die.
+AD  - Sumitomo Elect Ind Ltd, Sakae Ku, 1 Taya Cho, Yokohama, Kanagawa 2448588, JapanC3  - Sumitomo Electric IndustriesPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 187
+EP  - 189
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600062
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Yang, MY
+AU  - Wu, RB
+A1  - IEEE
+TI  - Optimal Design for Acoustic Wave SAW Extractor with Simple Matching Circuits
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - SAW
+KW  - Optimization
+KW  - Extractor
+KW  - Cellular mid/high band (MHB)
+KW  - Wi-Fi
+AB  - This study applies the optimization approach to design a SAW extractor in a broadband RF module, which demonstrates bandpass and bandstop features in the in-band to two output ports, while bandstop and bandpass features, respectively, in the out of bands. The extractor is formed by eight SAW resonators based on mBVD model and simple matching circuits of two inductors. Compared with the commercially available product, the designed SAW extractor can meet the stringent product specifications in the frequency range of 0.7GHz similar to 2.7GHz
+AD  - Natl Taiwan Univ, Dept Grad Inst Commun Engn, Taipei 10617, TaiwanAD  - Natl Taiwan Univ, Dept Elect Engn, Taipei 10617, TaiwanC3  - National Taiwan UniversityC3  - National Taiwan UniversityFU  - Ministry of Science and Technology, Taiwan [MOST 109-2221-E-002-172-MY3]
+FX  - This study is partly supported by the Ministry of Science and Technology, Taiwan, under Grant MOST 109-2221-E-002-172-MY3
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 776
+EP  - 778
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600253
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+

@@ -1,0 +1,2746 @@
+﻿TY  - JOUR
+AU  - Yang, WQ
+AU  - Bao, XY
+AU  - Zheng, Y
+AU  - Zhang, L
+AU  - Zhang, ZQ
+AU  - Zhang, Z
+AU  - Li, L
+TI  - A digital twin framework for large comprehensive ports and a case study of Qingdao Port
+T2  - INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY
+LA  - English
+KW  - Digital twin
+KW  - Smart port
+KW  - Cyber-physical system
+KW  - Ubiquitous sensing
+KW  - Data mapping and fusion
+KW  - CHALLENGES
+KW  - MANAGEMENT
+AB  - The increase in port scale and business complexity has led to an increased demand for comprehensive and lean control on ports. The current operation mode is facing the bottleneck of the increasingly significant production efficiency and performance. Digital twin (DT) technology realizes holographic visual management and control patterns using cyber-physical fusion and promotes the transformation of a port to an intelligent operation mode. In this paper, the framework of a digital twin application system is proposed based on the analysis of business characteristics of large-scale comprehensive ports. Construction methods and technologies such as digital twin modeling, global ubiquitous perception, data mapping, and model fusion are analyzed. With regard to the construction needs of Qingdao Port's digital twin system, this paper presents a case study and illustrates the overall design process and function of the digital twin system for typical terminals. The system realizes the intelligent operation of the port with the core functions of three-dimensional visual monitoring and optimal dispatching based on real-time perception data. This paper serves as a feasible reference for future intelligent development of large ports and the application of digital twin technology.
+AD  - Shanghai Jiao Tong Univ, Sch Mech Engn, Bldg Mech Engn,Room A715,DongChuan Rd 800, Shanghai 200240, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, Inst Smart Mfg & Informat Engn, Shanghai, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, Shanghai Key Lab Adv Mfg Environm, Shanghai, Peoples R ChinaAD  - Qingdao Port Int Co Ltd, Qingdao 266011, Peoples R ChinaAD  - Qingdao Co Ltd, Shandong Port Technol Grp, Qingdao 266011, Peoples R ChinaAD  - China Waterborne Transport Res Inst, Beijing 100088, Peoples R ChinaC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityC3  - Shanghai Jiao Tong UniversityFU  - National Key R&D Program of China [2020YFB1710802]; Shanghai Key lab of Advanced Manufacturing Environment
+FX  - This work is sponsored by National Key R & D Program of China (No. 2020YFB1710802) and Shanghai Key lab of Advanced Manufacturing Environment.
+PU  - SPRINGER LONDON LTD
+PI  - LONDON
+PA  - 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN  - 0268-3768
+SN  - 1433-3015
+J9  - INT J ADV MANUF TECH
+JI  - Int. J. Adv. Manuf. Technol.
+DO  - 10.1007/s00170-022-10625-1
+C6  - DEC 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000899101200001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  34
+ER  -
+
+TY  - JOUR
+AU  - Zhou, Y
+AU  - Fu, ZK
+AU  - Zhang, J
+AU  - Li, WF
+AU  - Gao, CY
+TI  - A Digital Twin-Based Operation Status Monitoring System for Port Cranes
+T2  - SENSORS
+LA  - English
+KW  - digital twin
+KW  - port crane
+KW  - monitoring system
+KW  - anti-swing control
+KW  - data interaction
+KW  - MACHINE-TOOLS
+KW  - OPC UA
+KW  - TECHNOLOGY
+AB  - To address the problems of the lack of an online data simulation test environment, the poor openness of data collection, and the low degree of data visualization in the online control process of port cranes, an operation state monitoring system framework for port cranes based on digital twins is proposed. In this framework, the digital twin port crane is used as the core, and the multi-sensor data acquisition method, OPC UA information model, and plug-in programming method are combined to realize multi-source heterogeneous virtual and real data fusion. The digital twin crane monitoring system based on this framework can fulfil the following functions: crane historical operation process reproduction, control program simulation testing, synchronous mapping simulation, and remote control. In order to verify the proposed method, a digital twin-based physical platform for monitoring a rail-mounted gantry crane (RMGC) was built, in which a virtual test of anti-swing control and a digital twin monitoring experiment were carried out. The results show that the virtual RMGC can test the control algorithm and map the movement process of the physical RMGC, and the crane operation monitoring system has high real-time performance and good visualization effect. In addition, the remote control of the software platform is accurate and effective.
+AD  - Wuhan Univ Technol, Sch Transportat & Logist Engn, Wuhan 430063, Peoples R ChinaAD  - Huazhong Univ Sci & Technol, Natl NC Syst Engn Res Ctr, Wuhan 430074, Peoples R ChinaC3  - Wuhan University of TechnologyC3  - Huazhong University of Science & TechnologyFU  - National Key Research and Development Program of China [2019YFB1600400]
+FX  - This work was financially supported by National Key Research and Development Program of China, the grant number 2019YFB1600400.
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 1424-8220
+J9  - SENSORS-BASEL
+JI  - Sensors
+DA  - MAY
+PY  - 2022
+VL  - 22
+IS  - 9
+C7  - 3216
+DO  - 10.3390/s22093216
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000794709300001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  37
+ER  -
+
+TY  - JOUR
+AU  - Zhou, CH
+AU  - Xu, J
+AU  - Miller-Hooks, E
+AU  - Zhou, WW
+AU  - Chen, CH
+AU  - Lee, LH
+AU  - Chew, EP
+AU  - Li, HB
+TI  - Analytics with digital-twinning: A decision support system for maintaining a resilient port
+T2  - DECISION SUPPORT SYSTEMS
+LA  - English
+KW  - Port resilience
+KW  - Digital-twinning-driven analytics
+KW  - Decision support systems
+KW  - Port performance
+KW  - Simulation-optimization
+KW  - Maritime transport
+KW  - SIMULATION BUDGET ALLOCATION
+KW  - CONTAINER
+KW  - OPTIMIZATION
+KW  - PERFORMANCE
+KW  - OPERATIONS
+KW  - TRANSPORTATION
+KW  - EFFICIENCY
+KW  - FRAMEWORK
+AB  - In this paper, a Decision Support System (DSS) with digital twinning-based resilience analysis is proposed as a modern tool for port resilience computation and updating. The proposed DSS assesses the resilience of a port under possible disruptive events given its design, operations and potential pre-defined post-event recovery actions to mitigate the impact of the disruption. Digital twinning provides the fidelity required to realistically predict port performance with taken post-event recovery actions under various possible disruptive events. In addition to hedging against impacts from probabilistically known disruption events, this approach also enables inclusion of ordinary operational uncertainties within the resilience evaluation. This is not generally feasible with other existing resilience quantification approaches. To tackle computational challenges of applying a digital twin for real-world size applications, an optimal computing budget allocation policy is adopted to improve computational efficiency. Results of numerical experiments using a real-world size port demonstrate the effectiveness of the proposed DSS and criticality of accounting for ordinary uncertainties in operations in resilience estimation.
+AD  - Natl Univ Singapore, Dept Ind Syst Engn & Management, Singapore, SingaporeAD  - George Mason Univ, Dept Syst Engn & Operat Res, Fairfax, VA 22030 USAAD  - George Mason Univ, Dept Civil Environm & Infrastruct Engn, Fairfax, VA 22030 USAAD  - Natl Univ Singapore, Ctr Maritime Studies, Singapore, SingaporeC3  - National University of SingaporeC3  - George Mason UniversityC3  - George Mason UniversityC3  - National University of SingaporeFU  - Singapore Maritime Institute [SMI2018PE01]; Air Force Office of Scientific Research [FA95501910383]; National Science Foundation [DMS1923145]; National Natural Science Foundation of China [71720107003, 61603321]
+FX  - This research was made possible with funding support from Singapore Maritime Institute under grant no. SMI2018PE01, the Air Force Office of Scientific Research under grant no. FA95501910383, National Science Foundation under grant no. DMS1923145, and the National Natural Science Foundation of China under Grant 71720107003 and 61603321.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0167-9236
+SN  - 1873-5797
+J9  - DECIS SUPPORT SYST
+JI  - Decis. Support Syst.
+DA  - APR
+PY  - 2021
+VL  - 143
+C7  - 113496
+DO  - 10.1016/j.dss.2021.113496
+C6  - FEB 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000634866100002
+N1  - Times Cited in Web of Science Core Collection:  22
+Total Times Cited:  22
+Cited Reference Count:  68
+ER  -
+
+TY  - JOUR
+AU  - Wang, K
+AU  - Hu, QQ
+AU  - Zhou, MJ
+AU  - Zun, Z
+AU  - Qian, XM
+TI  - Multi-aspect applications and development challenges of digital twin-driven management in global smart ports
+T2  - CASE STUDIES ON TRANSPORT POLICY
+LA  - English
+KW  - Digital twin
+KW  - Smart port
+KW  - Visual-based management
+KW  - Digital twin model
+KW  - Systematic framework
+KW  - WIRELESS COMMUNICATION
+KW  - INDUSTRIAL INTERNET
+KW  - IMPLEMENTATION
+KW  - SUPPORT
+KW  - SYSTEMS
+KW  - BIM
+KW  - INTEGRATION
+KW  - AUTOMATION
+KW  - OPERATION
+KW  - FRAMEWORK
+AB  - Digital twin (DT) creates a revolutionary opportunity for the smart ports' authorities, with the capability of high-fidelity digital representation of real-world things. DT-driven management is able to predict potential risk, it is considered to be a key integration involves transport and operation related with smart port supply chains. This paper presents DT information visualizations & outcome loop of global smart ports' management, and core technique towards smart ports' processes based on DT-driven management. A systematic framework of DT-based model for smart port's management is presented, which can be categorized into physical layer, data layer, model layer, service layer and application layer. Decision-makers engage in operational management through the DT-based models and platform. To illustrate DT mechanism, multi-aspect functional applications of DT-driven management are discussed, including cargo handling and transportation, containers operation and storage, data communication and sharing, risk prediction, and environmental protection in global smart ports. Meanwhile, this paper proposes concerned challenges of DT-driven management integrated with optimized cross-platform in smart ports' processes, to indicate there are barriers ahead to get to an ideal visual-based management system. Current challenges help decision-makers to determine where to find a proper strategy to win, in the future, DT visual applications can be extended in several directions of global port industry. This work contributes to address a comprehensive overview of DT managing capabilities together with details of necessary architecture to support effective simulations in virtual port's space. It provides DT-driven platform will enable better management across the smart port activities from design to transport to operation and sustainment of innovative plan.
+AD  - Shanghai Maritime Univ, Coll Ocean Sci & Engn, Shanghai, Peoples R ChinaAD  - Shanghai Maritime Univ, Dept Safety Sci & Engn, Shanghai, Peoples R ChinaAD  - Shanghai Maritime Univ, Marine Publ Safety Res Ctr, Shanghai, Peoples R ChinaAD  - Beijing Inst Technol, Sch Mechatron Engn, Beijing, Peoples R ChinaC3  - Shanghai Maritime UniversityC3  - Shanghai Maritime UniversityC3  - Shanghai Maritime UniversityC3  - Beijing Institute of TechnologyFU  - Shanghai Key Projects of Soft Science [20692193100]; National Natural Science Foundation of China [52001196]; State Key Laboratory of Explosion Science and Technology in BIT, China Institute of Communications Education [JTYB20-60]
+FX  - This work is financially sponsored by Shanghai Key Projects of Soft Science (20692193100) and National Natural Science Foundation of China (52001196). Kan WANG acknowledges State Key Laboratory of Explosion Science and Technology in BIT, China Institute of Communications Education (JTYB20-60) for providing supporting. More importantly, the authors would like to gratefully acknowledge the editors and reviewers for the valuable suggestions and comments.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2213-624X
+SN  - 2213-6258
+J9  - CASE STUD TRANSP POL
+JI  - Case Stud. Transp. Policy
+DA  - SEP
+PY  - 2021
+VL  - 9
+IS  - 3
+SP  - 1298
+EP  - 1312
+DO  - 10.1016/j.cstp.2021.06.014
+C6  - AUG 2021
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000687100100001
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  93
+ER  -
+
+TY  - CPAPER
+AU  - Tesse, J
+AU  - Baldauf, U
+AU  - Schirmer, I
+AU  - Drews, P
+AU  - Saxe, S
+A1  - Assoc Informat Syst
+TI  - Extending Internet of Things Enterprise Architectures by Digital Twins Exemplified in the Context of the Hamburg Port Authority
+T2  - DIGITAL INNOVATION AND ENTREPRENEURSHIP (AMCIS 2021)
+LA  - English
+CP  - 27th Annual Americas Conference on Information Systems (AMCIS)
+KW  - Enterprise Architecture Management
+KW  - Digital Twin
+KW  - Maritime Logistics Industry
+AB  - This paper examines the influence of the Digital Twin paradigm on the concrete industry context that the Hamburg Port Authority operates in. In cooperation with the practitioner, we develop architectural extensions for a maturing Enterprise Architecture in the context of Internet of Things in the maritime logistics industry. We derive formalized learnings in the form of a Digital Twin metamodel and an architectural view that builds upon the SmartBrick paradigm from EA research, and introduces a Digital Twin layer to leverage the benefits of SmartBricks in strategic management of IoT cloud architectures.
+AD  - Univ Hamburg, Hamburg, GermanyAD  - Hamburg Port Author, Hamburg, GermanyAD  - Leuphana Univ Luneburg, Luneburg, GermanyAD  - Interface Soc, Hamburg, GermanyC3  - University of HamburgC3  - Leuphana University LuneburgPU  - ASSOC INFORMATION SYSTEMS
+PI  - ATLANTA
+PA  - P.O. BOX 2712, ATLANTA, GA 30301-2712 USA
+PY  - 2021
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000672599801015
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  29
+ER  -
+
+TY  - CPAPER
+AU  - Hofmann, W
+AU  - Branding, F
+TI  - Implementation of an IoT- and Cloud-based Digital Twin for Real-Time Decision Support in Port Operations
+T2  - IFAC PAPERSONLINE
+LA  - English
+CP  - 9th IFAC/IFIP/IFORS/IISE/INFORMS Conference on Manufacturing Modelling, Management and Control (IFAC MIM)
+KW  - Digital Twin
+KW  - Internet of Things
+KW  - Cloud Computing
+KW  - SimPy
+KW  - Maritime Economy
+KW  - SIMULATION
+KW  - TOOL
+AB  - Seaborne trade volumes are growing and the resulting traffic load on the road infrastructure in port areas calls for new solutions to improve handling and coordination of vehicles and shipments. In this contribution, a digital twin for truck dispatching operator assistance is presented, which enables the determination of optimal dispatching policies using simulation-based performance forecasts. Proprietary simulation software with limited interfaces, the application deployment in demanding industrial environments, and the integration of real-time sensor information represent three major challenges when realizing digital twin applications for logistics systems. This implementation, therefore, uses an extensible open-source simulation package and it is coupled with an IoT-platform for easy integration of real-time information. The digital twin is deployed as a cloud-based service, allowing for simple deployment and scalability. (C) 2019, IFAC (International Federation of Automatic Control) Hosting by Elsevier Ltd. All rights reserved.
+AD  - Lufthansa Ind Solut AS GmbH, Schutzenwall 1, D-22844 Norderstedt, GermanyPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2405-8963
+J9  - IFAC PAPERSONLINE
+JI  - IFAC PAPERSONLINE
+PY  - 2019
+VL  - 52
+IS  - 13
+SP  - 2104
+EP  - 2109
+DO  - 10.1016/j.ifacol.2019.11.516
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000504282400357
+N1  - Times Cited in Web of Science Core Collection:  28
+Total Times Cited:  28
+Cited Reference Count:  28
+ER  -
+
+TY  - JOUR
+AU  - Gao, YP
+AU  - Chang, DF
+AU  - Chen, CH
+AU  - Xu, ZY
+TI  - Design of digital twin applications in automated storage yard scheduling
+T2  - ADVANCED ENGINEERING INFORMATICS
+LA  - English
+KW  - Port optimization
+KW  - Automated storage yard scheduling
+KW  - Digital twin
+KW  - Simulation
+KW  - Uncertain scenarios
+KW  - DECISION-SUPPORT-SYSTEM
+KW  - CONTAINER
+KW  - STACKING
+KW  - CRANES
+AB  - A digital twin-enabled automated storage yard scheduling framework for uncertain port dispatching is proposed in this paper. Digital twin technology is employed to establish the virtual yet realistic storage yard and the connection between them. In the proposed framework, disturbed scenarios during practical operation are monitored, and real-time data is visualized in the virtual space to adapt to the time-varying environment. The proposed framework focuses on the optimization of three main resources, viz. storage area, automated stacking cranes (ASCs), and automated guided vehicles (AGVs). In addition, three key technologies, the Internet of Things (IoT), virtual reality, and digital thread, are adopted to develop the proposed scheduling system. A case study of ASC rescheduling due to dynamic arrival is used to demonstrate the effectiveness of the proposed framework and the significance of obtaining uncertainties in port optimization. Sensitivity analysis is conducted to define the appropriate configuration required to handle all tasks. The results show that digital twin applications in automated storage yard scheduling help operators make optimization decisions.
+AD  - Shanghai Maritime Univ, Inst Logist Sci & Engn, 1550 Haigang Ave, Shanghai 201306, Peoples R ChinaAD  - Nanyang Technol Univ, Sch Mech & Aerosp Engn, 50 Nanyang Ave, Singapore 639798, SingaporeC3  - Shanghai Maritime UniversityC3  - Nanyang Technological University & National Institute of Education (NIE) SingaporeC3  - Nanyang Technological UniversityFU  - National Key Research and Devel-opment Plan of China [2019YFB1704403]; Shanghai Maritime University Graduate Outstanding Creative Talent Training Program [2019YBR014]; China Scholarship Council
+FX  - Acknowledgment This work was supported by the National Key Research and Devel-opment Plan of China (No. 2019YFB1704403) , Shanghai Maritime University Graduate Outstanding Creative Talent Training Program (No. 2019YBR014) and the China Scholarship Council.
+PU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 1474-0346
+SN  - 1873-5320
+J9  - ADV ENG INFORM
+JI  - Adv. Eng. Inform.
+DA  - JAN
+PY  - 2022
+VL  - 51
+C7  - 101477
+DO  - 10.1016/j.aei.2021.101477
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000798568700008
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  38
+ER  -
+
+TY  - JOUR
+AU  - Gerlitz, L
+AU  - Meyer, C
+TI  - Small and Medium-Sized Ports in the TEN-T Network and Nexus of Europe's Twin Transition: The Way towards Sustainable and Digital Port Service Ecosystems
+T2  - SUSTAINABILITY
+LA  - English
+KW  - small and medium-sized ports
+KW  - comprehensive ports
+KW  - port ecosystem
+KW  - European Green Deal
+KW  - strategic management
+KW  - environmental and digital transition
+KW  - sustainable ports
+KW  - green ports
+KW  - DECISION-MAKING
+KW  - PERFORMANCE
+KW  - MANAGEMENT
+KW  - INNOVATION
+KW  - SERVITIZATION
+KW  - TECHNOLOGIES
+KW  - INTEGRATION
+KW  - FRAMEWORK
+KW  - STRATEGY
+KW  - SYSTEMS
+AB  - Despite high competition among big EU ports, such as Rotterdam, Hamburg, or Valencia, acting as Core Ports in the Trans-European Transport Core and Comprehensive Network (TEN-T), this paper addresses the marginalized decision-making capability for environmental and digital transition immanent in the Small and Medium-Sized Ports (SMSPs) ecosystems in the EU. Irrespective of topical research, little is said about SMSPs ecosystem sustainability robustness and how SMSPs can pursue the transformative way. Here, management and strategic port decision levels are rather patchy and disconnected from the operational port performance. SMSPs are bound to limited resources and low cognitive, organizational, or institutional proximity, compared to their bigger counterparts. This situation provides a lot of room for critical demarche, since in the TEN-T Network, there are 225 Comprehensive and only 104 Core Ports, the majority qualifying, thus, as SMSPs. This research aims at reducing this research-to-practice lacuna by improving limited managerial capacity of SMSPs on environmental responsibility and digital efficiency. Using an ecosystem concept and aggregated empirical data in three EU macro-regions-the Baltic Sea Region, the Adriatic-Ionian Sea Region, and the Mediterranean Sea Region, three specific decision-making tools are suggested for managerial applications to facilitate and reinforce transition in SMSPs for environmental responsibility, social equity, and economic efficiency.
+AD  - Univ Appl Sci Technol Business & Design, Wismar Business Sch, Hsch Wismar, Philipp Muller Str 14, D-23966 Wismar, GermanyAD  - Tallinn Univ Technol, Sch Business & Governance, Dept Business Adm, Ehitajate Tee 5, EE-19086 Tallinn, EstoniaC3  - Tallinn University of TechnologyFU  - Interreg project "Connect2SmallPorts" - South Baltic Program 2014-2020
+FX  - This research was supported by the Interreg project "Connect2SmallPorts", part-financed by the South Baltic Program 2014-2020.
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - APR
+PY  - 2021
+VL  - 13
+IS  - 8
+C7  - 4386
+DO  - 10.3390/su13084386
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000645355800001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  109
+ER  -
+
+TY  - JOUR
+AU  - Chen, ZT
+AU  - Yang, XD
+AU  - Jin, B
+AU  - Guo, MY
+AU  - Li, MM
+TI  - Industrial internet security evaluation technology based on digital twin
+T2  - JOURNAL OF COMPUTATIONAL METHODS IN SCIENCES AND ENGINEERING
+LA  - English
+KW  - Digital twins
+KW  - industrial internet
+KW  - safety assessment technology
+KW  - security situational awareness model
+KW  - fuzzy knowledge base
+KW  - access protocol
+KW  - encryption key
+KW  - 5G
+AB  - In the process of industrial Internet security situation analysis, affected by the perception model, the average approximation error of security assessment results is high. Therefore, an industrial Internet security evaluation technology based on digital twin is proposed. Design the industrial Internet assessment mode, design the industrial Internet technical framework according to the digital twin, and clarify the elements of security situation assessment. According to the sliding time window, the fuzzy knowledge base is established. The security situation awareness model is designed based on digital twin, combined with the calculation results of fuzzy closeness to improve the accuracy of automatic perception results. Establish a multi port access protocol and realize the industrial Internet security evaluation technology under the digital twin with the help of the backed up coded key file. The experimental results show that the accuracy of the evaluation results of the design method is always above 95%, the tamper-proof success rate is always above 95%, and the physical value difference between the final values is 0.10. Therefore, this method effectively improves the evaluation accuracy. and tamper-proof success rate, reducing the difference value, it effectively controls the deviation of Internet operation data, provides security, is feasible and effective.
+AD  - Shunde Polytech, Sch Intelligent Mfg, Foshan 528300, Guangdong, Peoples R ChinaC3  - Shunde PolytechnicFU  - Department of science and technology of Guangdong Province, Guangdong Digital Chemical Plant Engineering Technology Research Center [2018-KJZX014]; Department of Education of Guangdong Province [2021KTSCX338]; Shunde Polytechnic, Research and application of fund management blockchain system - Take Chen Zhi scholarship fund [2021-KJZX016]
+FX  - The research is supported by: Department of science and technology of Guangdong Province, Guangdong Digital Chemical Plant Engineering Technology Research Center, No.: 2018-KJZX014; Department of Education of Guangdong Province, Research and application of vocational education student practice management system based on blockchain, No.: 2021KTSCX338; Shunde Polytechnic, Research and application of fund management blockchain system - Take Chen Zhi scholarship fund as an example, No.: 2021-KJZX016.
+PU  - IOS PRESS
+PI  - AMSTERDAM
+PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN  - 1472-7978
+SN  - 1875-8983
+J9  - J COMPUT METHODS SCI
+JI  - J. Comput. Methods Sci. Eng.
+PY  - 2022
+VL  - 22
+IS  - 6
+SP  - 1981
+EP  - 1994
+DO  - 10.3233/JCM-226375
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000893587400012
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  15
+ER  -
+
+TY  - CPAPER
+AU  - Alvarez, OH
+AU  - Zea, LG
+AU  - Bil, C
+AU  - Napolitano, M
+AU  - Fravolni, ML
+ED  - Hiekata, K
+ED  - Moser, B
+ED  - Inoue, M
+ED  - Stjepandic, J
+ED  - Wognum, N
+TI  - Digital Twin Concept for Aircraft Sensor Failure
+T2  - TRANSDISCIPLINARY ENGINEERING FOR COMPLEX SOCIO-TECHNICAL SYSTEMS
+LA  - English
+CP  - 26th ISTE International Conference on Transdisciplinary Engineering
+KW  - Digital Twin
+KW  - Flight Safety
+KW  - Human Factors
+KW  - Sensor Failure
+AB  - The aircraft air data system is used for estimating vital flight parameters for correct and safe aircraft operations. One of the main components in this system is the Pitot tube sensor which is responsible for measuring the total pressure and in conjunction with the static pressure port estimates parameters like altitude, air speed, vertical speed and Mach number. The Pitot tube is prone to failure because of external adverse atmospheric conditions. The current research aims to develop a solution to the aircraft loss of control caused by unreliable and/or faulty airspeed measurements by developing an air data system tolerant to the Pitot sensor failure based on extra sensor measurements and an estimation algorithm that uses a digital twin aircraft dynamic model as a virtual sensor.
+AD  - Univ Pontificia Bolivariana, Sch Aeronaut Engn, Medellin, ColombiaAD  - RMIT Univ, Sch Engn, Melbourne, Vic, AustraliaAD  - West Virginia Univ, Sch Mech & Aerosp Engn, Morgantown, WV 26506 USAAD  - Univ Perugia, Dept Engn, Perugia, ItalyC3  - Universidad Pontificia BolivarianaC3  - Royal Melbourne Institute of Technology (RMIT)C3  - West Virginia UniversityC3  - University of PerugiaPU  - IOS PRESS
+PI  - AMSTERDAM
+PA  - NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN  - 2352-7528
+SN  - 978-1-64368-021-7
+SN  - 978-1-64368-020-0
+J9  - ADV TRANSDISCIPL ENG
+PY  - 2019
+VL  - 10
+SP  - 370
+EP  - 379
+DO  - 10.3233/ATDE190143
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000544261400038
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  7
+ER  -
+
+TY  - JOUR
+AU  - Meyer, C
+AU  - Gerlitz, L
+AU  - Philipp, R
+AU  - Paulauskas, V
+TI  - A DIGITAL OR SUSTAINABLE SMALL AND MEDIUM-SIZED PORT? SUSTAINABLE PORT BLUEPRINT IN THE BALTIC SEA REGION BASED ON PORT BENCHMARKING
+T2  - TRANSPORT AND TELECOMMUNICATION JOURNAL
+LA  - English
+KW  - environmental obstacles
+KW  - Small and medium-sized ports
+KW  - Baltic Sea Region
+KW  - sustainable port
+KW  - Digital benchmarking
+KW  - sustainable development
+KW  - SUPPLY CHAIN MANAGEMENT
+KW  - ENVIRONMENTAL PERFORMANCE
+KW  - TECHNOLOGIES
+KW  - RESPONSIBILITY
+KW  - INDICATORS
+AB  - Small and medium-sized ports (SMSPs) in the Baltic Sea Region (BSR) are caught in a dilemma of less financial support by the European funding programmes due to their peripheral position in the TEN-T Core Network. Most of the BSR ports belong to the TEN-T Comprehensive Network, which is rationally less important in the topical financial, infrastructural and policy discourses. Despite this, BSR ports are of a colossal importance for the regional economic development serving as gateways for the individual regions and drivers of socio-economic and environmental transition. In addition, ports are essential in pursuing new innovation avenues. The environmental targets published by the European Commission for maritime sector in 2030 and 2050 are applicable for SMSPs as well, creating further obstacles and future challenges on the one hand, but opening new horizons to grow and innovate on the other one. A successful environmental and digital transformation going hand in hand in SMSPs enable sustainable boost of sustainable development. Thus, as a first step, the assessment of sustainable readiness in SMSPs is incumbent in order to implement tailor-made solutions on individual basis, by ensuring efficient usage of available resources and capabilities. In line with the Connect2SmallPorts project, part-financed by the INTERREG South Baltic Programme, 38 SMSPs in the BSR were approached to mapping their digital readiness according to the methodology of the Digital Readiness Index for Ports (DRIP), published within the project in 2020. Building upon this, this paper introduces the idea of digital and environmental twinning to conclude on sustainable development potentials in SMSPs with an adaptation of the DRIP score. Hence, the research contributes to the sustainable port concept and illustrates the positioning of SMSPs in the progress of sustainable development.
+AD  - Tallinn Univ Technol, Ehitajate Tee 5, EE-19086 Tallinn, EstoniaAD  - Univ Appl Sci Technol Business & Design, Hsch Wismar, Philipp Muller Str 14, D-23966 Wismar, GermanyAD  - Klaipeda Univ, H Manto G 84, LT-92294 Klaipeda, LithuaniaC3  - Tallinn University of TechnologyC3  - Klaipeda UniversityPU  - SCIENDO
+PI  - WARSAW
+PA  - BOGUMILA ZUGA 32A, WARSAW, MAZOVIA, POLAND
+SN  - 1407-6160
+SN  - 1407-6179
+J9  - TRANSP TELECOMMUN J
+JI  - Transp. Telecommun. J.
+DA  - JUN
+PY  - 2021
+VL  - 22
+IS  - 3
+SP  - 332
+EP  - 342
+DO  - 10.2478/ttj-2021-0026
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000729178000007
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  94
+ER  -
+
+TY  - JOUR
+AU  - Agostinelli, S
+AU  - Cumo, F
+AU  - Nezhad, MM
+AU  - Orsini, G
+AU  - Piras, G
+TI  - Renewable Energy System Controlled by Open-Source Tools and Digital Twin Model: Zero Energy Port Area in Italy
+T2  - ENERGIES
+LA  - English
+KW  - Renewable Energy Systems (RESs)
+KW  - Zero Energy District (ZED)
+KW  - Digital Twin (DT)
+KW  - Building Information Modelling (BIM)
+KW  - Geographic Information System (GIS)
+KW  - Revit software's
+KW  - AXIS WIND TURBINE
+KW  - MANAGEMENT-SYSTEMS
+KW  - SUSTAINABILITY
+KW  - OPERATION
+KW  - SEA
+KW  - TECHNOLOGIES
+KW  - PERFORMANCE
+KW  - INTEGRATION
+KW  - GENERATION
+KW  - EMISSIONS
+AB  - The present paper deals with an infrastructure digitization policy to optimize maintenance processes and energy efficiency to transform port areas to ZED (Zero Energy District). The Lazio Region started the process for all its ports in 2020. The Anzio port started and developed as a pilot project as it is a particularly representative sample for the Mediterranean Sea reality due to its geomorphological conformation. The study aimed to develop energy-saving procedures and strategies and integrate production systems from Renewable Energy Systems (RESs) for sustainable mobility. In the article, these strategies are described in detail and energy analysis is carried out, starting from the current state and demonstrating the potential energy self-sufficiency of the infrastructure. Finally, the investigation's potential utilizing a Digital Twin (DT) of the area is highlighted. Furthermore, the BIM (Building Information Modeling) and GIS (Geographic Information System) combining possibility to maximize the energy efficiency measures beneficial impact are discussed.
+AD  - Sapienza Univ Rome, Dept Astronaut Elect & Energy Engn DIAEE, I-00184 Rome, ItalyAD  - Sapienza Univ Rome, CITERA Res Ctr, I-00197 Rome, ItalyC3  - Sapienza University RomeC3  - Sapienza University RomePU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 1996-1073
+J9  - ENERGIES
+JI  - Energies
+DA  - MAR
+PY  - 2022
+VL  - 15
+IS  - 5
+C7  - 1817
+DO  - 10.3390/en15051817
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000768318800001
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  8
+Cited Reference Count:  74
+ER  -
+
+TY  - JOUR
+AU  - Gao, YP
+AU  - Chang, DF
+AU  - Chen, CH
+TI  - A digital twin-based approach for optimizing operation energy consumption at automated container terminals
+T2  - JOURNAL OF CLEANER PRODUCTION
+LA  - English
+KW  - Sustainable development
+KW  - Energy consumption
+KW  - Digital twin
+KW  - Automatic stacking crane scheduling
+KW  - Container yard
+KW  - STACKING CRANES
+KW  - YARD CRANE
+KW  - MODEL
+KW  - OPTIMIZATION
+KW  - TRUCK
+AB  - The sustainable development of port operation management is strongly related to the energy consumption of production at automated container terminals (ACTs). This paper focuses on the production activities at a container yard, which is the primary facility of ACTs. A digital twin-based approach is proposed to optimize the operation of an automatic stacking crane (ASC) handling containers in terms of energy consumption. A virtual container yard that syncs with a physical container yard in the ACT digital twin system for observation and validation is developed. A mathematical model is established to minimize the total energy consumption of completing all tasks. Then, the Q-learning algorithm is adapted to optimize a solution based on the operating data from the ACT digital twin system. Numerical experiments are conducted to demonstrate the effectiveness of the proposed approach by comparing it with two other solution algorithms, viz., genetic algorithm (GA) and particle swarm optimization (PSO). The total energy consumption of two operation strategies (i.e., centralized and decentralized) are also compared using the proposed digital twin-based approach. With digital twin, the operational environment and energy consumption are visualized to support optimization and management of ASCs. Managers and operators can choose an appropriate strategy according to the designated sustainable goal.
+AD  - Shanghai Univ, Sch Management, 99 Shangda Rd, Shanghai 200444, Peoples R ChinaAD  - Shanghai Maritime Univ, Logist Engn Coll, 1550 Haigang Ave, Shanghai 201306, Peoples R ChinaAD  - Nanyang Technol Univ, Sch Mech & Aerosp Engn, 50 Nanyang Ave, Singapore 639798, SingaporeC3  - Shanghai UniversityC3  - Shanghai Maritime UniversityC3  - Nanyang Technological University & National Institute of Education (NIE) SingaporeC3  - Nanyang Technological UniversityFU  - National Key Research and Devel- opment Plan of China [2019YFB1704403]
+FX  - This work was supported by the National Key Research and Devel- opment Plan of China (No. 2019YFB1704403) .
+PU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 0959-6526
+SN  - 1879-1786
+J9  - J CLEAN PROD
+JI  - J. Clean Prod.
+DA  - JAN 20
+PY  - 2023
+VL  - 385
+C7  - 135782
+DO  - 10.1016/j.jclepro.2022.135782
+C6  - DEC 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000913801900001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  62
+ER  -
+
+TY  - JOUR
+AU  - Zohdi, TI
+TI  - A digital-twin and machine-learning framework for precise heat and energy management of data-centers
+T2  - COMPUTATIONAL MECHANICS
+LA  - English
+KW  - Data-centers
+KW  - Heat management
+KW  - Digital-twins
+KW  - Machine-learning
+KW  - COMMUNICATION TECHNOLOGIES
+KW  - INFORMATION
+KW  - SIMULATION
+KW  - EFFICIENCY
+KW  - COMPUTATION
+KW  - CONSUMPTION
+KW  - PARTICLE
+KW  - TRENDS
+KW  - IMPACT
+AB  - The massive growth in data-centers has led to increased interest and regulations for management of waste heat and its utilization. This work seeks to develop a combined Digital-Twin and Machine-Learning framework to optimize such systems by controlling both the ventilation and the cooling of the bases of data units/processors in the system. This framework ascertains optimal cooling strategies to deliver a target temperature in the system using a minimum amount of energy. A model problem is constructed for a data-center, where the design variables are the flow rates and air-cooling at multiple ventilation ports and ground-level conduction-based base-cooling of processors. A thermo-fluid model, based on the Navier-Stokes equations and the first law of thermodynamics, for the data-center is constructed and a rapid, stencil-based, iterative solution method is developed. This is then combined with a genomic-based machine-learning algorithm to develop a digital-twin (digital-replica) of the system that can run in real-time or faster than the actual physical system, making it suitable as either a design tool or an adaptive controller. Numerical examples are provided to illustrate the framework.
+AD  - Univ Calif Berkeley, Dept Mech Engn, 6195 Etcheverry Hall, Berkeley, CA 94720 USAC3  - University of California SystemC3  - University of California BerkeleyFU  - UC Berkeley College of Engineering; USDA AI Institute for Next Generation Food Systems (AIFS) [2020-67021- 32855]
+FX  - This work has been partially supported by the UC Berkeley College of Engineering and the USDA AI Institute for Next Generation Food Systems (AIFS), USDA award number 2020-67021- 32855.
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 0178-7675
+SN  - 1432-0924
+J9  - COMPUT MECH
+JI  - Comput. Mech.
+DA  - JUN
+PY  - 2022
+VL  - 69
+IS  - 6
+SP  - 1501
+EP  - 1516
+DO  - 10.1007/s00466-022-02152-3
+C6  - MAR 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000767134700001
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  93
+ER  -
+
+TY  - JOUR
+AU  - Kapteyn, MG
+AU  - Knezevic, DJ
+AU  - Huynh, DBP
+AU  - Tran, M
+AU  - Willcox, KE
+TI  - Data-driven physics-based digital twins via a library of component-based reduced-order models
+T2  - INTERNATIONAL JOURNAL FOR NUMERICAL METHODS IN ENGINEERING
+LA  - English
+KW  - data-model fusion
+KW  - digital twin
+KW  - model updating
+KW  - reduced-order model
+KW  - unmanned aerial vehicle
+KW  - PORT REDUCTION
+KW  - ELEMENT METHOD
+KW  - ERROR
+KW  - APPROXIMATION
+KW  - STIFFNESS
+AB  - This work proposes an approach that combines a library of component-based reduced-order models with Bayesian state estimation in order to create data-driven physics-based digital twins. Reduced-order modeling produces physics-based computational models that are reliable enough for predictive digital twins, while still being fast to evaluate. In contrast with traditional monolithic techniques for model reduction, the component-based approach scales efficiently to large complex systems, and provides a flexible and expressive framework for rapid model adaptation-both critical features in the digital twin context. Data-driven model adaptation and uncertainty quantification are formulated as a Bayesian state estimation problem, in which sensor data are used to infer which models in the model library are the best candidates for the digital twin. This approach is demonstrated through the development of a digital twin for a 12-ft wingspan unmanned aerial vehicle. Offline, we construct a library of pristine and damaged aircraft components. Online, we use structural sensor data to rapidly adapt a physics-based digital twin of the aircraft structure. The data-driven digital twin enables the aircraft to dynamically replan a safe mission in response to structural damage or degradation.
+AD  - MIT, 77 Massachusetts Ave, Cambridge, MA 02139 USAAD  - Akselos Inc, Brookline, MA USAAD  - Akselos SA, Lausanne, SwitzerlandAD  - Univ Texas Austin, Austin, TX 78712 USAC3  - Massachusetts Institute of Technology (MIT)C3  - University of Texas SystemC3  - University of Texas AustinFU  - Air Force Office of Scientific Research [FA9550-16-1-0108]; Boeing; SUTD-MIT International Design Center
+FX  - Air Force Office of Scientific Research, Grant/Award Number: FA9550-16-1-0108; Boeing; SUTD-MIT International Design Center
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 0029-5981
+SN  - 1097-0207
+J9  - INT J NUMER METH ENG
+JI  - Int. J. Numer. Methods Eng.
+DA  - JUL 15
+PY  - 2022
+VL  - 123
+IS  - 13
+SP  - 2986
+EP  - 3003
+DO  - 10.1002/nme.6423
+C6  - JUN 2020
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000541962100001
+N1  - Times Cited in Web of Science Core Collection:  43
+Total Times Cited:  44
+Cited Reference Count:  43
+ER  -
+
+TY  - JOUR
+AU  - Nakath, D
+AU  - She, MK
+AU  - Song, YF
+AU  - Koser, K
+TI  - An Optical Digital Twin for Underwater Photogrammetry GEODT-A Geometrically Verified Optical Digital Twin for Development, Evaluation, Training, Testing and Tuning of Multi-Media Refractive Algorithms
+T2  - PFG-JOURNAL OF PHOTOGRAMMETRY REMOTE SENSING AND GEOINFORMATION SCIENCE
+LA  - English
+KW  - Underwater computer vision
+KW  - Refractive geometry
+KW  - Underwater dataset
+KW  - Digital twin
+KW  - CALIBRATION
+KW  - SYSTEM
+AB  - Most parts of the Earth's surface are situated in the deep ocean. To explore this visually rather adversarial environment with cameras, they have to be protected by pressure housings. These housings, in turn, need interfaces to the world, enduring extreme pressures within the water column. Commonly, a flat window or a half-sphere of glass, called flat-port or domeport, respectively is used to implement such kind of interface. Hence, multi-media interfaces, between water, glass and air are introduced, entailing refraction effects in the images taken through them. To obtain unbiased 3D measurements and to yield a geometrically faithful reconstruction of the scene, it is mandatory to deal with the effects in a proper manner. Hence, we propose an optical digital twin of an underwater environment, which has been geometrically verified to resemble a real water lab tank that features the two most common optical interfaces. It can be used to develop, evaluate, train, test and tune refractive algorithms. Alongside this paper, we publish the model for further extension, jointly with code to dynamically generate samples from the dataset. Finally, we also publish a pre-rendered dataset ready for use at https://git.geomar.de/ david-nakath/geodt.
+AD  - GEOMAR Helmholtz Ctr Ocean Res Kiel, Wischhofstr 1-3, D-24148 Kiel, GermanyC3  - Helmholtz AssociationC3  - GEOMAR Helmholtz Center for Ocean Research KielFU  - German Research Foundation (Deutsche Forschungsgemeinschaft, DFG) through the Emmy Noether Programme [396311425]; Chinese Scholarship Council (CSC) [202006050015]
+FX  - This publication has been funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG) Projektnummer 396311425, through the Emmy Noether Programme. We are also grateful for support from the Chinese Scholarship Council (CSC) for M. She (202006050015).
+PU  - SPRINGER INT PUBL AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 2512-2789
+SN  - 2512-2819
+J9  - PFG-J PHOTOGRAMM REM
+JI  - PFG-J. Photogramm. Remote Sens. Geoinf. Sci.
+DA  - MAR
+PY  - 2022
+VL  - 90
+IS  - 1
+SP  - 69
+EP  - 81
+DO  - 10.1007/s41064-021-00190-9
+C6  - JAN 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000745358400001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  56
+ER  -
+
+TY  - JOUR
+AU  - Wu, ZH
+AU  - Ren, CX
+AU  - Wu, XB
+AU  - Wang, L
+AU  - Zhu, L
+AU  - Lv, ZY
+TI  - Research on Digital Twin Construction and Safety Management Application of Inland Waterway Based on 3D Video Fusion
+T2  - IEEE ACCESS
+LA  - English
+KW  - Monitoring
+KW  - Rivers
+KW  - Marine vehicles
+KW  - Digital twin
+KW  - Surveillance
+KW  - Safety management
+KW  - Streaming media
+KW  - Digital twin
+KW  - inland waterway
+KW  - safety management
+KW  - video fusion
+KW  - safety management
+KW  - inland waterway
+KW  - 3D panorama
+AB  - The digital twin can reconstruct the scenes of real traffic operation of inland waterways in virtual space, giving birth to new ideas for the digital transformation and upgrading of water safety management. Aiming at the problems of video fragmentation, sub-system data separation and untimely emergency response in the current inland waterway safety monitoring, this paper proposes a new method for reconstructing and applying a digital twin of inland waterways based on 3D video fusion which consists of four parts: (1) Combining drone tilt photography and BIM modeling technology to construct a three-dimensional scene model of inland waterways; (2) Proposing a multi-channel video three-dimensional registration and rendering method to integrate in real time discrete surveillance videos of different angles of view with three-dimensional scene model to establish the spatial correlation between different video images in the scene; (3) Integrating multi-source IoT sensing data to form a scene of digital twin of inland waterways; (4) Exploring innovative application methods for water safety management based on digital twins to meet the water safety management requirements and business logic of inland waterways. A certain segment of the Changhu Shen Line was selected for demonstration and application. The application results show that the construction and application of digital twins for inland waterways combined with 3D video reduces the pressure on managers to understand real-time video footage and improves the efficiency of daily monitoring, evidence collection, and emergency response.
+AD  - China Acad Transportat Sci, Beijing 100029, Peoples R ChinaAD  - Zhejiang Port & Shipping Adm, Hangzhou 310011, Zhejiang, Peoples R ChinaC3  - China Academy of Transportation SciencesFU  - Basal Research Fund of Central Public Research Institute of China [20212701, 20212702]; Key Science and Technology Project through the Transportation Industry of Zhejiang [2019013]
+FX  - This work was supported in part by the Basal Research Fund of Central Public Research Institute of China under Grant 20212701 and Grant 20212702, and in part by the Key Science and Technology Project through the Transportation Industry of Zhejiang under Grant 2019013.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2021
+VL  - 9
+SP  - 109144
+EP  - 109156
+DO  - 10.1109/ACCESS.2021.3101653
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000684001200001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  23
+ER  -
+
+TY  - CPAPER
+AU  - Li, HB
+AU  - Cao, XH
+AU  - Sharma, P
+AU  - Lee, LH
+AU  - Chew, EP
+A1  - IEEE
+TI  - FRAMEWORK OF (ODES)-D-2.NET DIGITAL TWINS FOR NEXT GENERATION PORTS AND WAREHOUSE SOLUTIONS
+T2  - 2020 WINTER SIMULATION CONFERENCE (WSC)
+LA  - English
+CP  - Winter Simulation Conference
+AB  - Innovative solutions are proposed to meet the challenges bringing by the development of next generation ports and warehouses. In order to test the feasibility of the solutions and increase the "wisdom" of maritime logistics facilities, a maritime Digital Twin (DT), SingaPort.Net Suite, is developed and presented in this paper. An object-oriented discrete event simulation ((ODES)-D-2.NET) framework is proposed as the development framework. Seven functions achieved by (ODES)-D-2.NET are embedded in the SingaPort.Net Suite and are illustrated in this paper. It is hoped that with the help of SingaPort.Net Suite and (ODES)-D-2.NET, the maritime logistics DT ecosystem could experience a vivid and healthy growth in the future decades.
+AD  - Natl Univ Singapore, Dept Ind Syst Engn & Management, 1 Engn Dr 2, Singapore 117576, SingaporeC3  - National University of SingaporeFU  - Singapore Maritime Institute
+FX  - This research has been made possible by the funding support from the Singapore Maritime Institute.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 0891-7736
+SN  - 978-1-7281-9499-8
+J9  - WINT SIMUL C PROC
+PY  - 2020
+SP  - 3188
+EP  - 3199
+DO  - 10.1109/WSC48552.2020.9384111
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000679196303019
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  18
+ER  -
+
+TY  - JOUR
+AU  - Bertoni, M
+AU  - Bertoni, A
+TI  - Designing solutions with the product-service systems digital twin: What is now and what is next?
+T2  - COMPUTERS IN INDUSTRY
+LA  - English
+KW  - Product-service systems
+KW  - Digital twin
+KW  - Systematic review
+KW  - Systematic mapping
+KW  - LIFE-CYCLE
+KW  - BUSINESS MODELS
+KW  - INNOVATION
+KW  - KNOWLEDGE
+KW  - FRAMEWORK
+KW  - CONTEXT
+KW  - WEB
+AB  - Digital Twins (DT) are of particular interest in the domain of Product-Service Systems (PSS), to predict hardware availability, to inform about the needed features of new solutions, and to forecast the expected performances of new configurations in operation. The aim of this paper is to shed light on the extent to which 'twins' are applied today across the PSS life cycle, and to spotlight the ability of DT-related case studies to capture a full value perspective vs. simply attempting to represent hardware and services in the digital realm. By means of a systematic literature review combined with a mapping study, the paper reveals how only a minimal part of the existing literature is able to demonstrate how real-time physical-to-virtual and virtual-to-physical connections can be used to improve the design of servitized solutions. The analysis shows how contributions in the topic are mostly proposing frameworks and methods, as opposed to models and tools, as well as how 'evaluation', 'validation' tasks are largely neglected. As a result, the paper proposes a specialized definition of the PSS DT, together with a set of research questions that need to be answered to empower the engineering teams with relevant DT for PSS design. (c) 2022 The Authors. Published by Elsevier B.V. CC_BY_4.0
+AD  - Blekinge Inst Technol, Dept Mech Engn, Karlskrona, SwedenC3  - Blekinge Institute TechnologyFU  - Knowledge Foundation in Sweden (Stiftelsen for kunskapsoch kompetensutveckling) through the Model Driven Development and Decision Support research profile at Blekinge Institute of Technology [20180159]
+FX  - The research leading to these results has received financial sup-port from the The Knowledge Foundation in Sweden (Stiftelsen for kunskapsoch kompetensutveckling, diary number: 20180159) through the Model Driven Development and Decision Support research profile at Blekinge Institute of Technology.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0166-3615
+SN  - 1872-6194
+J9  - COMPUT IND
+JI  - Comput. Ind.
+DA  - JUN
+PY  - 2022
+VL  - 138
+C7  - 103629
+DO  - 10.1016/j.compind.2022.103629
+C6  - FEB 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000754066000004
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  68
+ER  -
+
+TY  - CPAPER
+AU  - Emanuele, A
+AU  - Anastasiia, R
+AU  - Roberto, R
+AU  - Sergey, S
+ED  - Fujita, H
+ED  - Fournier-Viger, P
+ED  - Ali, M
+ED  - Wang, Y
+TI  - An Agenda on the Employment of AI Technologies in Port Areas: The TEBETS Project
+T2  - ADVANCES AND TRENDS IN ARTIFICIAL INTELLIGENCE: THEORY AND PRACTICES IN ARTIFICIAL INTELLIGENCE
+LA  - English
+CP  - 35th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE)
+KW  - Simulation
+KW  - Anylogic
+KW  - Microsoft Project Bonsai
+KW  - Port safety
+AB  - This paper presents the agenda extending the project reported at the International Maritime Transport and Logistics Conference "Marlog 10" in 2021. Within the framework of the Smart Port model project proposed by the European Union institutions, we examined the control model of the port of Genoa and the digital twin representation of the Terminal San Giorgio. The application of digital technologies to intermodal systems like ports and harbors would give highly positive results in terms of efficiency and effectiveness. The resources employed were a Digital Twin realized with the Optimize software, a simulation developed through Anylogic, a tracking system operated by OpenGTS, and an AI platform developed through Bonsai. In addition, we have considered the libraries that, in our opinion, are necessary when designing a port simulation model. Our proposed model includes loading, unloading, storage planning, and other operations taking place at the port of Genoa. The article presents various agents which play a fundamental role in the simulation.
+AD  - Univ Genoa, I-16100 Genoa, ItalyAD  - Bauman Moscow State Tech Univ, Moscow 105005, RussiaC3  - University of GenoaC3  - Bauman Moscow State Technical UniversityPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-08530-7
+SN  - 978-3-031-08529-1
+J9  - LECT NOTES ARTIF INT
+PY  - 2022
+VL  - 13343
+SP  - 633
+EP  - 647
+DO  - 10.1007/978-3-031-08530-7_53
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000876774100053
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  22
+ER  -
+
+TY  - JOUR
+AU  - Guan, JH
+AU  - Li, YY
+AU  - Liu, JP
+AU  - Duan, XB
+AU  - Shen, DZ
+AU  - Jia, DD
+AU  - Ku, CB
+TI  - Experimental and numerical research on the performance characteristics of OPLVCR engine based on the NSGA II algorithm using digital twins
+T2  - ENERGY CONVERSION AND MANAGEMENT
+LA  - English
+KW  - Opposite Piston Linked Variable Compression
+KW  - Ratio
+KW  - Variable compression ratio
+KW  - EER
+KW  - NSGA II algorithm
+KW  - Digital twins
+KW  - EMISSIONS CHARACTERISTICS
+KW  - COMBUSTION
+KW  - STRATEGIES
+KW  - INJECTION
+KW  - ENERGY
+KW  - EGR
+AB  - In order to optimize the fuel consumption and NOx emissions of engine and develop the general simulation?optimization platform on the performance and emissions of engine, this paper is pioneered in developing digital twins using GT-Power software for engine with a OPLVCR mechanism. First, an experimental investigation is carried out, and a corresponding 1D GT-Power simulation model is developed and validated for engine without VCR system. Then, a novel solution of VCR was proposed and analyzed in detail, and a new 1D GT-Power model with the new VCR mechanism was built by coupling with Matlab codes, and then the 1D model was validated by a full-size 3D simulation model with detailed combustion chamber, intake and exhaust port of the OPLVCR engine at CR 14.5:1. Thirdly, the digital twins engine model takes the spark timing, EGR rate, VVT_I, VVT_E as well as compression ratio as the inputs of the simulation optimization platform for OPLVCR engine based on the NSGA II algorithm. Finally, the optimal combination of compression ratio and EGR rate was validated by the full-size 3D simulation model of OPLVCR engine. The results show that BSFC and NOx is reduced by 16.37% and 74.18% based on NSGA-II algorithm. Thus, an integrated platform for engine performance optimization and verification has been developed. Furthermore, the model and data in this paper can be applied to evaluate and optimize the energy distribution by changing different technologies or optimization methods in the future.
+AD  - Hunan Univ, State Key Lab Adv Design & Mfg Vehicle Body, Changsha 410082, Peoples R ChinaAD  - Hunan Univ, Res Ctr Adv Powertrain Technol, Changsha 410082, Peoples R ChinaAD  - Hunan Dazi Power Technol Co LTD, Changsha 410082, Peoples R ChinaAD  - Tsinghua Univ, State Key Lab Automot Safety & Energy, Beijing 100084, Peoples R ChinaC3  - Hunan UniversityC3  - Hunan UniversityC3  - Tsinghua UniversityFU  - National Natural Science Foundation of China [51776061]; Excellent Postdoctoral Innovative Talents Project in Hunan Province [2020RC2025]; Postgraduate Scientific Research Innovation Project of Hunan Province [CX20200410]; Hunan University
+FX  - This research paper is jointly sponsored by the National Natural Science Foundation of China (NO. 51776061), Excellent Postdoctoral Innovative Talents Project in Hunan Province (2020RC2025) and the Postgraduate Scientific Research Innovation Project of Hunan Province (CX20200410). The authors appreciate the Hunan University for its support. The authors appreciate the professor Minggao Ouyang and Fuyan Yang (Tsinghua University) for support.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0196-8904
+SN  - 1879-2227
+J9  - ENERG CONVERS MANAGE
+JI  - Energy Conv. Manag.
+DA  - MAY 15
+PY  - 2021
+VL  - 236
+C7  - 114052
+DO  - 10.1016/j.enconman.2021.114052
+C6  - APR 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000647767800001
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  12
+Cited Reference Count:  46
+ER  -
+
+TY  - JOUR
+AU  - Wu, W
+AU  - Zhao, ZH
+AU  - Shen, LD
+AU  - Kong, XTR
+AU  - Guo, DQ
+AU  - Zhong, RY
+AU  - Huang, GQ
+TI  - Just Trolley: Implementation of industrial IoT and digital twin-enabled spatial-temporal traceability and visibility for finished goods logistics
+T2  - ADVANCED ENGINEERING INFORMATICS
+LA  - English
+KW  - IoT-enabled manufacturing
+KW  - Digital twin
+KW  - Spatial-temporal traceability and visibility
+KW  - Cyber-physical synchronization
+KW  - Finished good logistics
+KW  - LOCALIZATION
+KW  - SYSTEM
+AB  - The efficiency of the factory logistics after production and before warehousing becomes no less important in terms of the overall productivity, product quality, and service level, especially under mass customization. However, it almost remains traditional in the industry and gains insufficient academic studies due to its triviality and irregularity. This paper aims to develop an Industrial Internet of Things (IIoT) and Digital Twin (DT) enabled platform of real-time tracking and tracing (ID-PORT) for finished goods logistics. The architecture facilitates collaborative tracking methods to actualize timely spatial-temporal traceability and visibility with cyber-physical synchronization. Furthermore, smart location-based services (LBS) are activated to enhance operational efficiency. A real-life case study is conducted in a world-leading computer manufacturer's factory to illustrate the feasibility and evaluate the performance of the platform. An implementation concept, "Just Trolley", which treats every location or area as a trolley in the digital world, is created as guidance to streamline the system development, deployment and operations. A comparative analysis shows a significant reduction in the time of product picking-up and order emergency detecting, further shortening the order lead time and improving the service level. Meanwhile, the overall productivity has also increased. The insights and lessons reaped from this case may spark new ideas and inspire practitioners to meet similar needs in the industry.
+AD  - Univ Hong Kong, Dept Ind & Mfg Syst Engn, Hong Kong, Peoples R ChinaAD  - Nanjing Univ Posts & Telecommun, Sch Internet Things, Nanjing, Peoples R ChinaAD  - Shenzhen Univ, Coll Econ, Collaborat Res Ctr Supply Chain Innovat, Dept Transportat Econ & Logist Management, Shenzhen, Peoples R ChinaC3  - University of Hong KongC3  - Nanjing University of Posts & TelecommunicationsC3  - Shenzhen UniversityFU  - Innovation and Technology Fund [ITP/021/20LP]
+FX  - Acknowledgement Our work is supported in part by the Innovation and Technology Fund (No. ITP/021/20LP) .
+PU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 1474-0346
+SN  - 1873-5320
+J9  - ADV ENG INFORM
+JI  - Adv. Eng. Inform.
+DA  - APR
+PY  - 2022
+VL  - 52
+C7  - 101571
+DO  - 10.1016/j.aei.2022.101571
+C6  - MAR 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000798819300002
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  41
+ER  -
+
+TY  - CPAPER
+AU  - Krofcheck, D
+AU  - John, E
+AU  - Galloway, H
+AU  - Sorensen, A
+AU  - Jameson, C
+AU  - Aubrey, C
+AU  - Prasadan, A
+AU  - Forrest, R
+ED  - Ashok, A
+ED  - Greenberg, JA
+ED  - Gehm, ME
+TI  - Synthetic threat injection using digital twin informed augmentation
+T2  - ANOMALY DETECTION AND IMAGING WITH X-RAYS (ADIX) VII
+LA  - English
+CP  - Conference on Anomaly Detection and Imaging with X-Rays (ADIX) VII
+KW  - Threat Image Projection
+KW  - Non-Intrusive Detection
+KW  - Synthetic Data
+KW  - X-ray Detection
+KW  - Digital Twin
+KW  - Unity
+AB  - The growing x-ray detection burden for vehicles at Ports of Entry in the US requires the development of efficient and reliable algorithms to assist human operator in detecting contraband. Developing algorithms for large-scale non-intrusive inspection (NII) that both meet operational performance requirements and are extensible for use in an evolving environment requires large volumes and varieties of training data, yet collecting and labeling data for these enivornments is prohibitively costly and time consuming. Given these, generating synthetic data to augment algorithm training has been a focus of recent research. Here we discuss the use of synthetic imagery in an object detection framework, and describe a simulation based approach to determining domain-informed threat image projection (TIP) augmentation.
+AD  - Sandia Natl Labs, 1515 Eubank Blvd SE, Albuquerque, NM 87123 USAC3  - United States Department of Energy (DOE)C3  - Sandia National LaboratoriesFU  - U.S. Department of Energy's National Nuclear Security Administration [DE-NA0003525]
+FX  - Sandia National Laboratories is a multimission laboratory managed and operated by National Technology & Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy's National Nuclear Security Administration under contract DE-NA0003525. This paper describes objective technical results and analysis. Any subjective views or opinions that might be expressed in the paper do not necessarily represent the views of the U.S. Department of Energy or the United States Government
+PU  - SPIE-INT SOC OPTICAL ENGINEERING
+PI  - BELLINGHAM
+PA  - 1000 20TH ST, PO BOX 10, BELLINGHAM, WA 98227-0010 USA
+SN  - 0277-786X
+SN  - 1996-756X
+SN  - 978-1-5106-5085-5
+SN  - 978-1-5106-5084-8
+J9  - PROC SPIE
+PY  - 2022
+VL  - 12104
+DO  - 10.1117/12.2618972
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000839299700006
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  16
+ER  -
+
+TY  - JOUR
+AU  - He, KF
+AU  - Zhou, ZP
+AU  - Wang, C
+AU  - Li, XJ
+TI  - A novel inverter twin wires high effect submerged arc welding equipment for steel plate welding
+T2  - JOURNAL OF ADVANCED MECHANICAL DESIGN SYSTEMS AND MANUFACTURING
+LA  - English
+KW  - Twin wires submerged arc welding
+KW  - Novel equipment
+KW  - Inverter welding power source
+KW  - Digital cooperative control
+KW  - Welding process monitoring
+KW  - TCP/IP based data acquisition
+KW  - Sensor detection system
+AB  - Twin wires submerged arc welding technology is an efficient way for the high-speed welding of heavy workpiece of the low carbon steel. A novel inverter twin wires high effect submerged arc welding equipment is proposed by combination of the inverter welding power source of direct current (DC)1250A and alternate current (AC) square wave 1000A, digital cooperative control and process monitoring technology. Digital cooperative control system are designed by combination of the a computer, TCP/IP based data collection and monitoring module, twin wires submerged arc welding control box and sensor detection system. The TCP/IP based data acquisition and monitoring module consist of Advanced RISC Machines (ARM) controller, A/D module, D/A module, network interface and digital I/O ports. The results of welding experiment demonstrate that the novel developed twin wires submerged arc welding equipment meets the designed requirements with strong adaptability, which achieves the functions of parameters optimization settings, digital timing control of the twin arcs, and real-time monitoring of the welding process. The proposed equipment has good application prospect in twin wires submerged arc welding of steel plate at high welding speed more than 100cm/min due to the strong adaptability in welding process.
+AD  - Hunan Univ Sci & Technol, Hunan Prov Key Lab Hlth Maintenance Mech Equipmen, Xiangtan 411201, Peoples R ChinaC3  - Hunan University of Science & TechnologyFU  - National Natural Science Foundation of China [51475159, 51005073]
+FX  - This work is supported by National Natural Science Foundation of China (51475159, 51005073), is gratefully acknowledged.
+PU  - JAPAN SOC MECHANICAL ENGINEERS
+PI  - TOKYO
+PA  - SHINANOMACHI-RENGAKAN BLDG., SHINANOMACHI 35, SHINJUKU-KU, TOKYO, 160-0016, JAPAN
+SN  - 1881-3054
+J9  - J ADV MECH DES SYST
+JI  - J. Adv. Mech. Des. Syst. Manuf.
+PY  - 2015
+VL  - 9
+IS  - 5
+C7  - 15-00311
+DO  - 10.1299/jamdsm.2015jamdsm0054
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000368247500001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  11
+ER  -
+
+TY  - CPAPER
+AU  - Li, B
+AU  - Cao, ZF
+AU  - Hong, JP
+ED  - Han, Q
+ED  - Takahashi, K
+ED  - Oh, CH
+ED  - Luo, Z
+TI  - Twin Channel of Speed Control System Based on DSP
+T2  - MECHATRONICS AND INFORMATION TECHNOLOGY, PTS 1 AND 2
+LA  - English
+CP  - International Conference on Mechatronics and Information Technology (ICMIT 2011)
+KW  - digital controller
+KW  - speed control system
+KW  - DSP
+KW  - dual-port RAM
+AB  - A microprocessor as the core of the digital controller has become one of the major features AC speed regulation system in modern. Based on DSP as the core of the speed control system, it can realize complex algorithm. At the same time, it can achieve the diagnosis of system's fault, and the self-setting of parameters controlled, etc. Thus it can make the motor speed control system have higher performance. This paper introduces the motor speed control system which consists of three DSP. This system is able to adjust two Frequency conversion motor. Division of work to the DSP is according to the function of DSP. Inter-DSP makes use of dual-port RAM to exchange data and communicate. They work together to achieve and improve the performance of the control system.
+AD  - Shenyang Jianzhu Univ, Traff & Mech Engn Sch, Shenyang, Peoples R ChinaC3  - Shenyang Jianzhu UniversityPU  - TRANS TECH PUBLICATIONS LTD
+PI  - STAFA-ZURICH
+PA  - LAUBLSRUTISTR 24, CH-8717 STAFA-ZURICH, SWITZERLAND
+SN  - 2234-9898
+SN  - 978-3-03785-336-8
+J9  - ADV ENG FORUM
+PY  - 2012
+VL  - 2-3
+SP  - 447
+EP  - 451
+DO  - 10.4028/www.scientific.net/AEF.2-3.447
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000317993700085
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  9
+ER  -
+
+TY  - JOUR
+AU  - Fister, I
+AU  - Salcedo-Sanz, S
+AU  - Iglesias, A
+AU  - Fister, D
+AU  - Galvez, A
+AU  - Fister, I
+TI  - New Perspectives in the Development of the Artificial Sport Trainer
+T2  - APPLIED SCIENCES-BASEL
+LA  - English
+KW  - artificial sport trainer
+KW  - digital twin
+KW  - cognitive models
+KW  - computational intelligence
+KW  - SHORT-TERM
+KW  - INTELLIGENCE
+KW  - FRAMEWORK
+AB  - The rapid development of computer science and telecommunications has brought new ways and practices to sport training. The artificial sport trainer, founded on computational intelligence algorithms, has gained momentum in the last years. However, artificial sport trainer usually suffers from a lack of automatisation in realization and control phases of the training. In this study, the Digital Twin is proposed as a framework for helping athletes, during realization of training sessions, to make the proper decisions in situations they encounter. The digital twin for artificial sport trainer is based on the cognitive model of humans. This concept has been applied to cycling, where a version of the system on a Raspberry Pi already exists. The results of porting the digital twin on the mentioned platform shows promising potential for its extension to other sport disciplines.
+AD  - Univ Maribor, Fac Elect Engn & Comp Sci, Maribor 2000, SloveniaAD  - Univ Alcala, Dept Signal Proc & Commun, Alcala De Henares 28805, SpainAD  - Univ Cantabria, Dept Appl Math & Computat Sci, E-39005 Santander, SpainAD  - Fac Econ & Business, Razlagova 14, Maribor 2000, SloveniaC3  - University of MariborC3  - Universidad de AlcalaC3  - Universidad de CantabriaC3  - University of MariborFU  - Slovenian Research Agency [P2-0057, P2-0042, P5-0027]; project PDE-GIR of the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant [778035]; MCIN/AEI/FEDER "Una manera de hacer Europa" [TIN2017-89275-R]
+FX  - Iztok Fister Jr. is grateful for the financial support from the Slovenian Research Agency (Research Core Funding No. P2-0057). Iztok Fister is grateful for the financial support from the Slovenian Research Agency (Research Core Funding No. P2-0042-Digital twin). Dusan Fister is grateful for the financial support from the Slovenian Research Agency (Research Core Funding No. P5-0027). Akemi Galvez and Andres Iglesias have received funding from the project PDE-GIR of the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement no. 778035, and from the project TIN2017-89275-R funded by MCIN/AEI /10.13039/501100011033/FEDER "Una manera de hacer Europa".
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2076-3417
+J9  - APPL SCI-BASEL
+JI  - Appl. Sci.-Basel
+DA  - DEC
+PY  - 2021
+VL  - 11
+IS  - 23
+C7  - 11452
+DO  - 10.3390/app112311452
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000762220300001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  41
+ER  -
+
+TY  - JOUR
+AU  - Long, TG
+AU  - Jiang, CQ
+AU  - Sang, WX
+AU  - Gu, YY
+AU  - Ding, JQ
+AU  - Li, LM
+TI  - Constructing a Digital Twin of the Birdcage Coil in an MR Scanner by B-1(+) Map Matching: For Radio Frequency Heating Evaluation of Implantable Medical Devices
+T2  - IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT
+LA  - English
+KW  - B-1(+) mapping
+KW  - birdcage coil
+KW  - implantable medical device
+KW  - magnetic resonance imaging (MRI) compatibility
+KW  - radio frequency (RF) heating
+KW  - DEEP BRAIN-STIMULATION
+KW  - MAGNETIC-RESONANCE
+KW  - EXPERIMENTAL SETUP
+KW  - FIELD
+KW  - VALIDATION
+KW  - SIMULATION
+KW  - MODEL
+KW  - LEAD
+KW  - SAR
+KW  - ABSORPTION
+AB  - Radio frequency (RF)-induced heating associated with medical implants is a critical concern when performing a magnetic resonance imaging (MRI) scan. The purpose of this study is to construct a "digital twin" of RF coil integrated in an MRI scanner by B-1(+) map matching, reproducing the physical electromagnetic (EM) field, allowing it to be a qualified test environment for heating evaluations. B-1(+) map inside an American Society for Testing Material (ASTM) phantom with various positions was used to characterize the physical EM field. A loaded tuned two-port birdcage body coil model was established to generate the numerical EM field and optimized to minimize the difference between the measured and simulated fields, which was quantified by "mean symmetric mean absolute percentage error" (mSMAPE). The amplitude of the simulated field was normalized to MR sequence labeling. Finally, the average specific absorption rate (SAR) inside the ASTM phantom was measured in a calorimetry experiment and compared to simulation one heated by the pre-established coil. A heating experiment was performed on an insulated cable to further validate the established test environment. The impact of excitation parameters and the port location was investigated. mSMAPE of the optimized field was less than 10%. The difference between the simulated and measured average SAR was 8.5%. R-2 for the linear regression of the temperature rise and predicted power deposition using the optimized field was 0.993. The digital twin was successfully constructed and verified a sufficiently accurate description of the physical field. The established construction method of the digital twin provides a handy choice for building RF test environment and may create more possibilities for the development of this area.
+AD  - Tsinghua Univ, Natl Engn Res Ctr Neuromodulat, Sch Aerosp Engn, Beijing 100084, Peoples R ChinaAD  - Tsinghua Univ, IDG McGovern Inst Brain Res, Beijing 100084, Peoples R ChinaAD  - Tsinghua Univ, Precis Med & Healthcare Res Ctr, Tsinghua Berkeley Shenzhen Inst, Shenzhen 518071, Peoples R ChinaAD  - Beijing Inst Brain Disorders, Inst Epilepsy, Beijing 100093, Peoples R ChinaC3  - Tsinghua UniversityC3  - Tsinghua UniversityC3  - Tsinghua UniversityFU  - National Key Research and Development Program of China [2021YFC2400201]; National Natural Science Foundation of China [51777115, 81830033]; Shenzhen International Cooperative Research Project [GJHZ20180930110402104]
+FX  - This work was supported in part by the National Key Research and Development Program of China under Grant 2021YFC2400201, in part by the National Natural Science Foundation of China under Grant 51777115 and Grant 81830033, and in part by Shenzhen International Cooperative Research Project under Grant GJHZ20180930110402104.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 0018-9456
+SN  - 1557-9662
+J9  - IEEE T INSTRUM MEAS
+JI  - IEEE Trans. Instrum. Meas.
+PY  - 2022
+VL  - 71
+C7  - 6006909
+DO  - 10.1109/TIM.2022.3212552
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000875898900018
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  57
+ER  -
+
+TY  - JOUR
+AU  - Vayssiere, C
+AU  - Favre, R
+AU  - Audibert, F
+AU  - Chauvet, MP
+AU  - Gaucherand, P
+AU  - Tardif, D
+AU  - Grange, G
+AU  - Novoa, A
+AU  - Descamps, P
+AU  - Perdu, M
+AU  - Andrini, E
+AU  - Janse-Marec, J
+AU  - Maillard, F
+AU  - Nisand, I
+A1  - GROG
+TI  - Cervical assessment at 22 and 27 weeks for the prediction of spontaneous birth before 34 weeks in twin pregnancies: is transvaginal sonography more accurate than digital examination?
+T2  - ULTRASOUND IN OBSTETRICS & GYNECOLOGY
+LA  - English
+KW  - cervical length
+KW  - diagnostic accuracy
+KW  - manual examination
+KW  - prematurity
+KW  - twins
+KW  - SPONTANEOUS PRETERM BIRTH
+KW  - PREMATURE DELIVERY
+KW  - GESTATIONS
+KW  - LABOR
+KW  - RISK
+KW  - ULTRASONOGRAPHY
+KW  - LENGTH
+AB  - Objectives This study compared the accuracy of ultrasound cervical assessment (cervical length and cervical index) and digital examination (Bishop score and cervical score) in the prediction of spontaneous birth before 34 weeks in twin pregnancies.
+   Methods In a prospective multicenter study, digital examination and transvaginal sonography were performed consecutively in twin pregnancies attending for routine sonograpby at either 22 weeks (175 women) or 27 weeks (153 women). The digital examination took place first, and the Bishop score and cervical score (cervical length minus cervical dilatation) were calculated. Ultrasound measurements were then made of cervical length and funnel length to yield the cervical index (I + funnel length/cervical length). The association between each variable and delivery before 34 weeks was tested by the Mann-Whitney U-test. The receiver-operating characteristics (ROC) curves of the ultrasound and digital indicators were determined for both gestational age periods, and the areas under the ROC curves compared. The best cut-off values for each indicator were used to determine predictive values for delivery before 34 weeks.
+   Results The median gestational age at delivery among the women included in the 22-week examination period was 36.0 (range, 21-40) weeks; 10.9% (19) gave birth spontaneously before 34 weeks. The median cervical length was 40 (range, 6-65) mm. All four parameters were predictors of delivery before 34 weeks. The areas under the ROC curves for cervical index, cervical length, Bishop score and cervical score did not differ significantly. The median gestational age at delivery among the women in the 27-week examination period was 36.0 (range, 27-40) weeks; 9.2% (14) gave birth spontaneously before 34weeks. The median cervical length was 35 (range, 1-57) mm. All parameters except the Bishop score were Predictors of delivery before 34 weeks. The likelihood ratio of the positive and negative tests for cervical length < 25 mm was 5.4 (range, 3.2-9.0) and 0.3 (range, 0.1-0.7), respectively, compared with 2.3 (range, 1.3-4.2) and 0.6 (range, 0.3-1.1), respectively, for cervical score <1. The area under the curve for the cervical index was significantly larger than that for the Bishop score (P = 0.008) or cervical score (P = 0.02).
+   Conclusion Transvaginal sonograpby predicted spontaneous delivery before 34 weeks better than digital examination at the 27-week but not the 22-week examination. Copyright (c) 2005 ISUOG. Published by John Wiley & Sons, Ltd.
+AD  - Univ Strasbourg 1, Dept Obstet & Gynecol, Ctr Med Chirurg & Obstet, SIHCUS, F-67303 Strasbourg, Schiltigheim, FranceAD  - Univ Paris 05, CHI Leon Touhladjian, Dept Obstet, Poissy, FranceAD  - Univ Paris 05, CHI Leon Touhladjian, Dept Gynecol, Poissy, FranceAD  - Univ Paris 11, CHU Antoine Beclere, Clamart, FranceAD  - CHRU Jeanne De Flandre Hosp, Lille, FranceAD  - Hop Croix Rousse, F-69317 Lyon, FranceAD  - Univ Paris 07, CHU Bichat, Paris, FranceAD  - CHU Cochin St Vincent De Paul, Matern Port Royal, Paris, FranceAD  - CHG Dreux, Dreux, FranceAD  - CHU Angers, Angers, FranceAD  - Clin Magnin, Noumea, New CaledoniaAD  - CHU Grenoble Nord & Grenoble Sud, Grenoble, FranceAD  - Franco Britann Hosp, Paris, FranceAD  - Natl Inst Hlth & Med Res, Epidemiol Res Unit Perinatal Hlth & Womens Hlth, Paris, FranceC3  - CHU StrasbourgC3  - UDICE-French Research UniversitiesC3  - Universites de Strasbourg Etablissements AssociesC3  - Universite de StrasbourgC3  - UDICE-French Research UniversitiesC3  - Universite Paris CiteC3  - UDICE-French Research UniversitiesC3  - Universite Paris CiteC3  - Assistance Publique Hopitaux Paris (APHP)C3  - Hopital Universitaire Antoine-Beclere - APHPC3  - UDICE-French Research UniversitiesC3  - Universite Paris SaclayC3  - Universite de Lille - ISITEC3  - CHU LilleC3  - CHU LyonC3  - UDICE-French Research UniversitiesC3  - Universite Paris CiteC3  - Assistance Publique Hopitaux Paris (APHP)C3  - Hopital Universitaire Bichat-Claude Bernard - APHPC3  - UDICE-French Research UniversitiesC3  - Universite Paris CiteC3  - Assistance Publique Hopitaux Paris (APHP)C3  - Hopital Universitaire Cochin - APHPC3  - Universite d'AngersC3  - Centre Hospitalier Universitaire d'AngersC3  - CHU Grenoble AlpesC3  - Institut National de la Sante et de la Recherche Medicale (Inserm)PU  - JOHN WILEY & SONS LTD
+PI  - CHICHESTER
+PA  - THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN  - 0960-7692
+J9  - ULTRASOUND OBST GYN
+JI  - Ultrasound Obstet. Gynecol.
+DA  - DEC
+PY  - 2005
+VL  - 26
+IS  - 7
+SP  - 707
+EP  - 712
+DO  - 10.1002/uog.2616
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000234027800004
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  11
+Cited Reference Count:  21
+ER  -
+
+TY  - JOUR
+AU  - Li, Y
+AU  - Chang, DF
+AU  - Gao, YP
+AU  - Zou, Y
+AU  - Bao, CT
+TI  - Automated Container Terminal Production Operation and Optimization via an AdaBoost-Based Digital Twin Framework
+T2  - JOURNAL OF ADVANCED TRANSPORTATION
+LA  - English
+KW  - CRANE SCHEDULING PROBLEM
+KW  - YARD CRANE
+AB  - Digital twin (DT), machine learning, and industrial Internet of things (IIoT) provide great potential for the transformation of the container terminal from automation to intelligence. The production control in the loading and unloading process of automated container terminals (ACTs) involves complex situations, which puts forward high requirements for efficiency and safety. To realize the real-time optimization and security of the ACT, a framework integrating DT with the AdaBoost algorithm is proposed in this study. The framework is mainly composed of physical space, a data service platform, and virtual space, in which the twin space and service system constitute virtual space. In the proposed framework, a multidimensional and multiscale DT model in twin space is first built through a 3D MAX and U3D technology. Second, we introduce a random forest and XGBoost to compare with AdaBoost to select the best algorithm to train and optimize the DT mechanism model. Third, the experimental results show that the AdaBoost algorithm is better than others by comparing the performance indexes of model accuracy, root mean square error, interpretable variance, and fitting error. In addition, we implement empirical experiments by different scales to further evaluate the proposed framework. The experimental results show that the mode of the DT-based terminal operation has higher loading and unloading efficiency than that of the conventional terminal operation, increasing by 23.34% and 31.46% in small-scale and large-scale problems, respectively. Moreover, the visualization service provided by the DT system can monitor the status of automation equipment in real time to ensure the safety of operation.
+AD  - Shanghai Maritime Univ, Inst Logist Sci & Engn, Shanghai 201306, Peoples R ChinaAD  - Shanghai Int Port Grp Co Ltd, Shanghai 201306, Peoples R ChinaC3  - Shanghai Maritime UniversityFU  - National Key Research and Development Plan of China [2019YFB1704403]
+FX  - This work was supported by the National Key Research and Development Plan of China under Grant 2019YFB1704403.
+PU  - WILEY-HINDAWI
+PI  - LONDON
+PA  - ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN  - 0197-6729
+SN  - 2042-3195
+J9  - J ADV TRANSPORT
+JI  - J. Adv. Transp.
+DA  - SEP 8
+PY  - 2021
+VL  - 2021
+C7  - 1936764
+DO  - 10.1155/2021/1936764
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000697297200002
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  44
+ER  -
+
+TY  - CPAPER
+AU  - Tokita, K
+AU  - Fujiwara, K
+AU  - Yoshida, M
+AU  - Yakabe, T
+A1  - IEEE
+TI  - Development of a Simplified Six-port Correlator for the 28 GHz band
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Six-Port Correlator
+KW  - transmission coefficient measurement
+KW  - 28 GHz band
+AB  - Recently, there has been a rapid increase in the demand for microwave and millimeter-wave applications represented by 5G technologies. With the wide use of microwave and millimeter-wave components, there is a great demand for inexpensive measurement instruments. This work developed a simplified six-port correlator (SPC) for vector network analyzers (VNAs) in the 28 GHz band. This simplified SPC measures the magnitude and phase information of a device under test, independently. A noncombined power detection method was used to improve the measurement dynamic range. We demonstrated the transmission properties of a band-pass filter in the 28 GHz band on the simplified SPC. Consequently, in magnitude measurement, the dynamic range of the simplified SPC was over 40 dB.
+AD  - Tokyo Metropolitan Ind Technol Res Inst, Koto Ku, 2-4-10 Aomi, Tokyo 1350064, JapanAD  - CDEX Co Ltd, 1623-1 Momura, Inagi, Tokyo 2060804, JapanAD  - Multi Port Lab Ltd Liabil Partnership, UEC Aliance Ctr 322,1-1-1 Kojimacho, Chofu, Tokyo 1820026, JapanFU  - METI Monozukuri R&D Support Grant Program for SMEs [JPJ005698]
+FX  - This work was supported by the METI Monozukuri R&D Support Grant Program for SMEs (grant number JPJ005698). We would like to thank Editage (www.editage.com) for English language editing.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 420
+EP  - 422
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600136
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - JOUR
+AU  - Coumans, F
+TI  - 'Digital City Rotterdam' Anticipates Human Life 2.0
+T2  - GIM INTERNATIONAL-THE WORLDWIDE MAGAZINE FOR GEOMATICS
+LA  - English
+AB  - If 3D is becoming the new normal in spatial. data infrastructures, how can it be used in an urban environment? The Dutch city of Rotterdam, known as home to the largest port in Europe, is preparing for that next step by developing a digital twin of the physical city. The primary aim of 'Digital City Rotterdam is to improve the efficiency of urban planning and management. But at the same time the city council is on the lookout for applications that will help people integrate the digital world into their real one - or will it be the other way around in the not-so-distant future?
+PU  - REED BUSINESS-GEO
+PI  - LEMMER
+PA  - PO BOX 112, LEMMER, 8530 AC, NETHERLANDS
+SN  - 1566-9076
+J9  - GIM INT
+JI  - GIM Int.
+DA  - NOV-DEC
+PY  - 2019
+VL  - 33
+IS  - 6
+SP  - 22
+EP  - 25
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000498877600018
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - JOUR
+AU  - Yang, JS
+AU  - Mei, L
+AU  - Noh, KY
+AU  - Moon, SH
+AU  - Sa, BD
+AU  - Choi, GM
+AU  - Kim, DJ
+TI  - A sensitivity study of size parameters in a twin-type rolling piston compressor
+T2  - INTERNATIONAL JOURNAL OF REFRIGERATION-REVUE INTERNATIONALE DU FROID
+LA  - English
+KW  - Rolling piston compressor
+KW  - Dynamic analysis
+KW  - Sensitivity study
+KW  - Energy Efficiency Ratio
+KW  - Optimization
+AB  - In this paper, numerical studies on size parameters has been conducted to improve the performance of a twin-type rolling piston compressor, which has two cylinders called upper and lower cylinders with phase difference of 180 degrees. In order to verify the computational reliability, the simulated results were compared with experimental ones. Sensitivity analysis of each parameter has been undertaken to investigate the influence of the parameters on compressor performance. Especially, size optimization has been studied to find an optimal combination of size parameters based on the sensitivity analysis of each parameter at the given operational condition and working volume. It was demonstrated that the maximum limits on the valve lift (y(max)) and the suction port diameter (D_sp) showed the highest sensitivity to the compressor performance and optimum design condition, which corresponded to an Energy Efficiency Ratio (EER) that is 2.6% higher compared to the reference condition. Crown Copyright 2012 Published by Elsevier Ltd and IIR. All rights reserved.
+AD  - Pusan Natl Univ, Rolls Royce Univ Technol Ctr Thermal Management, Pusan 609735, South KoreaAD  - Pusan Natl Univ, Grad Sch Mech Engn, Pusan 609735, South KoreaAD  - LG Elect Inc, Energy Components R&D Dept, Seoul 153802, South KoreaAD  - Pusan Natl Univ, Res Inst Mech Technol, Pusan 609735, South KoreaC3  - Pusan National UniversityC3  - Pusan National UniversityC3  - LG ElectronicsC3  - Pusan National UniversityFU  - Digital Appliance Company Laboratory, LG Electronics, Inc., in Chang-Won, Korea
+FX  - The authors would like to acknowledge financial support from the Digital Appliance Company Laboratory, LG Electronics, Inc., in Chang-Won, Korea.
+PU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 0140-7007
+J9  - INT J REFRIG
+JI  - Int. J. Refrig.-Rev. Int. Froid
+DA  - MAY
+PY  - 2013
+VL  - 36
+IS  - 3
+SP  - 786
+EP  - 794
+DO  - 10.1016/j.ijrefrig.2012.08.027
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000317152800013
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  12
+Cited Reference Count:  11
+ER  -
+
+TY  - CPAPER
+AU  - Kado, Y
+AU  - Katagiri, K
+ED  - Dias, FM
+ED  - Quintal, F
+TI  - Autonomous Distributed Power Network Consisting of Triple Active Bridge Converters
+T2  - 2018 ENERGY AND SUSTAINABILITY FOR SMALL DEVELOPING ECONOMIES (ES2DE)
+LA  - English
+CP  - Conference on Energy and Sustainability for Small Developing Economies (ES2DE)
+KW  - Autonomous distributed power network
+KW  - triple active bridge converter
+KW  - phase shift modulation
+KW  - decoupling power-flow control
+KW  - digital-twin model
+KW  - DC-DC CONVERTER
+KW  - 3-PORT
+AB  - This paper proposes an autonomous distributed power network consisting of triple active bridge (TAB) converters for constructing a locally-produced-and-consumed power interchange system that can meet many types of user requirements in small developing economies. A TAB converter with detachable AC/DC converter units controls the direction and magnitude of power flows between three ports regardless of DC or AC power. We constructed a prototype TAB converter rated at 400 V and 10 kW. We tested the power-flow control and measured the step response of the DC power when the command value of the DC power was abruptly changed. The experimental results revealed that our decoupling power-control methodology is appropriate to control the power flow of our prototype TAB converter in stand-alone operation. We also constructed an autonomous distributed power network testbed consisting of the TAB converters as network nodes and explored a digital-twin model in mutually-connected operation for developing a power flow control system of our autonomous distributed power network.
+AD  - Kyoto Inst Technol, Dept Elect, Kyoto, JapanC3  - Kyoto Institute of TechnologyFU  - JSPS KAKENHI [JP16KT0104]
+FX  - This work was supported by JSPS KAKENHI Grant Number JP16KT0104.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-1-5386-8091-9
+PY  - 2018
+SP  - 45
+EP  - 50
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000448951100008
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  19
+ER  -
+
+TY  - JOUR
+AU  - Poole, A
+AU  - Sutcliffe, M
+AU  - Pierce, G
+AU  - Gachagan, A
+TI  - Autonomous, Digital-Twin Free Path Planning and Deployment for Robotic NDT: Introducing LPAS: Locate, Plan, Approach, Scan Using Low Cost Vision Sensors
+T2  - APPLIED SCIENCES-BASEL
+LA  - English
+KW  - NDT
+KW  - free form surface profiling
+KW  - flexible automatised robotic systems
+KW  - Ultrasonic Testing
+KW  - remanufacturing
+KW  - ALGORITHM
+AB  - Robotised Non Destructive Testing (NDT) presents multifaceted advantages, saving time and reducing repetitive manual workloads for highly skilled Ultrasonic Testing (UT) operators. Due to the requisite accuracy and reliability of the field, robotic NDT has traditionally relied on digital twins for complex path planning procedures enabling precise deployment of NDT equipment. This paper presents a multi-scale and collision-free path planning and implementation methodology enabling rapid deployment of robotised NDT with commercially available sensors. Novel algorithms are developed to plan paths over noisy and incomplete point clouds from low-cost sensors without the need for surface primitives. Further novelty is introduced in online path corrections utilising laser and force feedback while applying a Conformable-Wedge probe UT sensor. Finally, a novel source of data beneficial to automated NDT is introduced by collecting frictional forces of the surface informing the operator of the surface preparation quality. The culmination of this work is a new path-planning free, single-shot automated process removing the need for complex operator-driven procedures with a known surface, visualising collected data for the operator as a three-dimensional C-scan model. The dynamic robotic control enables a move to the industry 4.0 model of adaptive online path planning. Experimental results indicate the flexible and streamlined pipeline for robotic deployment, and demonstrate intuitive data visualisation to aid highly skilled operators in a wide field of industries.
+AD  - Univ Strathclyde, Ctr Ultrason Engn CUE, Glasgow G1 1XW, Lanark, ScotlandAD  - Welding Inst TWI Wales, Port Talbot SA13 1SB, WalesC3  - University of StrathclydeFU  - Engineering and Physical Sciences Research Council (EPSRC), ICASE PhD studentship [S513908/1]; Welsh European Funding Office (WEFO) using European Regional Development Funds (ERDF)
+FX  - This research was funded by the Engineering and Physical Sciences Research Council (EPSRC) as part of an ICASE PhD studentship, grant number S513908/1. This project is part of an initiative known as the Advanced Engineering Materials Research Institute (AEMRI), which is funded by the Welsh European Funding Office (WEFO) using European Regional Development Funds (ERDF).
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2076-3417
+J9  - APPL SCI-BASEL
+JI  - Appl. Sci.-Basel
+DA  - MAY
+PY  - 2022
+VL  - 12
+IS  - 10
+C7  - 5288
+DO  - 10.3390/app12105288
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000801454700001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  20
+ER  -
+
+TY  - CPAPER
+AU  - Sano, M
+AU  - Hashimoto, K
+A1  - IEEE
+TI  - Compact Six-Port Out-of-Phase Power Divider With Reduced Amplitude Imbalance
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Out-of-phase power divider
+KW  - ring crossover
+KW  - dual-polarized antenna
+KW  - stripline
+AB  - This paper presents a compact six-port power divider that performs two independent out-of-phase divisions with small amplitude imbalance between the output ports. The power divider was composed of a hybrid ring with a circumferential length of one guided wavelength lambda(g) and non-uniform characteristic impedance. The scattering matrix of this power divider was derived analytically, and the characteristic impedance of each segment of the ring was determined to minimize the amplitude imbalance. A power divider with a non-uniform stripline ring and operating at 2.45GHz was designed. Reduced amplitude imbalance was observed during electromagnetic simulation with the new design.
+AD  - Toshiba Co Ltd, Wireless Syst Lab, Corp Res & Dev Ctr, Informat & Commun Platform Labs,Saiwai Ku, 1 Komukai Toshiba Cho, Kawasaki, Kanagawa 2128582, JapanC3  - Toshiba CorporationPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 19
+EP  - 21
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600007
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - JOUR
+AU  - Senthilnathan, K
+AU  - Annapoorani, I
+TI  - Multi-Port Current Source Inverter for Smart Microgrid Applications: A Cyber Physical Paradigm
+T2  - ELECTRONICS
+LA  - English
+KW  - cyber physical systems
+KW  - dual output inverter
+KW  - rapid control prototype
+KW  - SLIDING MODE CONTROL
+KW  - DIGITAL TWIN
+KW  - SYSTEM
+KW  - VULNERABILITIES
+KW  - IMPLEMENTATION
+KW  - CHALLENGES
+KW  - INTERNET
+AB  - This paper presents a configuration of dual output single-phase current source inverter with six-switches for microgrid applications. The inverter is capable of delivering power to two independent set of loads of equal voltages or different voltages at the load end. The control strategy is based on integral sliding mode control (ISMC). The cyber twin model-based test bench is developed to analyze the performance of the inverter. The cyber twin is a virtual model of the physical system to simulate behaviours. The performance of the inverter is analyzed with a cyber twin model and monitored through the remote system. Also, the inverter is analyzed with different voltage conditions.
+AD  - Vellore Inst Technol, Sch Elect Engn, Chennai 600127, Tamil Nadu, IndiaC3  - Vellore Institute of Technology (VIT)C3  - VIT ChennaiPU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2079-9292
+J9  - ELECTRONICS-SWITZ
+JI  - Electronics
+DA  - JAN
+PY  - 2019
+VL  - 8
+IS  - 1
+C7  - 1
+DO  - 10.3390/electronics8010001
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000457142800001
+N1  - Times Cited in Web of Science Core Collection:  10
+Total Times Cited:  12
+Cited Reference Count:  41
+ER  -
+
+TY  - CPAPER
+AU  - Lee, J
+AU  - Lee, J
+A1  - IEEE
+TI  - Direct Conversion from Two-Port S-parameters to Coupled-Line Impedances
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Coupled lines
+AB  - This paper illustrates a straightforward method to diagnose the even- and odd-mode impedances of a pair of coupled lines without driving them with common- and differential-mode excitations (four-port measurements). It will be shown that two consecutive two-port measurements of coupled lines are sufficient to fully determine the modal impedances, supported by equations that link the two-port measurement results and the impedances.
+AD  - Korea Univ, Microwave Millimeter Wave LAB, Seoul 02841, South KoreaC3  - Korea UniversityFU  - National Research Foundation of Korea (NRF) through the Korea Government (MSIT) [2022R1A2B5B01001340]
+FX  - This work was supported by the National Research Foundation of Korea (NRF) through the Korea Government (MSIT) under Grant No. 2022R1A2B5B01001340.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 193
+EP  - 195
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600064
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  6
+ER  -
+
+TY  - JOUR
+AU  - Yang, A
+AU  - Meng, XY
+AU  - He, H
+AU  - Wang, L
+AU  - Gao, J
+TI  - Towards Optimized ARMGs' Low-Carbon Transition Investment Decision Based on Real Options
+T2  - ENERGIES
+LA  - English
+KW  - low-carbon transition
+KW  - ARMGs
+KW  - investment decision
+KW  - real options
+KW  - ENERGY
+KW  - EMISSION
+KW  - TECHNOLOGIES
+KW  - REDUCTION
+KW  - PROJECTS
+KW  - PORT
+AB  - As a critical node of the global transportation network, ports have great potential in promoting transportation emission reduction. Promoting the low-carbon transition of ports by using clean energy is effective. Using hydrogen energy in automated container terminals (ACTs) has become popular in port emission-reduction research. The research object is the main port equipment-the automated rail-mounted container gantry crane (ARMG). This research designs a staged investment decision-making scheme for ARMGs' hydrogen energy transition. The Internet of Things (IoT) architecture in ACTs collects ARMG equipment operation and carbon emission data. It provides a basis for data acquisition in ARMGs' hydrogen energy transition. Furthermore, ports can adopt big data technology to analyze the correlation between equipment operation and carbon emissions. Finally, the digital twin platform will visualize the ARMG equipment operation and carbon emission behavior to remote operators. These advanced technologies can achieve status monitoring and simulation prediction, which will support ARMGs' hydrogen energy transition. However, the ARMGs' hydrogen energy transition has a long cycle, large investment, and strong variability. Ports should make staged investment decisions based on the digital twin platform's status monitoring and simulation prediction analysis results. Therefore, this research establishes an optimization model for ARMGs' low-carbon transition investment decision based on the real options method, and analyzes the staged investment scale and timing of ARMGs' hydrogen energy transition. The results provide a popularized decision-making scheme for the low-carbon transition of ports' equipment, which could facilitate the low-carbon transition of ports' equipment.
+AD  - Dalian Maritime Univ, Sch Maritime Econ & Management, Dalian 116026, Peoples R ChinaAD  - Shanghai Univ, Sch Econ, Shanghai 200444, Peoples R ChinaAD  - Univ South Australia, UniSA STEM, Adelaide, SA 5001, AustraliaC3  - Dalian Maritime UniversityC3  - Shanghai UniversityC3  - University of South AustraliaFU  - Social Science Planning Foundation of Liaoning Province [L20BGL056]
+FX  - This research was supported by the Social Science Planning Foundation of Liaoning Province (No. L20BGL056).
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 1996-1073
+J9  - ENERGIES
+JI  - Energies
+DA  - JUL
+PY  - 2022
+VL  - 15
+IS  - 14
+C7  - 5153
+DO  - 10.3390/en15145153
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000833325300001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  45
+ER  -
+
+TY  - CPAPER
+AU  - Finger, GM
+AU  - Schaub, MM
+AU  - Dahms, F
+AU  - Hassel, E
+AU  - Riebe, T
+AU  - Milbradt, G
+AU  - Wehner, K
+A1  - IEEE
+TI  - On-Board Support System for the eco-friendly ship operation in coastal and port areas
+T2  - OCEANS 2019 - MARSEILLE
+LA  - English
+CP  - OCEANS - Marseille Conference
+KW  - Electronic Support
+KW  - Controls
+KW  - Assistance Systems
+KW  - Automation
+KW  - Measurement & Monitoring
+KW  - Digital Twin - Manoeuvring
+AB  - Shipping in concerns of eco-friendly and economical efficient operation can be achieved by many different measures. Most of them are technological approaches, e.g by changing engine control parameters, usage of different fuels, exhaust gastreatment systems or internal measures to make the engine itself more efficient or eco-friendly. The lost part in this measures is, that there are still humans who are in charge of controlling the vessel and that they should be kept in the loop of efficiency. For numerous vessels, it is neither efficient nor economically reasonable to exchange or enhance the existing power generation or propulsion systems in order to improve efficiency or reduce emissions. Some internal measures even lead to a higher fuel consumption in order to reduce NOx-emissions.
+   Therefore optimal operational procedures for handling ships and specifically the outcome of engine manoeuvres is a substantial source for eco-friendly ship operations. The German research project MEmBran (Modelling Emissions and Fuel Consumption during Ship Manoeuvres) addresses especially the basis for optimising ship engine manoeuvres. It focusses on a very detailed simulation of the processes of currently existing ship diesel engines (in a first step 4-stroke engines) in order to apply them within a more comprehensive ship handling simulation software. As a part of an existing planning andprediction software that can be used on board, it enables the watchkeeping nautical officer and the shipping company to forecast and compare the fuel consumption of the ship for each manoeuvre. It further allows to identify the best option of the ship operator's possible actions under several conditions and afterwards a comparison of varying manoeuvre strategies of different navigators will be enabled
+AD  - Wismar Univ Appl Sci, Dept Martime Studies, Rostock, GermanyAD  - Rostock Univ, Chair Tech Thermodynam, Rostock, GermanyC3  - University of RostockFU  - German Federal Ministry of Economic Affairs and Energy
+FX  - The above described approach derived from a German research project, granted by the German Federal Ministry of Economic Affairs and Energy. The project duration is 36 months and will end in 2019. The following organizations are project members and contribute to the project: MARSIG GmbH Rostock, University of Wismar (Department of Maritime Studies), University of Rostock (Chair of Technical Thermodynamics), Rheinmetall Electronics Bremen (Division of Mmaritime Simulation) and associated partners.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 0197-7385
+SN  - 978-1-7281-1450-7
+J9  - OCEANS-IEEE
+PY  - 2019
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000591652100122
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  13
+ER  -
+
+TY  - JOUR
+AU  - Preisig, HA
+TI  - Ontology-Based Process Modelling-with Examples of Physical Topologies
+T2  - PROCESSES
+LA  - English
+KW  - model-based
+KW  - computational engineering
+KW  - process simulation
+KW  - digital twin
+AB  - Reductionism and splitting application domain into disciplines and identify the smallest required model-granules, termed "basic entity" combined with systematic construction of the behaviour equations for the basic entities, yields a systematic approach to process modelling. We do not aim toward a single modelling domain, but we enable to address specific application domains and object inheritance. We start with reductionism and demonstrate how the basic entities are depending on the targeted application domain. We use directed graphs to capture process models, and we introduce a new concept, which we call "tokens" that enables us to extend the context beyond physical systems. The network representation is hierarchical so as to capture complex systems. The interacting basic entities are defined in the leave nodes of the hierarchy, making the overall model the interacting networks in the leave nodes. Multi-disciplinary and multi-scale models result in a network of networks. We identify two distinct network communication ports, namely ports that exchange tokens and ports that transfer information of tokens in accumulators. An ontology captures the structural elements and the applicable rules and defines the syntax to establish the behaviour equations. Linking the behaviours to the basic entities defines the alphabet of a graphical language. We use this graphical language to represent processes, which has proven to be efficient and valuable. A set of three examples demonstrates the power of the graphical language. The Process Modelling framework (ProMo) implements the ontology-centred approach to process modelling and uses the graphical language to construct process models.
+AD  - Norwegian Univ Sci & Technol, Dept Chem Engn, N-7491 Trondheim, NorwayC3  - Norwegian University of Science & Technology (NTNU)FU  - Bio4Fuels Research Council of Norway (RCN) project [257622]; MARKETPLACE H2020-NMBP-25-2017 project [760173]; VIPCOAT H2020NMBP-TO-IND-2020 project [952903T]; MODENA FP7-NMP-Specific Programme "cooperation": Nanosciences, Nanotechnologies, materials and new Product Technologies Grant [604271]
+FX  - ProMo research was funded in part by: (i) Bio4Fuels Research Council of Norway (RCN) project 257622 (ii) MARKETPLACE H2020-NMBP-25-2017 project 760173. (iii) VIPCOAT H2020NMBP-TO-IND-2020 project 952903T (iv) MODENA FP7-NMP-Specific Programme "cooperation": Nanosciences, Nanotechnologies, materials and new Product Technologies Grant agreement ID: 604271.
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2227-9717
+J9  - PROCESSES
+JI  - Processes
+DA  - APR
+PY  - 2021
+VL  - 9
+IS  - 4
+C7  - 592
+DO  - 10.3390/pr9040592
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000643601600001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  15
+ER  -
+
+TY  - CPAPER
+AU  - Abu Sufian, M
+AU  - Hussain, N
+AU  - Abbas, A
+AU  - Awan, WA
+AU  - Choi, D
+AU  - Kim, N
+A1  - IEEE
+TI  - A series fed planar array-based 4-port MIMO antenna for 5G mmWave IoT Applications
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - MIMO antenna
+KW  - 5G mmWave
+KW  - 28 GHz
+KW  - series-fed planar array
+KW  - low mutual coupling
+KW  - Internet of Things (IoT) antenna
+KW  - high gain antenna
+AB  - This paper presents the design of a series fed planar array-based 4-port multiple-input-multiple-output (MIMO) antenna for 28 GHz Internet of Things (IoT) applications. The unit element comprises a conventional rectangular patch-shaped series array antenna offering high gain along with loaded patches to suppress the side lobe level. The unit element of the MIMO antenna is designed using a 0.787mm thick Rogers RT5880 having an overall compact size of 16mm x 16 mm. Afterward, to meet the requirements of modern 5G systems a MIMO antenna is constructed by utilizing unit elements in such a way that each element is rotated 900 with reference to the previous element. The MIMO antenna also offers a compact size of 32mm x 32 mm having an impedance bandwidth ranging from 27.66 GHz to 29.14 GHz, which refers to 5.21% of the central frequency. The MIMO performance parameters show that the proposed antenna offers a peak gain of 10.6 dBi along with low mutual coupling and envelope correlation coefficient (ECC) of < -40 dB and < 0.0001, respectively. The strong performance parameter of the single element as well as the MIMO antenna makes the proposed work a strong candidate for mm-wave IoT applications.
+AD  - Chungbuk Natl Univ, Dept Informat & Commun Engn, Chungdae Ro 1, Cheongju 28644, Chungcheongbuk, South KoreaAD  - Sejong Univ, Dept Smart Device Engn, Seoul 05006, South KoreaC3  - Chungbuk National UniversityC3  - Sejong UniversityFU  - Institute of Information & communications Technology Planning & Evaluation (IITP) - Korean Government (MSIT) [1711160559, 2022-0-00452-001]
+FX  - This work was supported by the Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korean Government (MSIT) (No.1711160559, 2022-0-00452-001, Development of 3.3kW cluster wireless charging technologies for robot).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 880
+EP  - 882
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600288
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Ye, YJ
+AU  - Cheong, P
+AU  - Choi, WW
+A1  - IEEE
+TI  - Effect of Static Reflector in Vital Sign Radar Sensing System
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Vital signs
+KW  - radar
+KW  - six-port interferometric circuit
+KW  - modulator
+KW  - reflector
+AB  - Non-contact short-range radar sensors can detect object movement based on the amplitude and phase readouts. Such systems are widely used in industries, but the medical sector is of special interest. In this work, a Doppler radar system based on six-port interferometric topology is presented to investigate the effect of the reflection by the environment or static part of an object on the received signals from the desired modulator (i.e., a patient's chest). The experimental results show that the static reflector partially distorts the reflected signal of the modulator. In addition, the larger the area, the more significant the distortion is, laying a foundation for future research.
+AD  - Univ Macau, Fac Sci & Technol, Dept Elect & Comp Engn, Macau, Peoples R ChinaC3  - University of MacauFU  - Macao Science and Technology Development Fund [FDCT/0074/2021/A]; University of Macau [CG-FST-2022, SRG2021-00019-FST]
+FX  - This work was partly supported by the Macao Science and Technology Development Fund under Grant FDCT/0074/2021/A, and the University of Macau (CG-FST-2022) and (SRG2021-00019-FST).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 563
+EP  - 565
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600183
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - JOUR
+AU  - Dua, A
+AU  - Sinha, D
+TI  - Assessment of Quality of Multimodal Transportation for Containerized Exports
+T2  - IIM KOZHIKODE SOCIETY & MANAGEMENT REVIEW
+LA  - English
+KW  - Quality
+KW  - multimodal transportation
+KW  - opinion mining
+KW  - confirmatory factor analysis
+KW  - structural equation modelling
+KW  - SUPPLY CHAIN PERFORMANCE
+KW  - LOGISTICS SERVICE QUALITY
+KW  - INTERMODAL TRANSPORTATION
+KW  - CUSTOMER SATISFACTION
+KW  - INFORMATION
+KW  - MANAGEMENT
+KW  - SELECTION
+KW  - PARADIGM
+KW  - BUSINESS
+AB  - The twin paradigm of e-commerce and just-in-time has impelled the global markets for door-to-door service. Shippers do not particularly seek special modes of transport but rather demand performance of transport such as door-to-door service from the multimodal transport service (MTS) operators. Door-to-door service has also led to shift in common terms of trade such as free on board (FOB) and cost insurance freight (CIF) to delivery at place (DAP) or delivery duty paid (DDP) International Commercial Terms (incoterms). In such a case, the sellers are required to plan end-to-end rather than concentrate on port-to-port leg of the delivery process. Multimodal transportation (MMT) includes multiple modes of transport, multiple nodes (terminals) and numerous stakeholders. So far, researchers have focused on the attributes of MTS providers that affect expectations of customers. The present study looks into factors affecting performance of MTS. The approach cuts across the spectrum of qualitative to quantitative assessment. The authors, here, propose opinion mining to decipher the sentiments of clients of logistics service providers followed by open discussion (in a semi-structured format) to collate the soft and hard aspects of MMT chain. The findings of these exercises are used to frame a structured questionnaire for quantitative analysis. Four dimensions affecting quality of MMT have been identified, and one of them is found to be significant only under certain conditions. This article suggests implementation of an integrated digital ecosystem to enhance the quality of MMT in emerging markets like India.
+AD  - Int Management Inst, Bhubaneswar, IndiaAD  - Indian Inst Foreign Trade, Kolkata Campus, Kolkata, IndiaC3  - International Management Institute (IMI) BhubaneswarPU  - SAGE PUBLICATIONS INDIA  PVT LTD
+PI  - NEW DELHI
+PA  - B-1-I-1 MOHAN CO-OPERATIVE INDUSTRIAL AREA, MATHURA RD, POST BAG NO 7, NEW DELHI 110 044, INDIA
+SN  - 2277-9752
+SN  - 2321-029X
+J9  - IIM KOZHIKODE SOC MA
+JI  - IIM Kozhikode Soc. Manag. Rev.
+DA  - JAN
+PY  - 2019
+VL  - 8
+IS  - 1
+SP  - 10
+EP  - 22
+DO  - 10.1177/2277975218810613
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000457717400003
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  84
+ER  -
+
+TY  - JOUR
+AU  - Rosioru, S
+AU  - Mihai, V
+AU  - Neghina, M
+AU  - Craciunean, D
+AU  - Stamatescu, G
+TI  - PROSIM in the Cloud: Remote Automation Training Platform with Virtualized Infrastructure
+T2  - APPLIED SCIENCES-BASEL
+LA  - English
+KW  - industrial automation
+KW  - training
+KW  - process simulations
+KW  - OPC-UA
+KW  - virtualization
+KW  - cloud platform
+KW  - Industry 4
+KW  - 0
+KW  - SIMULATOR
+KW  - MODEL
+AB  - The need for high-availability, efficient, training solutions for industrial automation technology is driving the adoption of new tools, software and services supporting the Industry 4.0 paradigm. Specific requirements include vendor agnostic and standards-based programming languages and availability of both physical input-output and industrial communication, while providing a rich and immersive experience through suitable human-machine interface components. The PROSIM platform represents an integrated embedded hardware-software system for programmable logic controller automation training which provides examples in increasing order of complexity, ranging from basic digital logic up to complex manufacturing simulations and process control. A fully software-based solution has been developed in order to complement the laboratory-based system as a training digital twin. We describe the design, implementation and evaluation of the platform as ported onto the HUBCAP collaborative sandboxing environment for virtualized operation. Integration of dedicated communication libraries for Open Platform Communications, Unified Architecture, with simulated programmable logic controllers such as PLCSIM and ARSim is also discussed for fully leveraging new features emerging from increased information and operational technology convergence witnessed in realistic, plant-level, environments. Qualitative and quantitative evaluation in comparison to the physical system while leveraging the resources provided by the cloud environment is carried out.
+AD  - Asti Automat, Calea Plevnei 139, Bucharest 060011, RomaniaAD  - Univ Politehn Bucuresti, Dept Automat & Ind Informat, Splaiul Independentei 313, Bucharest 060042, RomaniaAD  - Univ Lucian Blaga Sibiu, Dept Elect Engn & Comp Sci, Emil Cioran 4, Sibiu 550025, RomaniaC3  - Polytechnic University of BucharestC3  - Lucian Blaga University of SibiuFU  - HUBCAP Innovation Action - European Commission Horizon 2020 Programme [872698, HUBCAP-OC2.1-2020/1499086]; University Politehnica of Bucharest
+FX  - This work was is partially supported by the HUBCAP Innovation Action funded by the European Commission Horizon 2020 Programme under Grant Agreement 872698, HUBCAP Call 2.1. Experiment, Subgrant no. HUBCAP-OC2.1-2020/1499086, PROSIM Cyber-Physical Platform for Application Development and Training in the Process Industries (PRO-CPS). Financial support from the University Politehnica of Bucharest is gratefully acknowledged.
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2076-3417
+J9  - APPL SCI-BASEL
+JI  - Appl. Sci.-Basel
+DA  - MAR
+PY  - 2022
+VL  - 12
+IS  - 6
+C7  - 3038
+DO  - 10.3390/app12063038
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000776129400001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  34
+ER  -
+
+TY  - JOUR
+AU  - George, DG
+AU  - Eleftherios, KD
+AU  - Chariklia, GA
+TI  - LNG carrier two-stroke propulsion systems: A comparative study of state of the art reliquefaction technologies
+T2  - ENERGY
+LA  - English
+KW  - LNG carrier
+KW  - Reliquefaction
+KW  - Partial reliquefaction
+KW  - Joule-thomson
+KW  - Integrated marine energy systems
+KW  - Performance
+KW  - Efficiency
+AB  - Transportation of Liquefied Natural Gas (LNG) by sea has been intensified in the current shipping environment, opening new markets and trade routes. LNG carriers are inherently complex vessels, featuring a high degree of integration of their energy conversion systems, all operating under time and load varying mission profiles, making design decisions non-trivial. To this end, DNVGL COSSMOS (Complex Ship Systems Modelling and Simulation) in-house process modelling framework is used to build digital twins of the propulsion and cargo module of LNG carriers, modelling the entire energy conversion process from cargo tanks to useful energy required for propulsion, electricity and heat. Emphasis is given on reliquefaction systems and the improvement they provide in performance, comparing the currently available technologies and giving deeper insight for the Joule-Thomson systems. The overall ship system performance is improved by 5-15% along the low vessel speed range and 25 -40% for the anchorage loaded port condition, when partial reliquefaction systems are considered, depending on the configuration they are compared to. Engine technology also plays an important role, with high-pressure engines exhibiting 3-10% better performance, depending on the reliquefaction technology coupled with, along the high vessel speed range, mainly because of their inherent better performance. (C) 2020 Elsevier Ltd. All rights reserved.
+AD  - DNV GL, Piraeus, GreecePU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0360-5442
+SN  - 1873-6785
+J9  - ENERGY
+JI  - Energy
+DA  - MAR 15
+PY  - 2020
+VL  - 195
+DO  - 10.1016/j.energy.2020.116997
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000527565500003
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  11
+Cited Reference Count:  20
+ER  -
+
+TY  - JOUR
+AU  - Haroon, K
+AU  - John, T
+AU  - Fonte, CP
+AU  - Mendoza, C
+AU  - Baker, M
+AU  - Martin, P
+TI  - Investigating the Design and Implementation of an In-Line Near-Infrared Probe Using Computational Fluid Dynamics for Measurement of Non-Newtonian Fluids
+T2  - APPLIED SPECTROSCOPY
+LA  - English
+KW  - Near-infrared
+KW  - NIR
+KW  - computational fluid dynamics
+KW  - CFD
+KW  - process probe
+KW  - optimization
+AB  - Process analytical technology (PAT) has developed significantly since its introduction in pharma where many in situ analytical probes and measuring devices are now commercially available, replacing the use of off-line quality control measurements that are typically laborious and time intensive. The use of PAT instrumentation should not interfere with the process itself and subsequently should have no effect on the product whilst measuring representative samples. Implementation of these devices is typically arbitrary using empirical means. Therefore, the objective of this study is to highlight the use of computational fluid dynamics modeling to investigate the effect of interfacing parameters and process parameters of an inline near-infrared (NIR) probe used to determine the viscosity of a non-Newtonian micellar liquid. The parameters investigated for the probe were immersion depth, immersion angle, gap size, and fluid velocity. The results conclude that the immersion angle and depth should both be optimized to prevent stagnant fluid accumulating in the measuring gap ensuring that the NIR measurements are representative of the bulk. The gap size determines the optical pathlength and therefore was also investigated against an existing predictive viscosity model showing no changes in model performance with varying gap size. The use of computational modeling to develop a digital twin prior to PAT implementation at the equipment design stage ensures the technology can perform at its best and will also aid in calibration transfer studies.
+AD  - Univ Manchester, Dept Chem Engn & Analyt Sci, Manchester, Lancs, EnglandAD  - Unilever R&D Port Sunlight, Bebington, EnglandC3  - University of ManchesterC3  - UnileverFU  - EPSRC; Unilever; Engineering and Physical Sciences Research Council [1920513]; Unilever: Center for Advanced Fluid Engineering and Digital Manufacturing (CAFE4DM) [EP/R00482X/1]
+FX  - The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: The authors acknowledge funding and support from EPSRC and Unilever for an industrial case studentship (KH and TJ) and also for an EPSRC Prosperity Partnership with Unilever: Center for Advanced Fluid Engineering and Digital Manufacturing (CAFE4DM) (EP/R00482X/1), Engineering and Physical Sciences Research Council (1920513).
+PU  - SAGE PUBLICATIONS INC
+PI  - THOUSAND OAKS
+PA  - 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN  - 0003-7028
+SN  - 1943-3530
+J9  - APPL SPECTROSC
+JI  - Appl. Spectrosc.
+DA  - MAR
+PY  - 2022
+VL  - 76
+IS  - 3
+SP  - 331
+EP  - 339
+C7  - 00037028211062239
+DO  - 10.1177/00037028211062239
+C6  - FEB 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000758906700001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  16
+ER  -
+
+TY  - JOUR
+AU  - Feng, X
+AU  - Bai, W
+AU  - Chen, XB
+AU  - Qian, L
+AU  - Ma, ZH
+TI  - Numerical investigation of viscous effects on the gap resonance between side-by-side barges
+T2  - OCEAN ENGINEERING
+LA  - English
+KW  - Computational fluid dynamics
+KW  - Side-by-side
+KW  - Gap resonance
+KW  - Viscous damping
+KW  - Wave tank
+KW  - WAVE
+KW  - BEHAVIOR
+KW  - PISTON
+KW  - FLOW
+AB  - This paper presents a numerical study of the gap resonance between two side-by-side barges by using a multiphase Navier-Stokes equations model. In order to verify the multiphase flow model, it is firstly applied to simulate a two-dimensional gap resonance problem for two fixed boxes under various wave conditions. A comparison of the free surface elevations obtained on successively refined grids confirms the mesh convergence of numerical solutions. The calculated wave elevation response amplitude operators (RAOs) in the gap compare well with the experimental measurements. The multiphase flow model is further extended to calculate a three-dimensional gap resonance problem for two adjacent rectangular barges. The computed free surface RAOs in the gap also agree well with the experimental results. A close examination of the flow velocity and vorticity in the gap region at the piston resonant mode reveals that large amount of vortices are generated by the sharp comers of the two barges and shed downwards, which provide an effective mechanism to dissipate the flow kinematic energy and to reduce the wave elevation in the gap. On the contrary, rounded corners are not able to induce the same level amount of vortices to dampen the gap resonance. The effects of incident wave steepness on the viscous damping associated with the twin-barge system are highlighted.
+AD  - Natl Univ Singapore, Dept Civil & Environm Engn, Singapore 117576, SingaporeAD  - Manchester Metropolitan Univ, Sch Comp Math & Digital Technol, Chester St, Manchester M1 5GD, Lancs, EnglandAD  - Bur Veritas Singapore, 20 Sci Pk Rd,Sci Pk 2, Singapore, SingaporeC3  - National University of SingaporeC3  - Manchester Metropolitan UniversityFU  - Maritime and Port Authority of Singapore (MPA) [R-261-502-006-592]
+FX  - The authors gratefully acknowledge the financial support provided by the Maritime and Port Authority of Singapore (MPA) Grant R-261-502-006-592.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0029-8018
+J9  - OCEAN ENG
+JI  - Ocean Eng.
+DA  - NOV 15
+PY  - 2017
+VL  - 145
+SP  - 44
+EP  - 58
+DO  - 10.1016/j.oceaneng.2017.08.060
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000414886600005
+N1  - Times Cited in Web of Science Core Collection:  38
+Total Times Cited:  39
+Cited Reference Count:  33
+ER  -
+
+TY  - CPAPER
+AU  - van Kol, TV
+AU  - Jovanova, J
+AU  - Mohajeri, MJ
+AU  - Schott, DL
+A1  - IEEE
+TI  - Introducing adaptive mechatronic designs in bulk handling industry
+T2  - 2021 IEEE/ASME INTERNATIONAL CONFERENCE ON ADVANCED INTELLIGENT MECHATRONICS (AIM)
+LA  - English
+CP  - IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
+KW  - Bulk material handling equipment
+KW  - mechatronics
+KW  - adaptive design
+KW  - VIBRATION
+KW  - MECHANISM
+AB  - The advances of mechatronic system design and system integration have shown improvements in functionality, performance and energy efficiency in many applications across industries, from autonomous ground vehicles and drones to conveyor belts. This trend has been adopted in some industries more than others. The design of equipment to handle granular or bulk material is commonly based on traditional approaches. Therefore, introducing mechatronic concepts in the design procedure can enable new possibilities, such as sensor integration and data analyses, adaptability and control. The efficiency of bulk material handling equipment in ports, agriculture and food processing is heavily influenced by the operational conditions. Typically, a piece of equipment is designed for defined operational conditions when the maximum performance can be achieved. In this work the concept of adaptability to varying operational conditions is explored by understanding the technologies implemented in other industries and the feasibility to be implemented in the bulk handling equipment design. Sensing technology, actuation and adaptability are systematically presented in this work to support the design process of the next generation of bulk handling equipment. This will pave the way for incorporating the technological trends in the design, such as: sustainability, "smartness", Internet of Things, Industry 4.0, digital twin and machine learning. Adaptive mechatronic solutions will play a crucial role in generating and implementing innovative sustainable solutions for bulk handling equipment.
+AD  - Delft Univ Technol, Dept Maritime & Transport Technol, Delft, NetherlandsC3  - Delft University of TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2159-6255
+SN  - 978-1-6654-4139-1
+J9  - IEEE ASME INT C ADV
+PY  - 2021
+SP  - 1095
+EP  - 1100
+DO  - 10.1109/AIM46487.2021.9517377
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000702133100109
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  29
+ER  -
+
+TY  - JOUR
+AU  - Li, Y
+AU  - Zhao, H
+AU  - Leach, B
+AU  - Ma, T
+TI  - Development of a fuel stratification spark ignition engine
+T2  - PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART D-JOURNAL OF AUTOMOBILE ENGINEERING
+LA  - English
+KW  - charge stratification
+KW  - in-cylinder flow
+KW  - planar laser induced fluorescence measurement
+KW  - particle image velocimetry measurement
+KW  - spark ignition engine
+KW  - SI ENGINES
+KW  - MIXTURE
+AB  - A fuel stratification concept is being researched and developed in a three-valve twin-spark ignition engine. This concept requires that two different fuels or fuel components be introduced into the cylinder separately through two independent inlet ports. The fuels will be stratified laterally by means of strong tumble in the cylinder. Similar to the traditional air/fuel stratification engine, this fuel stratification engine can operate in very lean mixture or high exhaust gas dilution at part loads to reduce fuel consumption and NO, emissions. While at high-load operation, a higher compression ratio may be allowed owing to a potential increase in antiknock features if the lower research octane number (RON) fuel or component is ignited first, leaving the higher RON fuel in the end gas region. As a result, the fuel economy can be improved not only at part loads but possibly at full loads as well. This paper reports the development of such a fuel stratification engine. Firstly, the intake system of the engine was modified to produce a strong tumble flow which was measured by a digital particle image velocimetry (PIV) system. Then, a two-tracer planar laser induced fluorescence (PLIF) system was developed to visualize the fuel stratification in the cylinder. The engine combustion at part and full loads was also tested and analysed from cylinder pressure history. These research results show that the present strong tumble flow was characterized by a symmetrically distributed mean velocity in the intake stroke and a very small velocity component along the direction of the tumble rotational axis in the compression stroke. This flowfield created good fuel stratification laterally. The lean burn limit was considerably extended at part loads, and the knock limit at high loads also had a noticeable difference when higher and lower RON fuels respectively were ignited first.
+AD  - Brunel Univ, Dept Mech Engn, Uxbridge UB8 3PH, Middx, EnglandC3  - Brunel UniversityPU  - SAGE PUBLICATIONS LTD
+PI  - LONDON
+PA  - 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN  - 0954-4070
+SN  - 2041-2991
+J9  - P I MECH ENG D-J AUT
+JI  - Proc. Inst. Mech. Eng. Part D-J. Automob. Eng.
+DA  - JUL
+PY  - 2005
+VL  - 219
+IS  - D7
+SP  - 923
+EP  - 934
+DO  - 10.1243/095440705X11220
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000230769200009
+N1  - Times Cited in Web of Science Core Collection:  14
+Total Times Cited:  15
+Cited Reference Count:  15
+ER  -
+
+TY  - JOUR
+AU  - Spiryagin, M
+AU  - Wu, Q
+AU  - Polach, O
+AU  - Thorburn, J
+AU  - Chua, W
+AU  - Spiryagin, V
+AU  - Stichel, S
+AU  - Shrestha, S
+AU  - Bernal, E
+AU  - Ahmad, S
+AU  - Cole, C
+AU  - McSweeney, T
+TI  - Problems, assumptions and solutions in locomotive design, traction and operational studies
+T2  - RAILWAY ENGINEERING SCIENCE
+LA  - English
+KW  - Locomotive
+KW  - Design
+KW  - Simulation
+KW  - Virtual prototyping
+KW  - Digital twin
+KW  - Traction
+KW  - Braking
+KW  - Wheel-rail wear
+KW  - Damage
+KW  - ROLLING-CONTACT FATIGUE
+KW  - CO-SIMULATION
+KW  - RAIL WEAR
+KW  - WHEEL
+KW  - FRICTION
+KW  - ADHESION
+KW  - CREEP
+KW  - MODEL
+KW  - PREDICTION
+KW  - FASTSIM
+AB  - Locomotive design is a highly complex task that requires the use of systems engineering that depends upon knowledge from a range of disciplines and is strongly oriented on how to design and manage complex systems that operate under a wide range of different train operational conditions on various types of tracks. Considering that field investigation programs for locomotive operational scenarios involve high costs and cause disruption of train operations on real railway networks and given recent developments in the rollingstock compliance standards in Australia and overseas that allow the assessment of some aspects of rail vehicle behaviour through computer simulations, a great number of multidisciplinary research studies have been performed and these can contribute to further improvement of a locomotive design technique by increasing the amount of computer-based studies. This paper was focused on the presentation of the all-important key components required for locomotive studies, starting from developing a realistic locomotive design model, its validation and further applications for train studies. The integration of all engineering disciplines is achieved by means of advanced simulation approaches that can incorporate existing AC and DC locomotive designs, hybrid locomotive designs, full locomotive traction system models, rail friction processes, the application of simplified and exact wheel-rail contact theories, wheel-rail wear and rolling contact fatigue, train dynamic behaviour and intrain forces, comprehensive track infrastructure details, and the use of co-simulation and parallel computing. The cosimulation and parallel computing approaches that have been implemented on Central Queensland University's High-Performance Computing cluster for locomotive studies will be presented. The confidence in these approaches is based on specific validation procedures that include a locomotive model acceptance procedure and field test data. The problems and limitations presented in locomotive traction studies in the way they are conducted at the present time are summarised and discussed.
+AD  - Cent Queensland Univ, Ctr Railway Engn, Rockhampton, Qld 4702, AustraliaAD  - Progress Rail, Newcastle, NSW, AustraliaAD  - BHP, Port Hedland, AustraliaAD  - Engn Ctr Railway Transport, Skolkovo, RussiaAD  - KTH Royal Inst Technol, Stockholm, SwedenC3  - Central Queensland UniversityC3  - Royal Institute of TechnologyFU  - Australian Research Council Discovery Early Career Award [DE210100273]; Australian Government; Australian Research Council [DE210100273] Funding Source: Australian Research Council
+FX  - Dr. Qing Wu is the recipient of an Australian Research Council Discovery Early Career Award (Project No. DE210100273) funded by the Australian Government.
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 2662-4745
+SN  - 2662-4753
+J9  - RAILWAY ENG SCI
+JI  - Railway Eng. Sci.
+DA  - SEP
+PY  - 2022
+VL  - 30
+IS  - 3
+SP  - 265
+EP  - 288
+DO  - 10.1007/s40534-021-00263-w
+C6  - JAN 2022
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000740408900001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  119
+ER  -
+
+TY  - JOUR
+AU  - Sarwat, M
+AU  - Mokbel, MF
+AU  - Zhou, X
+AU  - Nath, S
+TI  - Generic and efficient framework for search trees on flash memory storage systems
+T2  - GEOINFORMATICA
+LA  - English
+KW  - Flash memory
+KW  - Tree
+KW  - Spatial
+KW  - Index structure
+KW  - Storage
+KW  - Multi-dimensional
+KW  - Data
+KW  - System
+AB  - Tree index structures are crucial components in data management systems. Existing tree index structure are designed with the implicit assumption that the underlying external memory storage is the conventional magnetic hard disk drives. This assumption is going to be invalid soon, as flash memory storage is increasingly adopted as the main storage media in mobile devices, digital cameras, embedded sensors, and notebooks. Though it is direct and simple to port existing tree index structures on the flash memory storage, that direct approach does not consider the unique characteristics of flash memory, i.e., slow write operations, and erase-before-update property, which would result in a sub optimal performance. In this paper, we introduce FAST (i.e., Flash-Aware Search Trees) as a generic framework for flash-aware tree index structures. FAST distinguishes itself from all previous attempts of flash memory indexing in two aspects: (1) FAST is a generic framework that can be applied to a wide class of data partitioning tree structures including R-tree and its variants, and (2) FAST achieves both efficiency and durability of read and write flash operations through memory flushing and crash recovery techniques. Extensive experimental results, based on an actual implementation of FAST inside the GiST index structure in PostgreSQL, show that FAST achieves better performance than its competitors.
+AD  - Univ Minnesota Twin Cities, Dept Comp Sci & Engn, Minneapolis, MN 55455 USAAD  - Microsoft Res, Redmond, WA 98052 USAC3  - University of Minnesota SystemC3  - University of Minnesota Twin CitiesC3  - MicrosoftFU  - National Science Foundation [IIS-0811998, IIS-0811935, CNS-0708604, IIS-0952977]; Microsoft Research Gift; UMN DTC; Direct For Computer & Info Scie & Enginr; Div Of Information & Intelligent Systems [1218168] Funding Source: National Science Foundation; Direct For Computer & Info Scie & Enginr; Div Of Information & Intelligent Systems [0952977] Funding Source: National Science Foundation
+FX  - The research of M. Sarwat and M. F. Mokbel is supported in part by the National Science Foundation under Grants IIS-0811998, IIS-0811935, CNS-0708604, IIS-0952977, by a Microsoft Research Gift, and by a seed grant from UMN DTC.
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 1384-6175
+SN  - 1573-7624
+J9  - GEOINFORMATICA
+JI  - Geoinformatica
+DA  - JUL
+PY  - 2013
+VL  - 17
+IS  - 3
+SP  - 417
+EP  - 448
+DO  - 10.1007/s10707-012-0164-9
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000320392800002
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  13
+Cited Reference Count:  35
+ER  -
+
+TY  - JOUR
+AU  - Gazzotti, S
+AU  - Ferlay, F
+AU  - Meunier, L
+AU  - Viudes, P
+AU  - Huc, K
+AU  - Derkazarian, A
+AU  - Friconneau, JP
+AU  - Peluso, B
+AU  - Martins, JP
+TI  - Virtual and Augmented Reality Use Cases for Fusion Design Engineering
+T2  - FUSION ENGINEERING AND DESIGN
+LA  - English
+KW  - Virtual Reality
+KW  - Augmented Reality
+KW  - WEST tokamak
+KW  - ITER
+KW  - Test Blanket System
+KW  - Health & Safety
+KW  - MIFI
+AB  - As augmented and virtual reality technology is revolutionising the way products are designed and tested, many companies are expanding the range of use cases across their organisations. After 10 years using Virtual Reality (VR) & Augmented Reality (AR) technology during the life cycle of fusion components, the CEA IRFM has improved its skills developing immersive visualisation scenes for the WEST tokamak [6, 5] project and several ITER Site Support Agreement such as Magnet Infrastructure Facilities for ITER (MIFI) [7] and Test Blanket Module System (TBM) [8]. Data preparation process has been optimized, reducing time cost to convert CAD data to an interactive and immersive model. For the WEST Project, VR engineers developed immersive scenes to simulate assembly sequences, to check component introduction using physics and to show 2D temperature data from diagnostics in a 3D environment. For the TBM case, health and safety oriented model environment is developed. Features for team simulated human access and hands on operations for As Low As Reasonably Achievable (ALARA) optimisation process with motion-tracking system and virtual avatars with ventilated protective pressurised suit simulating worker protection in nuclear environment. For MIFI application, a specific assembly tool has been developed for TF coils interface located on the top and at the bottom junction. During a first phase, the development was driven by iterative design loop (CAD modelling analysis and cinematic by using VR simulations). By means of interactive simulations and immersive conditions, the interface connection task was validated against feasibility including accessibility. AR has also been introduced in the process since a physical mock-up has been augmented to consider the constraint environment of TF Coils. For TBM application, on site AR simulation of the port Cell equipment will provide enhanced environment description. Collaborative immersive context, digital twins and combination between AR/VR & physical mock-ups for validation of maintenance since component design phase will constitute challenge for the near future.
+AD  - CEA, IRFM, Cadarache, F-13108 St Paul Les Durance, FranceAD  - ITER Org Route Vinon Sur Verdon, CS 90 046, F-13067 St Paul Les Durance, FranceC3  - CEAC3  - ITERPU  - ELSEVIER SCIENCE SA
+PI  - LAUSANNE
+PA  - PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN  - 0920-3796
+SN  - 1873-7196
+J9  - FUSION ENG DES
+JI  - Fusion Eng. Des.
+DA  - NOV
+PY  - 2021
+VL  - 172
+C7  - 112780
+DO  - 10.1016/j.fusengdes.2021.112780
+C6  - JUL 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000703540500001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  9
+ER  -
+
+TY  - CPAPER
+AU  - Hattenhorst, B
+AU  - Musch, T
+A1  - IEEE
+TI  - On the Influence of Impedance Matching for the Sensitivity of Reflection Phase Measurements with Resonant Sensors
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - sensor
+KW  - reflection
+KW  - phase
+KW  - matching
+AB  - In this contribution, the influence of impedance matching for sensors that incorporate phase measurements in a one-port reflection setup is elaborated in detail. The developed theoretical basis is validated by three-dimensional electromagnetic simulations that are corroborated by reflection measurements of a metamaterial-based, resonant near-field sensor with varying impedance matching conditions.
+AD  - Ruhr Univ Bochum, Inst Elect Circuits, Univ Stt 150, D-44801 Bochum, GermanyC3  - Ruhr University BochumPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 336
+EP  - 338
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600110
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  6
+ER  -
+
+TY  - CPAPER
+AU  - Zhu, H
+AU  - Guo, YJ
+A1  - IEEE
+TI  - Compact and Wideband Filtering Power Dividers with Arbitrary and Constant Output Phase Difference
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Arbitrary phase difference
+KW  - compact
+KW  - filtering
+KW  - phase shifter
+KW  - power divider
+KW  - pi-shaped structure
+KW  - wideband
+KW  - Wilkinson
+AB  - This paper presents a wideband filtering power divider with arbitrary phase difference between two output ports. Different from the traditional Wilkinson power dividers, this structure utilizes two pi-shaped structures to replace the quarter-wavelength transmission lines. Based on the pi-shaped structure, the phase characteristics can be modified without affecting the magnitude of the transmission coefficient. As a result, the phase difference between output ports can be changed to a non-zero value. A planar design is modelled, simulated, fabricated and measured to verify the design concept.
+AD  - Univ Technol Sydney, Global Big Data Technol Ctr, 81 Broadway, Ultimo, NSW 2007, AustraliaC3  - University of Technology SydneyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 788
+EP  - 790
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600257
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - JOUR
+AU  - Gad, HM
+AU  - Ibrahim, IA
+AU  - Abdel-Baky, ME
+AU  - Abd El-Samed, AK
+AU  - Farag, TM
+TI  - Experimental study of diesel fuel atomization performance of air blast atomizer
+T2  - EXPERIMENTAL THERMAL AND FLUID SCIENCE
+LA  - English
+KW  - Airblast atomizer
+KW  - PIV
+KW  - Spray
+KW  - Atomization
+KW  - TWIN-FLUID ATOMIZATION
+KW  - SPRAY CHARACTERISTICS
+KW  - AIRBLAST ATOMIZATION
+KW  - PRESSURE
+AB  - In this study, the spray performance of airblast atomizer is experimentally investigated under different operating conditions and different internal atomizer geometry. The used airblast atomizer is designed so that, the atomizing air is issuing from the atomizer with swirling motion. The swirling of the air blast is formed as passing the through a vane swirler fixed around the fuel exit. The investigated parameters are: the atomizing air swirler angle, the atomizing air to fuel mass ratio and the distance between the fuel nozzle exit and the atomizing air exit orifice. Four air swirlers with vane angels: 0 degrees, 15 degrees, 30 degrees, and 45 degrees are used. The distance between the fuel nozzle exit and the atomizing air exit orifice is changed from 0 to 3 mm. The fuel spray characteristics are studied then represented as spray shape and spray droplets intensities which are photographed using digital camera of particle image velocimetry (PN). The radial spray concentrations are measured by using the tubes patternator technique. The spray cone angle is also measured under different operating conditions. The fuel used in this study is commercial diesel oil. The results indicate that, the spray cone angle increases with increasing the atomizing air to fuel mass ratio and also by increasing the atomizing air swirler angle while it decreases by increasing the distance between the fuel nozzle exit and the atomizing air exit orifice. The results also show, the spray concentration have its maximum values at the center line and decreases by moving radially outward. The spray intensities are clearly radially decreased. The spray cone angle is increased by about 142% (17 degrees), 120% (18 degrees), 123% (21 degrees) and 120% (24 degrees) for atomizing air swirler angle of 0 degrees, 15 degrees, 30 degrees and 45 degrees, respectively at constant value of the distance between the fuel nozzle exit and the atomizing air exit orifice ratio of zero.
+AD  - Port Said Univ, Mech Power Engn Dept, Fac Engn, Port Said, EgyptC3  - Egyptian Knowledge Bank (EKB)C3  - Port Said UniversityPU  - ELSEVIER SCIENCE INC
+PI  - NEW YORK
+PA  - 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN  - 0894-1777
+SN  - 1879-2286
+J9  - EXP THERM FLUID SCI
+JI  - Exp. Therm. Fluid Sci.
+DA  - DEC
+PY  - 2018
+VL  - 99
+SP  - 211
+EP  - 218
+DO  - 10.1016/j.expthermflusci.2018.07.006
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000446146600018
+N1  - Times Cited in Web of Science Core Collection:  39
+Total Times Cited:  49
+Cited Reference Count:  18
+ER  -
+
+TY  - CPAPER
+AU  - Hoang, DHT
+AU  - Nguyen, VXT
+AU  - Do, TT
+AU  - Nguyen, DN
+AU  - Vu, TA
+AU  - Tran, QN
+A1  - IEEE
+TI  - MUTUAL COUPLING REDUCTION OF MIMO ANTENNA USING METAMATERIAL ABSORBER FOR 5G BASE STATIONS
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - +/- 45 degrees polarization
+KW  - metamaterial absorber
+KW  - multual coupling
+KW  - multiple-input multiple-output (MIMO) application
+KW  - SYSTEM
+AB  - In this paper, a high port-to-port isolation multiple inputs multiple outputs (MIMO) dual-polarized antenna which covering N41 band has been present in favor of 5G New Radio (5GNR) base stations. The mutual coupling is reduced by using an array of metamaterial absorber which is orthogonally introduced in center of two subarrays at a center frequency of 2.6 GHz. The 3 x 8 antenna array where the closely inter-antenna spacing (center to center) of 68 mm x 55 mm (0.59 lambda(0) x 0.48 lambda(0)) is proposed. An array of 12 x 1 unit cell of metamaterial absorber is utilized to enhance col - polarized isolation (S-31) and cross - polarized isolation (S-21). The measured results which correspond well with the simulated ones illustrate a satisfactory mutual coupling reduction, thus cross - polarized isolation vertical bar S-21 vertical bar has improved from -19 dB to -26.8 dB and the col - polarized isolation vertical bar S-31 vertical bar has enhanced from -16.8 dB to -25 dB comparing to the utilization of metallic wall.
+AD  - Viettel High Technol Ind Corp, Wireless Broadband R&D Ctr, Hanoi, VietnamAD  - Hanoi Univ Sci & Technol, Hanoi, VietnamC3  - Hanoi University of Science & TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 767
+EP  - 769
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600250
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  5
+ER  -
+
+TY  - CPAPER
+AU  - Nakamura, M
+AU  - Ikeda, A
+AU  - Tajima, T
+AU  - Seyama, M
+A1  - IEEE
+TI  - An Accurate and Compact Reflection Measurement Module towards Microwave Dielectric Measurement of Biological Samples
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - dielectric
+KW  - measurement
+KW  - spectroscopy
+KW  - reflection
+KW  - biological samples
+KW  - 1 port measurement
+KW  - stability
+KW  - SPECTROSCOPY
+AB  - A 4.9 GHz reflection measurement module for dielectric measurement of biological samples is proposed. The module has a compact size of 120 x 55 x 13 mm. To compensate for the number of components and power consumption, we propose an architecture composed of one transmitter, receiver and an SPnT switch and the stability of the phase signal was 0.004 degrees in a 2-h continuous measurement. Furthermore, we demonstrate in vitro measurement of an aqueous solution of glucose using the module. The dielectric constant shows good agreement within 1.5 % error compared with that measured by a vector network analyzer. This module is expected to be used for novel biological applications such as noninvasive sensing and SAR evaluation.
+AD  - NTT Corp, NTT Device Technol Labs, 3-1 Morinosato Wakamiya, Atsugi, Kanagawa, JapanAD  - NTT Corp, Biomed & Informat Res Ctr, NTT Basic Res Labs, 3-1 Morinosato Wakamiya, Atsugi, Kanagawa, JapanC3  - Nippon Telegraph & Telephone CorporationC3  - Nippon Telegraph & Telephone CorporationPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 940
+EP  - 942
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600308
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  13
+ER  -
+
+TY  - CPAPER
+AU  - Wang, XL
+AU  - Yang, S
+AU  - Lu, GY
+A1  - IEEE
+TI  - Compensation Approach for Miniaturized Wilkinson Power Divider Design
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Compensation approach
+KW  - coupled microstrip line strcuture
+KW  - phase velocity difference
+KW  - Wilkinson power divider
+AB  - Although coupled microstrip line structure are widely used in various microwave components for miniaturization, because of its phase velocity difference in Wilkinson power divider design, port reflections (S-11, S-22 and S-33) cannot match with port isolation (S-32) at the same center frequency. In this paper, several compensation approaches are summarized for compact Wilkinson power dividers with single-band application. By adding extra lumped elements, capacitor or inductor can be shunted into the coupled microstrip line structures. Considering less parasitic effects around lumped elements, extra 50 Omega transmission lines and open-circuited stubs are preferred for high frequency applications. Finally, several selected examples are fabricated and measured, all the simulated results are matched with measured results very well.
+AD  - Jilin Univ, State Key Lab Integrated Optoelecfron, Coll Elect Sci & Engn, Int Ctr Future Sci, 2699 Qianjin St, Changchun 130012, Peoples R ChinaC3  - Jilin UniversityFU  - Project of the Education Department of Jilin Province [JJKH20211093KJ]; Interdisciplinary Integration and Innovation Project of JLU [JLUXKJC2020204]; Project of Science and Technology Development Program of Changchun City [21ZY23]
+FX  - This work was supported by Project of the Education Department of Jilin Province (Grant No. JJKH20211093KJ), Interdisciplinary Integration and Innovation Project of JLU (Grant No. JLUXKJC2020204) and the Project of Science and Technology Development Program of Changchun City (Grant No. 21ZY23).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 16
+EP  - 18
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600006
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  9
+ER  -
+
+TY  - CPAPER
+AU  - Zhou, SZ
+AU  - Xu, Z
+AU  - Zong, ZY
+AU  - Wu, W
+A1  - IEEE
+TI  - A Wide-Scanning Broadband Dual-Polarized Tightly Coupled Dipole MIMO Antenna Array for C-\X- Band
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - dual-polarized
+KW  - broadband
+KW  - wide-scanning angle
+KW  - TCDA
+KW  - edge effects
+AB  - This paper presents a wide-scanning broadband dual-polarization MIMO array with 4 - 12 GHz operational band, based on tightly coupled dipole array (TCDA). The stubs of the dipoles and the feed ribs (consisting of metallic patterns) achieve the improved bandwidth and scanning angle. The simulation results demonstrate that, over the operating bandwidth, the proposed infinite array can work with VSWR < 2.6 for E-plane scanning up to 60 degrees and VSWR < 3 for H-plane scanning up to 50 degrees. Then, a 4x4 dual-polarized finite array is proposed. For finite arrays, edge effects may result in a severe mismatch of the edge elements. Sometimes the array can be expanded to alleviate this problem, but when space is limited, each port should be utilized as possible. Optimizing the edge elements, the simulated active VSWR of the presented small-scale array is typically less than two at broadside, including edge ports.
+AD  - Nanjing Univ Sci & Technol, Sch Elect & Opt Engn, Nanjing, Peoples R ChinaC3  - Nanjing University of Science & TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 157
+EP  - 159
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600052
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - CPAPER
+AU  - Kikuchi, K
+AU  - Yamamoto, H
+A1  - IEEE
+TI  - Demonstration of Accurate Evaluation Methods for High-Power GaN HEMT Die
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - High-power amplifiers
+KW  - Transistors
+KW  - Gallium nitride
+KW  - Calibration
+KW  - Electromagnetic field
+AB  - In this paper, we investigated evaluation methods for high-power transistor die, which are related to the design of test fixtures with impedance transformers and modeling of bonding wires. The results of electromagnetic field analysis using the finite element method indicated a discontinuity in the return path between the test fixture and the bonding wires. A 4-port equivalent circuit model was proposed that takes into account the inductance caused by this discontinuity, and we were able to remove the effect of the bonding wires and discontinuity in the return path from the measurement results for 70 Watt GaN HEMT die.
+AD  - Sumitomo Elect Ind Ltd, Sakae Ku, 1 Taya Cho, Yokohama, Kanagawa 2448588, JapanC3  - Sumitomo Electric IndustriesPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 187
+EP  - 189
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600062
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Kameya, M
+AU  - Gofuku, E
+AU  - Nakamura, K
+A1  - IEEE
+TI  - Impact of Differential-mode Noise Converted from External RF Noise on Differential Transmission and its Reduction by Differential Signal Balancer
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Common-mode filter
+KW  - Differential-mode noise
+KW  - External RF noise
+KW  - Glass cloth
+KW  - Mode-conversion
+KW  - RF interference
+AB  - The impact of differential-mode noise converted from RF noise applied to the differential transmission line channel (DTLC) due to the common-mode filter (CMF) and glass cloth in the DTLC substrate is analyzed. The differential mode noise generated in DTLC with CMF is measured with a 4-port network analyzer. Based on this measurement result, the influence of glass cloth is incorporated into the electromagnetic simulation model of DTLC. By applying this DTLC model to circuit analysis, the suitability of various CMFs as solutions for RF interference is evaluated.
+AD  - Kyushu Inst Technol, Ctr Microelect Syst, 680-4 Kawazu, Iizuka, Fukuoka 8208502, JapanC3  - Kyushu Institute of TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 202
+EP  - 204
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600067
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Ishihara, K
+AU  - Saitou, A
+AU  - Honjo, K
+AU  - Ishikawa, R
+A1  - IEEE
+TI  - Optimizations of Curvature of Concave Reflectors and Feed-Point Azimuths of Loop Antennas for Long-Range OAM Communication
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Orbital angular momentum
+KW  - multiplexing
+KW  - loop antenna
+KW  - paraboloid
+KW  - ORBITAL ANGULAR-MOMENTUM
+AB  - The signal-to-interference ratio (SIR) on a 4-channel orbital angular momentum (OAM) multiplex long-range communication system with 12-GHz loop antennas has been successfully improved by using curvature optimized concave reflectors. To equally concentrate each power of OAM waves with mode-dependent diffraction into the receiving area, the curvature of the reflector was optimized by simulation for a reflector radius of 15 cm and a communication distance of 70 cm. In addition, by optimizing combination for the port directions of the loop antennas, transmissions of interference waves are suppressed in the long-range OAM communication. With the fabricated loop antenna arrays and the optimized reflectors, performance for OAM communication is estimated at a communication distance of 70 cm. Measured transmissions of the worst-value signal waves increased by more than 6.5 dB and measured worst-value SIR improved by 9.9 dB.
+AD  - Univ Electrocommun, Dept Comp & Network Engn, 1-5-1 Chofugaoka, Chofu, Tokyo, JapanC3  - University of Electro-Communications - JapanFU  - Ministry of Internal Affairs and Communications, Japan [225003001]
+FX  - This work is partly funded by Ministry of Internal Affairs and Communications, Japan, for SCOPE Programme (225003001).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 393
+EP  - 395
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600128
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  5
+ER  -
+
+TY  - CPAPER
+AU  - Tang, CW
+AU  - Yang, CH
+A1  - IEEE
+TI  - Design of A High Attenuation a Microstrip Wide-Stopband Bandstop Filter Applied in Ku and K Bands
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - wide bandwidth
+KW  - high attenuation
+KW  - bandstop filter
+KW  - coupled line
+KW  - COMPACT
+AB  - The compact microstrip bandstop filters with high attenuation and wide stopband have been developed. In order to realize the bandstop filter with broad stopband and great attenuation within the stopband, the coupled lines with single-ended ground have been adopted at both input and output ports. Moreover, for a greater fractional bandwidth, a higher impedance ratio Z(e)/Z(o) of the adopted coupled lines is required. The bandstop filter, with the attenuation of 40 dB and a fractional bandwidth of 60%, has been developed for applied in Ku and K bands to verify the proposed method.
+AD  - Natl Chung Cheng Univ, Dept Cummunicat Engn, 168 Univ Rd, Chiayi, TaiwanAD  - Natl Chung Cheng Univ, Dept Elect Engn, 168 Univ Rd, Chiayi, TaiwanC3  - National Chung Cheng UniversityC3  - National Chung Cheng UniversityPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 611
+EP  - 613
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600198
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  11
+ER  -
+
+TY  - CPAPER
+AU  - Yang, MY
+AU  - Wu, RB
+A1  - IEEE
+TI  - Optimal Design for Acoustic Wave SAW Extractor with Simple Matching Circuits
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - SAW
+KW  - Optimization
+KW  - Extractor
+KW  - Cellular mid/high band (MHB)
+KW  - Wi-Fi
+AB  - This study applies the optimization approach to design a SAW extractor in a broadband RF module, which demonstrates bandpass and bandstop features in the in-band to two output ports, while bandstop and bandpass features, respectively, in the out of bands. The extractor is formed by eight SAW resonators based on mBVD model and simple matching circuits of two inductors. Compared with the commercially available product, the designed SAW extractor can meet the stringent product specifications in the frequency range of 0.7GHz similar to 2.7GHz
+AD  - Natl Taiwan Univ, Dept Grad Inst Commun Engn, Taipei 10617, TaiwanAD  - Natl Taiwan Univ, Dept Elect Engn, Taipei 10617, TaiwanC3  - National Taiwan UniversityC3  - National Taiwan UniversityFU  - Ministry of Science and Technology, Taiwan [MOST 109-2221-E-002-172-MY3]
+FX  - This study is partly supported by the Ministry of Science and Technology, Taiwan, under Grant MOST 109-2221-E-002-172-MY3
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 776
+EP  - 778
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600253
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Yoshida, T
+AU  - Honjo, K
+AU  - Ishikawa, R
+A1  - IEEE
+TI  - DC Voltage Synthesis of 2.45-GHz-Band Sub-mW High-Efficiency Rectifier using Zero-Threshold GaAs HEMTs
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - wireless power transfer
+KW  - rectifier
+KW  - zero-threshold GaAs HEMT
+KW  - DC voltage synthesis
+KW  - sub mW
+AB  - In order to obtain a sufficient DC output voltage, a DC voltage synthesis configuration has been developed by using sub-mW-class high-efficiency zero-threshold GaAs HEMT rectifiers at the2.45-GHz band. A sub-mW-class high-efficiency rectifier has been successfully realized based on a resonance control technique for a small-signal condition. In addition, a cold-start operation was also realized by using a zero-threshold GaAs HEMT. By connecting the DC output ports of the GaAs HEMT rectifiers in series, a DC output voltage synthesis rectifier has been constructed. The fabricated rectifier exhibited an equivalent RF-to-DC power conversion efficiency of 67% and a DC output voltage of 2.1 V at each input power of 0 dBm.
+AD  - Univ Electrocommun, 1-5-1 Chohugaoka, Tokyo 1828585, JapanC3  - University of Electro-Communications - JapanFU  - JST CREST [JPMJCR20Q1]
+FX  - This work was supported by JST CREST grant number JPMJCR20Q1, Japan.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 572
+EP  - 574
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600186
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  5
+ER  -
+
+TY  - CPAPER
+AU  - Chen, WH
+AU  - Xu, F
+AU  - Zhang, YM
+AU  - Yu, ZQ
+AU  - Zhou, JY
+A1  - IEEE
+TI  - Dual Circularly Polarized Stacked Patch Filtenna Without Quadrature Coupler or Extra filters
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - filtenna
+KW  - filtering antenna
+KW  - patch antenna
+KW  - dual polarization
+KW  - circular polarization
+AB  - Dual polarized filtennas are considered as key components in communication systems. In this paper, a dual circularly polarized (CP) stacked patch filtenna without quadrature coupler or extra filters is proposed. High port isolation is ensured by adopting a stacked patch. Based on the analysis of the equivalent circuit, two T-shaped transmission line networks are added to the feedlines and two radiation nulls at the two sides of the passband are generated. A passband of 3.4-3.6GHz and a bandpass filtering response are achieved.
+AD  - Southeast Univ, Sch Informat Sci & Engn, State Key Lab Millimeter Waves, Nanjing, Peoples R ChinaAD  - ZGC Inst Ubiquitous X Innovat & Applicat, Beijing 100876, Peoples R ChinaAD  - China Mobile Res Inst, Future Res Lab, Beijing 100053, Peoples R ChinaC3  - Southeast University - ChinaC3  - China MobileFU  - Southeast University-China Mobile Research Institute Joint Innovation Center
+FX  - The authors wish to acknowledge the assistance and support of the APMC 2022 Steering Committee. This work is funded by Southeast University-China Mobile Research Institute Joint Innovation Center.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 28
+EP  - 30
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600009
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - CPAPER
+AU  - Liu, HM
+AU  - Wang, JH
+AU  - Wang, XS
+AU  - Ren, JH
+AU  - Chen, SY
+A1  - IEEE
+TI  - Wideband Planar Rat-Race Coupler with Small In-Band Phase Deviation Error
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Rat-race coupler
+KW  - wideband
+KW  - small phase deviation error
+KW  - compact
+KW  - planar
+KW  - DESIGN
+KW  - LINE
+AB  - A wideband planar rat-race coupler with small in-band phase deviation error is presented. Wide operation bandwidth is achieved by using shorted parallel-coupled (SPC) four-line. Flat in-band output ports phase differences are maintained by using the component-loaded transmission line (CL-TL). Equations are derived for the calculation of the circuit parameters. For validation, a prototype is designed, fabricated and measured. The measurement results show that a bandwidth of more than 50 % is realized under the criterions of 10-dB return loss, 0.5-dB amplitude imbalance, and 2 degrees phase deviation error.
+AD  - Dalian Maritime Univ, Sch Informat Sci & Technol, Dalian, Peoples R ChinaC3  - Dalian Maritime UniversityFU  - Liaoning Revitalization Talents Program [XLYC2007067]; Dalian Youth Science and Technology Star Project [2020RQ007]; Fundamental Research Funds for the Central Universities [3132022245]
+FX  - This work was supported in part by the Liaoning Revitalization Talents Program under Grant XLYC2007067, in part by the Dalian Youth Science and Technology Star Project under Grant 2020RQ007 and in part by the Fundamental Research Funds for the Central Universities under Grant 3132022245.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 758
+EP  - 760
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600247
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - CPAPER
+AU  - Sen Hao, R
+AU  - Cheng, YJ
+A1  - IEEE
+TI  - Shared-Aperture Circularly-polarized Antenna Array with Wide Bandwidth for K/Ka-band SatCom
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Shared aperture
+KW  - antenna array
+KW  - circular polarization
+KW  - satellite communication
+AB  - a K/Ka-band shared-aperture antenna array is presented in this paper. The antenna array has the properties of dual wide bandwidths, orthogonal circular polarizations, and a high isolation. Wideband endfire elements are used as the radiator. A new topology is proposed to arrange the elements in a uniform distribution and with sufficient areas. The cut-off property of the substrate integrated waveguide (SIW) and the stripe-line filter are used to isolate the K-band and the Ka-band ports. At the same time, the isolation structures turn the out-of-band elements to be "auxiliary elements". With the "auxiliary elements", the mutual-coupling between K- and Ka-band radiators are utilized to achieve circular polarization.
+AD  - Univ Elect Sci & Technol China, EHF Key Lab Fundamental Sci, Sch Elect Sci & Engn, 2006 Xiyuan Ave, Chengdu 611731, Sichuan, Peoples R ChinaC3  - University of Electronic Science & Technology of ChinaFU  - National Key Research and Development Plan of China [2020YFB1806202]; Stable Support of Defense Technology and Industry Agency; National Defense Pre-Research Foundation of China
+FX  - This work is supported in part by National Key Research and Development Plan of China under Grant 2020YFB1806202, in part by the Stable Support of Defense Technology and Industry Agency, in part by National Defense Pre-Research Foundation of China (Insightful Plan).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 154
+EP  - 156
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600051
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Zhu, YL
+AU  - Dong, YD
+AU  - Bornemann, J
+A1  - IEEE
+TI  - Dual-Band Quasi-Elliptic Filter With Wide Upper Stopband in Hybrid SIW-Microstrip Technology
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Dual-band filter
+KW  - hybrid microstrip and SIW
+KW  - high selectivity
+KW  - quasi-elliptic response
+KW  - wide stopband
+AB  - A dual-band quasi-elliptic filter with wide stopband characteristics is presented. Two single-band cross-coupled filters, which are realized in hybrid microstrip and substrate integrated waveguide (SIW) technologies, are paralleled to construct the filter. To suppress SIW higher-order modes, orthogonal feeding ports are applied. In addition, due to the staggered resonant frequencies of the microstrip and SIW resonators, the next higher-order mode can be further degraded. To demonstrate the concept, a dual-band filter prototype centered at 8 GHz and 10.5 GHz is designed, fabricated and measured. Its experimental results show good agreement with simulations, exhibiting high selectivity and wide-stopband characteristics.
+AD  - Univ Elect Sci & Technol China, Chengdu, Sichuan, Peoples R ChinaAD  - Univ Victoria, Dept Elect & Comp Engn, Victoria, BC, CanadaC3  - University of Electronic Science & Technology of ChinaC3  - University of VictoriaPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 608
+EP  - 610
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600197
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Liu, HM
+AU  - Zhang, HX
+AU  - Yu, D
+AU  - Zhao, ZM
+AU  - Wang, XS
+A1  - IEEE
+TI  - A Miniaturized Wideband Symmetric 3x3 Nolen Matrix with Phase Compensation Technique
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Nolen matrix
+KW  - wideband
+KW  - phase compensation
+KW  - miniaturization
+AB  - In the paper, a miniaturized wideband symmetric 3x3 Nolen matrix with phase compensation technique is presented. By adjusting the phase slope through three pairs of differential phase shifters, the flatness of the output ports phase differences is improved. Besides, size reduction is obtained by using trans-directional couplers. Based on the designed equations, a prototype operating at 5.8 GHz is fabricated and measured. The fractional bandwidths (FBWs) for more than 10 dB return loss and isolation are 31.21 % and 45.17 %, respectively. Under the criterions of 1-dB amplitude imbalance and 5 degrees phase derivation error, the measured FBWs are more than 20.86% and 16.03%, separately.
+AD  - Dalian Maritime Univ, Sch Informat Sci & Technol, Dalian, Peoples R ChinaC3  - Dalian Maritime UniversityFU  - Liaoning Revitalization Talents Program [XLYC2007067]; Dalian Youth Science and Technology Star Project [2020RQ007]; Fundamental Research Funds for the Central Universities [3132022245]
+FX  - This work was supported in part by the Liaoning Revitalization Talents Program under Grant XLYC2007067, in part by the Dalian Youth Science and Technology Star Project under Grant 2020RQ007 and in part by the Fundamental Research Funds for the Central Universities under Grant 3132022245.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 755
+EP  - 757
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600246
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Desta, N
+AU  - Cohen, E
+A1  - IEEE
+TI  - A 0.15 um Depletion Mode GaN Bootstrapped N-path Filter with 23dBm Inband Blocker Handling
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Gallium nitride
+KW  - linearity
+KW  - N-path filters
+AB  - This paper suggests linearity improvement of N-path filters, using a Depletion mode (D-mode) 0.15um GaN process. GaN has a high breakdown voltage which can support large powers. By simulating one port 4-path filter with 1 GHz LO frequency and 1.001 GHz RF input frequency (1MHz baseband), integrated with BB node bootstrap circuit based on LO and BB combination, we demonstrate a high-Q filter with 14MHz bandwidth and 14dB rejection ratio for the inband (IB) blocker of 23dBm. We also show a high linearity performance by achieving IB P1dB of 26dBm, which is 14dB higher than the same N-path without bootstrap.
+AD  - Technion, Fac Elect Engn, Haifa, IsraelC3  - Technion Israel Institute of TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 746
+EP  - 748
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600243
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Regalia, P
+AU  - Kumar, AVP
+A1  - IEEE
+TI  - A Microwave Dielectric Resonator based Sensor for Detecting both Linear and Angular Displacements
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Microstrip line
+KW  - Dielectric resonator
+KW  - Reflection coefficient
+KW  - Fixed frequency sensor
+KW  - Displacement sensor
+AB  - Authors propose a microwave dielectric resonator (DR) based displacement sensor for detecting both linear and angular displacements. To enable this, a cylindrical dielectric resonator loaded with a metal strip is coupled to a 50 Omega open ended microstrip line. For this circuit, the magnitude of reflection coefficient (vertical bar S-11 vertical bar) at the microstrip port is sensitive to both the linear and angular displacements of the DR with respect to the open end of the line. Both numerical simulation and measurements are carried out to demonstrate the feasibility of the sensor. The proposed sensor provides 17 dB/mm sensitivity in 0-2 mm range, and -3.5 dB/mm in 2-10 mm range. For the same, the angular displacement sensitivity is 0.45 dB/(0) over the range of 0-90 degrees.
+AD  - Birla Inst Technol & Sci BITS, Dept Elect & Elect Engn, Pilani Campus, Pilani 333031, Rajasthan, IndiaC3  - Birla Institute of Technology & Science Pilani (BITS Pilani)FU  - Department of Science and Technology (DST), Govt. of India [EMR/2017/001126]; DST-FIST [SR/FST/ETI-346/2013]
+FX  - This work was supported by the Department of Science and Technology (DST), Govt. of India, through the Science and Engineering Research Board (SERB) grant Ref. EMR/2017/001126, and partly by the DST-FIST grant Ref: SR/FST/ETI-346/2013.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 533
+EP  - 535
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600173
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Yang, L
+AU  - Psychogiou, D
+AU  - Gomez-Garcia, R
+A1  - IEEE
+TI  - High-Order Input-Reflectionless Quasi-Elliptic-Type Wideband Bandpass Filter Using Dual-Mode Slotline Resonator
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Absorptive filter
+KW  - bandpass filter (BPF)
+KW  - two-layer structure
+KW  - reflectionles filter
+KW  - wideband filter
+AB  - A high-order input-reflectionless quasi-elliptic-type wideband bandpass filter (BPF) that exploits a complementary-diplexer-based topology is reported. Firstly, a fourth-order wideband microstrip-to-microstrip vertical transition employing a dual-mode slotline resonator as the reflective-type BPF channel is designed. It features a sharp-rejection BPF response with two close-to-passband transmission zeros (TZs). To attain broadband input-reflectionless behavior, a shunt resistively-terminated microstrip pi-shape network is used as the absorptive bandstop-filter (BSF) channel. The RF theoretical operational principle of the conceived broadband BPF is detailed. Compared to prior-art high-order input-/two-port-reflectionless wideband BPFs, the proposed BPF features not only improved passband flatness at the passband edges, but also relatively-high stopband power-attenuation levels and power-absorption ratios. For experimental-validation purposes, a two-layer fourth-order BPF microstrip prototype centered at 1 GHz is developed and tested.
+AD  - Univ Alcala, Dept Signal Theory & Commun, Madrid 28871, SpainAD  - Univ Coll Cork, Sch Engn, Cork T12 K8AF, IrelandC3  - Universidad de AlcalaC3  - University College CorkFU  - EU [754382]; Spanish Ministry of Science and Innovation (State Research Agency) [PID2020-116983RB-I00]
+FX  - This work was supported in part by the GOT ENERGY TALENT (GET) fellowship programme cofunded by the EU as part of the H2020-MSCACOFUND programme under Grant Agreement number 754382 and in part by the Spanish Ministry of Science and Innovation (State Research Agency) under Project PID2020-116983RB-I00.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 455
+EP  - 457
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600147
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  8
+ER  -
+
+TY  - CPAPER
+AU  - Sudo, K
+AU  - Mikase, R
+AU  - Taguchi, Y
+AU  - Takizawa, K
+AU  - Sato, Y
+AU  - Sato, K
+AU  - Hayafuji, H
+AU  - Ohira, M
+A1  - IEEE
+TI  - A 28 GHz Band Dual-Polarized LTCC Filtering Antenna with Extracted-pole Unit
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - mobile communication
+KW  - millimeter wave antennas
+KW  - bandpass filters
+AB  - This paper proposes a dual-polarized filtering antenna with extracted-pole unit (EPU) using LTCC substrate. The EPU realizes the high skirt characteristic of the bandpass filter with transmission zeros (TZs) located near the passband without cross coupling. The filtering antenna with EPU is designed and fabricated in 28 GHz band for 5G Band-n257 (26.5-29.5 GHz). The measured S-11 is less than -10.6 dB in Band-n257, and the isolation between two ports for dual polarization is greater than 20.0 dB. The measured peak antenna gain is 4.0 dBi at 28.8 GHz and the gain is larger than 2.5 dBi in Band-n257. The frequency characteristics of the measured antenna gain shows the high skirt characteristic out of band, which is in good agreement with electromagnetic (EM)-simulated results.
+AD  - Murata Mfg Co Ltd, Kyoto, JapanAD  - Saitama Univ, Grad Sch Sci & Engn, Saitama, JapanC3  - Murata Manufacturing Co LtdC3  - Saitama UniversityPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 306
+EP  - 308
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600100
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  9
+ER  -
+
+TY  - CPAPER
+AU  - Kamidaki, C
+AU  - Okuyama, Y
+AU  - Kubo, T
+AU  - Lee, W
+AU  - Ozdag, C
+AU  - Sadhu, B
+AU  - Yamaguchi, Y
+AU  - Guan, N
+A1  - IEEE
+TI  - A 24-30 GHz Power Amplifier with > 20 dBm Psat and < 0.1 dB AM-AM Distortion for 5G Applications
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - 5G
+KW  - mm-wave
+KW  - power amplifier
+KW  - SiGe BiCMOS tecnology
+KW  - EVM
+KW  - ACLR
+KW  - PAE
+KW  - AM-AM
+AB  - This paper presents a power amplifier (PA) designed as a part of a transceiver front-end fabricated in 0.13-mu m SiGe BiCMOS. The PA shares its output antenna port with a low noise amplifier using a transmission/reception switch. The output matching network of the PA is designed to provide high output power, low AM-AM distortion, and uniform performance over frequencies in the range of 24.25-29.5 GHz. Measurements of the front-end in TX mode demonstrate peak S-21 of 30.3 dB at 26.7 GHz, S-21 3-dB bandwidth of 9.8 GHz from 22.2 to 32.0 GHz, and saturated output power (P-sat) above 20 dBm with power-added efficiency (PAE) above 22% from 24 to 30 GHz. For a 64-QAM 400 MHz bandwidth OFDM signal, -25 dBc EVM is measured at an average output power of 12.3 dBm and average PAE of 8.8%. The PA achieves a competitive ITRS FoM of 92.9.
+AD  - Fujikura Ltd, Elect Technol R&D Ctr, Sakura, Chiba, JapanAD  - IBM TJ Watson Res Ctr, Yorktown Hts, NY USAC3  - Fujikura LtdC3  - International Business Machines (IBM)PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 273
+EP  - 275
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600090
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - JOUR
+AU  - Aryai, V
+AU  - Abbassi, R
+AU  - Abdussamie, N
+AU  - Salehi, F
+AU  - Garaniya, V
+AU  - Asadnia, M
+AU  - Baksh, AA
+AU  - Penesis, I
+AU  - Karampour, H
+AU  - Draper, S
+AU  - Magee, A
+AU  - Keng, AK
+AU  - Shearer, C
+AU  - Sivandran, S
+AU  - Yew, LK
+AU  - Cook, D
+AU  - Underwood, M
+AU  - Martini, A
+AU  - Heasman, K
+AU  - Abrahams, J
+AU  - Wang, CM
+TI  - Reliability of multi-purpose offshore-facilities: Present status and future direction in Australia
+T2  - PROCESS SAFETY AND ENVIRONMENTAL PROTECTION
+LA  - English
+KW  - Blue economy
+KW  - Ocean multi-use
+KW  - Offshore platforms
+KW  - Structural integrity
+KW  - Reliability analysis
+KW  - TURBINE SUPPORT STRUCTURES
+KW  - WAVE ENERGY-CONVERSION
+KW  - OF-THE-ART
+KW  - WIND-TURBINE
+KW  - STRUCTURAL HEALTH
+KW  - FISH CAGE
+KW  - DIGITAL TWIN
+KW  - FLOATING STRUCTURES
+KW  - SYSTEM RELIABILITY
+KW  - CORROSION-FATIGUE
+AB  - Sustainable use of the ocean for food and energy production is an emerging area of research in different countries around the world. This goal is pursued by the Australian aquaculture, offshore engineering and renewable energy industries, research organisations and the government through the "Blue Economy Cooperative Research Centre". To address the challenges of offshore food and energy production, lever-aging the benefits of co-location, vertical integration, infrastructure and shared services, will be enabled through the development of novel Multi-Purpose Offshore-Platforms (MPOP). The structural integrity of the designed systems when being deployed in the harsh offshore environment is one of the main challenges in developing the MPOPs. Employing structural reliability analysis methods for assessing the structural safety of the novel aquaculture-MPOPs comes with different limitations. This review aims at shedding light on these limitations and discusses the current status and future directions for structural reliability analysis of a novel aquaculture-MPOP considering Australia's unique environment. To achieve this aim, challenges which exist at different stages of reliability assessment, from data collection and uncertainty quantification to load and structural modelling and reliability analysis implementation, are discussed. Furthermore, several solutions to these challenges are proposed based on the existing knowledge in other sectors, and particularly from the offshore oil and gas industry. Based on the identified gaps in the review process, potential areas for future research are introduced to enable a safer and more reliable operation of the MPOPs. (C) 2020 Institution of Chemical Engineers. Published by Elsevier B.V. All rights reserved.
+AD  - Macquarie Univ, Fac Sci & Engn, Sch Engn, Sydney, NSW, AustraliaAD  - Univ Tasmania, Australian Maritime Coll AMC, Natl Ctr Maritime Engn & Hydrodynam, Launceston, Tas, AustraliaAD  - Griffith Univ, Sch Engn & Built Environm, Gold Coast, AustraliaAD  - Univ Western Australia, Sch Civil Environm & Min Engn, Perth, WA, AustraliaAD  - Natl Univ Singapore, Dept Civil & Environm Engn, Singapore, SingaporeAD  - BMT Commercial Australia Pty Ltd, Brisbane, Qld, AustraliaAD  - BMT Singapore Pte Ltd, Singapore, SingaporeAD  - Plant & Food Res Ltd, New Zealand Inst, Seafood Prod Grp, Port Nelson, New ZealandAD  - CSIRO, Engn & Technol, Oceans & Atmosphere Hobart, Hobart, Tas, AustraliaAD  - Cawthron Inst, Nelson, New ZealandAD  - DNV GL Australia Pty Ltd, Sydney, NSW, AustraliaAD  - Univ Queensland, Sch Civil Engn, St Lucia, Qld, AustraliaC3  - Macquarie UniversityC3  - University of TasmaniaC3  - Griffith UniversityC3  - University of Western AustraliaC3  - National University of SingaporeC3  - New Zealand Institute for Plant & Food Research LtdC3  - Commonwealth Scientific & Industrial Research Organisation (CSIRO)C3  - Cawthron InstituteC3  - University of QueenslandFU  - Blue Economy Cooperative Research Centre (CRC); Australian Government's CRC Program [CRC20180101]; CRC Program
+FX  - The authors acknowledge the financial support of the Blue Economy Cooperative Research Centre (CRC), established and supported under the Australian Government's CRC Program, grant number CRC20180101. The CRC Program supports industry-led collaborations between industry, researchers and the community.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0957-5820
+SN  - 1744-3598
+J9  - PROCESS SAF ENVIRON
+JI  - Process Saf. Environ. Protect.
+DA  - APR
+PY  - 2021
+VL  - 148
+SP  - 437
+EP  - 461
+DO  - 10.1016/j.psep.2020.10.016
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000637217000036
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  309
+ER  -
+
+TY  - CPAPER
+AU  - Setiawan, A
+AU  - Yonemoto, N
+AU  - Nohmi, H
+AU  - Murata, H
+A1  - IEEE
+TI  - Analysis of Millimeter-Wave Imaging Using Dielectric Lens for Fourier Transformation
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - millimeter wave
+KW  - lens
+KW  - imaging
+KW  - fourier transforms
+AB  - Millimeter-waves (mmW) have the advantages to penetrate clothes and are safe for the human body which is suitable for use in public spaces for security applications. In this paper, analysis of single-frequency imaging in mmW with Fast Fourier Transform (FFT) by using a lens is introduced. Concept of imaging by collecting amplitudes and phases of the signals from the aperture after passing through a lens is given. Results show a noticeable two-dimensional image of reconstructed objects involving FFT for millimeter-wave imaging which coincided with the W-band imaging experimental results.
+AD  - Mie Univ, Grad Sch Engn, Tsu, Mie 5148507, JapanAD  - Natl Inst Maritime Port & Aviat Technol, Elect Nav Res Inst, 7-42-23 Jindaiji Higashi, Chofu, Tokyo 1820012, JapanAD  - Alouette Technol Inc, 3-2-24 Shimorenjaku, Mitaka, Tokyo 1810013, JapanAD  - Natl Res & Innovat Agcy, Bandung, IndonesiaC3  - Mie UniversityFU  - MIC, Japan [JPJ000254]
+FX  - This work was supported by the MIC, Japan through the project entitled "Research and Development of radar fundamental technology for advanced recognition of moving objects for security enhancement (JPJ000254).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 339
+EP  - 341
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600111
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+

@@ -1,0 +1,778 @@
+﻿TY  - HTML
+AU  - Li, Y
+AU  - Chang, D
+AU  - Gao, Y
+AU  - Zou, Y
+AU  - Bao, C
+TI  - Automated container terminal production operation and optimization via an AdaBoost-based digital twin framework
+JF  - Journal of Advanced …
+PB  - hindawi.com
+UR  - https://www.hindawi.com/journals/jat/2021/1936764/
+UR  - https://www.hindawi.com/journals/jat/2021/1936764/
+PY  - 2021///
+AB  - Digital twin (DT), machine learning, and industrial Internet of things (IIoT) provide great potential for the transformation of the container terminal from automation to intelligence. The …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 5 cites: https://scholar.google.com/scholar?cites=16485621693849841557&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 5
+ER  - 
+
+TY  - JOUR
+AU  - Gao, Y
+AU  - Chang, D
+AU  - Chen, CH
+AU  - Xu, Z
+TI  - Design of digital twin applications in automated storage yard scheduling
+JF  - Advanced Engineering Informatics
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034621002275
+PY  - 2022///
+AB  - … digital twin-enabled automated storage yard scheduling framework for uncertain port dispatching is proposed in this paper. Digital twin … All tasks within 24 h at the container terminal are …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 19 cites: https://scholar.google.com/scholar?cites=17620044466839057067&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 19
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Y
+AU  - Yang, W
+AU  - Zheng, Y
+AU  - ...
+TI  - Digital Twin Modeling Method for Container Terminal in Port
+JF  - … and Information in …
+PB  - asmedigitalcollection.asme.org
+UR  - https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/V002T02A036/1150309
+PY  - 2022///
+AB  - … technology has become an important factor in promoting the development of container terminal. In this paper, digital twin technology is applied to the business of container terminal. …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Hofmann, W
+AU  - Branding, F
+TI  - Implementation of an IoT-and cloud-based digital twin for real-time decision support in port operations
+JF  - IFAC-PapersOnLine
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896319315009
+PY  - 2019///
+AB  - … The container terminal therefore continuously faces a conflict between over- and … , and followed by a detailed description of the digital twin concept. Subsequently, the solution concept …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 59 cites: https://scholar.google.com/scholar?cites=5007880568551258436&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 59
+ER  - 
+
+TY  - JOUR
+AU  - Wang, K
+AU  - Hu, Q
+AU  - Zhou, M
+AU  - Zun, Z
+AU  - Qian, X
+TI  - Multi-aspect applications and development challenges of digital twin-driven management in global smart ports
+JF  - Case Studies on Transport Policy
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S2213624X21001103
+PY  - 2021///
+AB  - … DT-based system has the ability to collect massive data of whole process of the automated container terminal before building a big data knowledge base for intelligent decision making. …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 29 cites: https://scholar.google.com/scholar?cites=17831380276887465095&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 29
+ER  - 
+
+TY  - JOUR
+AU  - Choi, HD
+AU  - Yu, JH
+TI  - A Study on the Application of Digital Twin Technology for Container Terminals
+JF  - Journal of Navigation and Port Research
+PB  - koreascience.or.kr
+UR  - https://www.koreascience.or.kr/article/JAKO202009252091670.page
+UR  - https://www.koreascience.or.kr/article/JAKO202009252091670.pdf
+PY  - 2020///
+AB  - … on the application of Digital Twin technology for container … at the container terminal. The result of analysis on the urgent necessity of adjustable fields' detailed elements from Digital Twin …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15362263974791727362&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 3
+ER  - 
+
+TY  - JOUR
+AU  - Yang, W
+AU  - Bao, X
+AU  - Zheng, Y
+AU  - Zhang, L
+AU  - Zhang, Z
+AU  - ...
+TI  - A digital twin framework for large comprehensive ports and a case study of Qingdao Port
+JF  - … International Journal of …
+PB  - Springer
+DO  - 10.1007/s00170-022-10625-1
+UR  - https://link.springer.com/article/10.1007/s00170-022-10625-1
+PY  - 2022///
+AB  - … simulation-based optimization of transport and storage operations at the container terminal itself, identifying patterns and connections in the vast amounts of data created by digital twin. …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - PDF
+AU  - Damiani, L
+AU  - Revetria, R
+AU  - Morra, E
+TI  - A digital twin for supporting energy management in complex maritime terminals
+JF  - International Maritime Transport …
+PB  - marlog.aast.edu
+UR  - https://marlog.aast.edu/attachments/cms/solid/0920ac36890175d746314dd28d79a004.pdf
+UR  - https://marlog.aast.edu/attachments/cms/solid/0920ac36890175d746314dd28d79a004.pdf
+PY  - 2019///
+AB  - … Model of container terminal can be divided on 3 common parts. One part is responsible for container ship coming and connected with it mooring and unloading procedures. First part …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 4 cites: https://scholar.google.com/scholar?cites=7534475725599087951&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 4
+ER  - 
+
+TY  - BOOK
+AU  - Moser, BR
+TI  - Machine Learning and Digital Twin-sed Path Planning for AGVs at Automated Container Terminals
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=XuufEAAAQBAJ&oi=fnd&pg=PA423&dq=%22digital+twin%22+%22container+terminal%22&ots=ksxG-JaSeZ&sig=nb_PqLT7eua7ak_JSnaFUIc376w
+PY  - 2022///
+AB  - … digital twin and machine learning to tackle AGV path planning problems in the time-changing operation environment. A digital twin… in the automated container terminal is proposed and …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Shao, G
+AU  - Jain, S
+AU  - Laroque, C
+AU  - Lee, LH
+AU  - ...
+TI  - Digital twin for smart manufacturing: the simulation aspect
+JF  - 2019 Winter …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9004659/
+PY  - 2019///
+AB  - The purpose of this panel is to discuss the state of the art in digital twin for manufacturing … Two panelists also report their digital twin projects and lessons learned. The panelists may …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 69 cites: https://scholar.google.com/scholar?cites=15889413462097488353&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 69
+ER  - 
+
+TY  - BOOK
+AU  - GAOa, Y
+AU  - CHEN, CH
+AU  - CHANG, D
+AU  - CHEN, S
+AU  - SONG, XT
+TI  - Machine Learning and Digital Twin-sed Path Planning for AGVs at Automated Container Terminals
+PB  - ebooks.iospress.nl
+DO  - 10.3233/ATDE220672
+UR  - https://ebooks.iospress.nl/pdf/doi/10.3233/ATDE220672
+UR  - https://scholar.archive.org/work/6ai6pur2dnfgrd7xrdahhued4y/access/wayback/https://ebooks.iospress.nl/pdf/doi/10.3233/ATDE220672
+PY  - 2022///
+AB  - … digital twin and machine learning to tackle AGV path planning problems in the time-changing operation environment. A digital twin… in the automated container terminal is proposed and …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Cao, Y
+AU  - Zeng, Q
+AU  - He, HR
+AU  - Yang, A
+TI  - Next-Generation Infrastructure Design Method Based on Digital Twin Technology for Automated Container Terminal
+JF  - ICCREM 2022
+PB  - ascelibrary.org
+DO  - 10.1061/9780784484562.043
+UR  - https://ascelibrary.org/doi/abs/10.1061/9780784484562.043
+AB  - … design based on the application of the digital twin platform to ensure the design quality and … Then, this paper proposes the digital twin based approach and the role of the digital twin in …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Agostinelli, S
+AU  - Cumo, F
+AU  - Nezhad, MM
+AU  - Orsini, G
+AU  - Piras, G
+TI  - Renewable Energy System Controlled by Open-Source Tools and Digital Twin Model: Zero Energy Port Area in Italy
+JF  - Energies
+PB  - mdpi.com
+UR  - https://www.mdpi.com/1523726
+UR  - https://www.mdpi.com/1996-1073/15/5/1817/pdf
+PY  - 2022///
+AB  - … The Digital Twin (DT) system can be proposed essentially based on integration of softwares that has already been used, such as Building Information Modelling (BIM) and Geographic …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 9 cites: https://scholar.google.com/scholar?cites=15960127341342695196&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 9
+ER  - 
+
+TY  - JOUR
+AU  - Nam, JW
+AU  - Kim, YS
+AU  - Shin, YR
+TI  - A Data Factorization Study for the Application of Digital Twin Technology to Container Ports
+JF  - Journal of Navigation and Port …
+PB  - koreascience.or.kr
+UR  - https://www.koreascience.or.kr/article/JAKO202210261482704.page
+UR  - https://www.koreascience.or.kr/article/JAKO202210261482704.pdf
+PY  - 2022///
+AB  - … in the application of digital twin technology in … digital twin technology in the port, and in particular, there is a lack of research on measurable data for the implementation of the digital twin …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 1 cites: https://scholar.google.com/scholar?cites=1841646331476434790&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - JOUR
+AU  - Li, Y
+AU  - Chang, D
+AU  - Tian, Y
+AU  - Wu, J
+TI  - Research on AGV Scheduling Method of Automated Container Terminal based on Digital Twin
+JF  - International Core Journal of …
+PB  - airitilibrary.com
+UR  - https://www.airitilibrary.com/Publication/alDetailedMesh?docid=P20190813001-202107-202108030003-202108030003-388-396
+PY  - 2021///
+AB  - … an important role in the operation of automated container terminal (ACT). It determines the … , a digital twin-based AGV scheduling method for ACT is proposed by combining digital twin (…
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Wong, EYC
+AU  - Mo, DY
+AU  - So, S
+TI  - Closed-loop digital twin system for air cargo load planning operations
+JF  - International Journal of Computer …
+PB  - Taylor &Francis
+DO  - 10.1080/0951192X.2020.1775299
+UR  - https://www.tandfonline.com/doi/abs/10.1080/0951192X.2020.1775299
+UR  - https://www.tandfonline.com/doi/pdf/10.1080/0951192X.2020.1775299?needAccess=true&role=button
+PY  - 2021///
+AB  - … To address these issues, this paper presents a digital twin … With digital twin system connects physical operations and … realises the potential for applying digital twin systems to air cargo …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 22 cites: https://scholar.google.com/scholar?cites=1153099495133316035&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 22
+ER  - 
+
+TY  - JOUR
+AU  - Errandonea, I
+AU  - Beltrán, S
+AU  - Arrizabalaga, S
+TI  - Digital Twin for maintenance: A literature review
+JF  - Computers in Industry
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361520305509
+PY  - 2020///
+AB  - … Recently, it could be said, "that the digital twin of a real distributed product is a virtual mirror, which can describe the comprehensive physical and functional properties of the product …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 224 cites: https://scholar.google.com/scholar?cites=17503147453308003735&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 224
+ER  - 
+
+TY  - JOUR
+AU  - Shen, X
+AU  - Liu, S
+AU  - Zhou, B
+AU  - Zheng, Y
+AU  - ...
+TI  - Digital twin-based scheduling method for marine equipment material transportation vehicles
+JF  - 2022 IEEE 18th …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9926428/
+PY  - 2022///
+AB  - … [14] studied the truck scheduling strategy under the background of container terminal, and … time for the route selection problem of container terminal transport vehicles. Hu et al. [16] …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - HTML
+AU  - Li, X
+AU  - Zhang, Y
+AU  - Li, C
+AU  - Wang, T
+AU  - Xi, C
+TI  - Application of Digital Twin in Handling and Transportation of Hazardous Chemicals
+JF  - Applied Sciences
+PB  - mdpi.com
+DO  - 10.3390/app122412746
+UR  - https://www.mdpi.com/article/10.3390/app122412746
+UR  - https://www.mdpi.com/article/10.3390/app122412746
+PY  - 2022///
+AB  - … The aim of this study is to apply digital twin (hereinafter referred to as DT) technology to the whole process of handling (including loading and unloading) and transportation of …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Jakovlev, S
+AU  - Eglynas, T
+AU  - Voznak, M
+AU  - ...
+TI  - Development of an Intelligent Digital Twins Framework for Secure Container Terminal Operations
+JF  - … Science of Riga …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9615313/
+PY  - 2021///
+AB  - … performed at the container terminal and to propose a new digital twin (DT)-based framework increasing the level of safety and security. This paper discusses the physical space as well …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 3 cites: https://scholar.google.com/scholar?cites=4537816035307980200&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 3
+ER  - 
+
+TY  - JOUR
+AU  - Zhao, N
+AU  - Fu, Z
+AU  - Sun, Y
+AU  - Pu, X
+AU  - Luo, L
+TI  - Digital-twin driven energy-efficient multi-crane scheduling and crane number selection in workshops
+JF  - Journal of Cleaner Production
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652621043407
+PY  - 2022///
+AB  - … A digital twin framework for multi-crane system in workshop was developed. … Yard crane and AGV scheduling in automated container terminal: a multi-robot task allocation framework …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 13 cites: https://scholar.google.com/scholar?cites=13740256313333193783&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 13
+ER  - 
+
+TY  - PDF
+AU  - Agostinelli, S
+AU  - Cumo, F
+AU  - Nezhad, MM
+AU  - Orsini, G
+AU  - Piras, G
+TI  - Renewable Energy System Controlled by Open-Source Tools and Digital Twin Model: Zero Energy Port Area in Italy. Energies 2022, 15, 1817
+PB  - iris.uniroma1.it
+UR  - https://iris.uniroma1.it/retrieve/e383532e-fc39-15e8-e053-a505fe0a3de9/Agostinelli_Renewable_2022.pdf
+UR  - https://iris.uniroma1.it/retrieve/e383532e-fc39-15e8-e053-a505fe0a3de9/Agostinelli_Renewable_2022.pdf
+PY  - 2022///
+AB  - … The Digital Twin (DT) system can be proposed essentially based on integration of softwares that has already been used, such as Building Information Modelling (BIM) and Geographic …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 3 cites: https://scholar.google.com/scholar?cites=9933812643576046982&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 3
+ER  - 
+
+TY  - BOOK
+AU  - Velden, M van der
+TI  - Scaling digital twins: A roadmap to address operational planning uncertainties of container terminals
+PB  - repository.tudelft.nl
+UR  - https://repository.tudelft.nl/islandora/object/uuid:a32e8e04-d74c-4284-bb5d-2ac698ad7f06
+PY  - 2022///
+AB  - … digital twin. This is an ideal tool to identify weaknesses and opportunities in the operations of a container terminal… The phases are 'developing the digital twin', 'using the digital twin' and '…
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - HTML
+AU  - Wattanakul, S
+AU  - Henry, S
+AU  - ...
+TI  - A port digital twin model for operational uncertainty management
+JF  - The Journal of …
+PB  - journalmodernpm.com
+UR  - https://journalmodernpm.com/manuscript/index.php/jmpm/article/view/JMPM02810
+UR  - https://journalmodernpm.com/manuscript/index.php/jmpm/article/view/JMPM02810
+PY  - 2022///
+AB  - … This paper applies Digital Twin (DT) to model a replicated virtual port operationfrom a real-world port of Thailand. The proposed DT modeloffers a tool to accelerate generating data of …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 4 cites: https://scholar.google.com/scholar?cites=8530345498712393748&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 4
+ER  - 
+
+TY  - JOUR
+AU  - Yao, H
+AU  - Xue, T
+AU  - Wang, D
+AU  - Qi, Y
+AU  - ...
+TI  - Development direction of automated terminal and systematic planning of smart port
+JF  - 2021 IEEE 2nd …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9389884/
+PY  - 2021///
+AB  - … a smart port-industry-city "digital twin" model that perceives 3D data and … Digital twin model of the fourth phase of automated … stacking cranes at a seaport container terminal[J]. European …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 3 cites: https://scholar.google.com/scholar?cites=16533606234866166900&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 3
+ER  - 
+
+TY  - JOUR
+AU  - Zhao, N
+AU  - Lodewijks, G
+AU  - Fu, Z
+AU  - Sun, Y
+AU  - ...
+TI  - Trajectory predictions with details in a robotic twin-crane system
+JF  - … System Modeling and …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9770079/
+UR  - https://ieeexplore.ieee.org/iel7/9420428/9770077/09770079.pdf
+PY  - 2022///
+AB  - … This method will be helpful for the design of a digital twin (DT) of an RTCS and the … In Section 5, we present a case study of a container terminal and investigate the impacts of different …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9284964277732552222&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - JOUR
+AU  - Martínez-Gutiérrez, A
+AU  - Díez-González, J
+AU  - ...
+TI  - Digital twin for automatic transportation in industry 4.0
+JF  - Sensors
+PB  - mdpi.com
+UR  - https://www.mdpi.com/1105116
+UR  - https://www.mdpi.com/1424-8220/21/10/3344/pdf
+PY  - 2021///
+AB  - … Among these tecniques, Digital Twin (DT) is attracting the research interest of the scientific community in the last few years due to the cost reduction through the simulation of the …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 35 cites: https://scholar.google.com/scholar?cites=8828769488172162484&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 35
+ER  - 
+
+TY  - JOUR
+AU  - AGOSTINELLI, S
+TI  - DIGITAL TWIN MODEL FOR ZERO-ENERGY DISTRICTS: THE CASE STUDY OF ANZIO PORT, ITALY
+JF  - WIT Transactions on Ecology and the …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=URmgEAAAQBAJ&oi=fnd&pg=PA357&dq=%22digital+twin%22+%22container+terminal%22&ots=w7KqFvX1DV&sig=yww2Hg_14m6qsrIuskOuMyECrmk
+UR  - https://www.witpress.com/Secure/elibrary/papers/SC22/SC22029FU1.pdf
+PY  - 2022///
+AB  - … The main objective of the strategy proposed in this paper is the realization of a digital twin (DT) … Moreover, the digitization process oriented to digital twin technologies is an opportunity to …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, C
+AU  - Xu, J
+AU  - Miller-Hooks, E
+AU  - Zhou, W
+AU  - Chen, CH
+AU  - ...
+TI  - Analytics with digital-twinning: A decision support system for maintaining a resilient port
+JF  - Decision Support …
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S0167923621000063
+UR  - https://www.sciencedirect.com/science/article/am/pii/S0167923621000063
+PY  - 2021///
+AB  - … Next, 3.1 Digital twinning, 3.2 Optimal computing budget allocation provide details on the enabling technologies of the recovery analysis module, the digital twin for a container terminal …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 36 cites: https://scholar.google.com/scholar?cites=17286953470387025635&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 36
+ER  - 
+
+TY  - JOUR
+AU  - Klar, R
+AU  - Fredriksson, A
+AU  - Angelakis, V
+TI  - Assessing the Maturity of Digital Twinning Solutions for Ports
+JF  - arXiv preprint arXiv:2212.07722
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/2212.07722
+UR  - https://arxiv.org/pdf/2212.07722
+PY  - 2022///
+AB  - … a digital twin of a complex system comprises and how it should be designed, deployed digital twin … with the AdaBoost algorithm to increase container terminal efficiency and safety. In …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10213022071304423155&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - JOUR
+AU  - Gao, L
+AU  - Zhao, LJ
+AU  - Yang, GS
+AU  - Ma, CJ
+TI  - A digital twin-driven trajectory tracking control method of a lower-limb exoskeleton
+JF  - Control Engineering Practice
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S0967066122001307
+PY  - 2022///
+AB  - … control method based on the digital twin model is proposed in the … Secondly, the digital twin model is driven by the physical-… In this way, a digital twin-driven compound control algorithm …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14858386266288061026&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - JOUR
+AU  - Li, H
+AU  - Cao, X
+AU  - Sharma, P
+AU  - Lee, LH
+AU  - ...
+TI  - Framework of O2DES.NET Digital Twins for Next Generation Ports and Warehouse Solutions
+JF  - 2020 Winter Simulation …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9384111/
+UR  - https://scholarbank.nus.edu.sg/rest/bitstreams/1421828/retrieve
+PY  - 2020///
+AB  - … on the final use of that digital twin. In the next section, this paper presents development of such a digital twin based on O2DES.Net. This digital twin attempts at encompassing all the four …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 8 cites: https://scholar.google.com/scholar?cites=8789873936638681589&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 8
+ER  - 
+
+TY  - PDF
+AU  - Tesse, J
+AU  - Baldauf, U
+AU  - Schirmer, I
+AU  - Drews, P
+AU  - Saxe, S
+TI  - Extending Internet of Things Enterprise Architectures by Digital Twins Exemplified in the Context of the Hamburg Port Authority.
+JF  - AMCIS
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Paul-Drews/publication/352197873_Extending_Internet_of_Things_Enterprise_Architectures_by_Digital_Twins_Exemplified_in_the_Context_of_the_Hamburg_Port_Authority/links/60be87c2a6fdcc22eae8a006/Extending-Internet-of-Things-Enterprise-Architectures-by-Digital-Twins-Exemplified-in-the-Context-of-the-Hamburg-Port-Authority.pdf
+UR  - https://www.researchgate.net/profile/Paul-Drews/publication/352197873_Extending_Internet_of_Things_Enterprise_Architectures_by_Digital_Twins_Exemplified_in_the_Context_of_the_Hamburg_Port_Authority/links/60be87c2a6fdcc22eae8a006/Extending-Internet-of-Things-Enterprise-Architectures-by-Digital-Twins-Exemplified-in-the-Context-of-the-Hamburg-Port-Authority.pdf
+PY  - 2021///
+AB  - … This paper examines the influence of the Digital Twin … We derive formalized learnings in the form of a Digital Twin … area (eg, “5 minutes travel time to container terminal A”). Therefore, the …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 2 cites: https://scholar.google.com/scholar?cites=16794802586621468138&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - JOUR
+AU  - Zake, M
+AU  - Majore, G
+TI  - Application of Multi-perspective Modelling Approach for Building Digital Twin in Smart Agriculture
+JF  - … Science of Riga Technical University (ITMS …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9937142/
+PY  - 2022///
+AB  - … methodology for creating a digital twin and the results of a … MultiDigiII methodology for building the digital twin, as well as the … from the perspective of the digital twin. The third chapter …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Autiosalo, J
+AU  - Ala-Laurinaho, R
+AU  - Mattila, J
+AU  - Valtonen, M
+AU  - ...
+TI  - Towards integrated digital twins for industrial products: Case study on an overhead crane
+JF  - Applied Sciences
+PB  - mdpi.com
+UR  - https://www.mdpi.com/958202
+UR  - https://www.mdpi.com/2076-3417/11/2/683/pdf
+PY  - 2021///
+AB  - … the digital twin, and socially oriented data on how the development process of that digital twin was … The technical data mainly serves as an example of what a digital twin of an industrial …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 32 cites: https://scholar.google.com/scholar?cites=16860598048144041299&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 32
+ER  - 
+
+TY  - JOUR
+AU  - 엄정온
+AU  - 김주영
+AU  - 이서호
+AU  - 윤정현
+AU  - 김세원
+TI  - 선박의 항만 이접안 계획을 위한 디지털 트윈 개발
+JF  - 제어로봇시스템학회 논문지
+PB  - dbpia.co.kr
+UR  - https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11110707
+PY  - 2022///
+AB  - … A digital twin implements a real-world object in a virtual … Port Container Terminal was implemented as a digital twin, … berth plan before and after digital twin application for June 2021 of …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - PDF
+AU  - Timimi, WMAA
+TI  - Digitalization in ship management and operations: use of digital twin technology to monitor marine fouling
+PB  - commons.wmu.se
+UR  - https://commons.wmu.se/cgi/viewcontent.cgi?article=2757&context=all_dissertations
+UR  - https://commons.wmu.se/cgi/viewcontent.cgi?article=2757&context=all_dissertations
+PY  - 2021///
+AB  - … To evaluate the status quo of digital twin technology in monitoring marine fouling. 1. What is … of digital twin technology in monitoring marine fouling. 4. How is the future of the digital twin …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Emanuele, A
+AU  - Anastasiia, R
+AU  - Roberto, R
+AU  - ...
+TI  - An Agenda on the Employment of AI Technologies in Port Areas: The TEBETS Project
+JF  - Advances and Trends in …
+PB  - Springer
+DO  - 10.1007/978-3-031-08530-7_53
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-08530-7_53
+PY  - 2022///
+AB  - … model of the port of Genoa and the digital twin representation of the Terminal San Giorgio. The … The resources employed were a Digital Twin realized with the Optimize software, a …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Yang, A
+AU  - Meng, X
+AU  - He, H
+AU  - Wang, L
+AU  - Gao, J
+TI  - Towards Optimized ARMGs' Low-Carbon Transition Investment Decision Based on Real Options
+JF  - Energies
+PB  - mdpi.com
+UR  - https://www.mdpi.com/1727740
+UR  - https://www.mdpi.com/1996-1073/15/14/5153/pdf
+PY  - 2022///
+AB  - … Finally, ports can use the digital twin platform to accurately simulate the activities and carbon emissions of the hydrogen-powered ARMGs. The digital twin platform visually presents …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18179964534080758989&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - PDF
+AU  - Kim, S
+AU  - Feng, B
+AU  - Smith, K
+AU  - Masoud, S
+AU  - Zheng, Z
+AU  - Szabo, C
+AU  - ...
+TI  - USING SIMULATION AND DIGITAL TWINS TO INNOVATE: ARE WE GETTING SMARTER?
+JF  - tsapps.nist.gov
+UR  - https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=932374
+UR  - https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=932374
+AB  - … digital twin standards such as the definitions of digital twin concept and terminology and the digital twin … a variety of applications including port container terminal operation and design , …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - PDF
+AU  - Sanz, V Muñoz
+TI  - Platform architectures
+JF  - Positions, e-flux Architecture. At: http://www. e …
+PB  - research.tudelft.nl
+UR  - https://research.tudelft.nl/files/85431927/Positions.pdf
+UR  - https://research.tudelft.nl/files/85431927/Positions.pdf
+PY  - 2018///
+AB  - … A “digital twin” of the production chain, developed by Siemens, allows for testing and … Also in the Netherlands, a container terminal of APM Terminals—a Maersk company—at the Port of …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 1 cites: https://scholar.google.com/scholar?cites=11555042912598146277&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - JOUR
+AU  - Saifutdinov, F
+AU  - Jackson, I
+AU  - Tolujevs, J
+TI  - An emulation oriented method and tool for test of ground traffic control systems at airports
+JF  - Aviation
+PB  - jau.vgtu.lt
+UR  - https://jau.vgtu.lt/index.php/Aviation/article/view/16869
+UR  - https://jau.vgtu.lt/index.php/Aviation/article/download/16869/11203
+PY  - 2022///
+AB  - … The movement of objects in the model is accompanied by the recording of their coordinates in the Digital Twin. In this way, real streams of measurement data from various systems for …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 1 cites: https://scholar.google.com/scholar?cites=15416908833527703932&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, C
+AU  - Li, H
+AU  - Liu, W
+AU  - Stephen, A
+AU  - ...
+TI  - Challenges and opportunities in integration of simulation and optimization in maritime logistics
+JF  - 2018 Winter …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/8632202/
+UR  - https://www.researchgate.net/profile/Chenhao-Zhou-5/publication/330880341_CHALLENGES_AND_OPPORTUNITIES_IN_INTEGRATION_OF_SIMULATION_AND_OPTIMIZATION_IN_MARITIME_LOGISTICS/links/5f7c042f299bf1b53e10af5b/CHALLENGES-AND-OPPORTUNITIES-IN-INTEGRATION-OF-SIMULATION-AND-OPTIMIZATION-IN-MARITIME-LOGISTICS.pdf
+PY  - 2018///
+AB  - … technologies, a digital twin of the maritime system is needed. Digital twin refers to a digital … uncertainty, and can be utilized as a digital twin, which not only replays the historical events, …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 20 cites: https://scholar.google.com/scholar?cites=5699058566081484929&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 20
+ER  - 
+
+TY  - JOUR
+AU  - Vrbanić, F
+AU  - Ivanjko, E
+AU  - Gašpar, S
+TI  - Virtual Reality and Transport: A Short Review
+JF  - Central European Conference …
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/6eee7d4c7ec308e587f1669937673c12/1?pq-origsite=gscholar&cbl=1986354
+PY  - 2022///
+AB  - … the digital twin approach. In this case, a whole city or only a part of it can be modeled in a virtual environment, and the digital twin … technology to deploy a container terminal VR system, …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Taylor, SJE
+AU  - Johansson, B
+AU  - Jeon, S
+AU  - ...
+TI  - Using simulation and digital twins to innovate: are we getting smarter?
+JF  - 2021 Winter …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9715535/
+UR  - https://drive.google.com/file/d/1v9nAjW5tuU06aENqf0qyRlPIiROMwAAY/view
+PY  - 2021///
+AB  - … digital twin standards such as the definitions of digital twin concept and terminology and the digital twin … a variety of applications including port container terminal operation and design , …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 4 cites: https://scholar.google.com/scholar?cites=12423265431554381472&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 4
+ER  - 
+
+TY  - JOUR
+AU  - Ni, R
+AU  - Guo, Z
+AU  - Jiang, Y
+AU  - Liu, S
+TI  - Research on Port truck trajectory completion based on Long Short-Term Memory model and Speed distribution characteristics
+JF  - 2021 7th International Conference …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9656235/
+PY  - 2021///
+AB  - … real-time completion of missing truck trajectory data plays a vital role in the qualitative data collection of port production operations and the establishment of port digital twin systems. …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Y
+AU  - Jacob, A
+AU  - Vermeer, B
+TI  - Planning and Simulation of Large-Scale Container Terminal Consolidation for Smart Port Initiatives
+JF  - Ports 2022
+PB  - ascelibrary.org
+DO  - 10.1061/9780784484401.090
+UR  - https://ascelibrary.org/doi/abs/10.1061/9780784484401.090
+PY  - 2022///
+AB  - … For this project, FlexTerm digital twin dynamic simulation models were developed for the consolidated terminals to analyze and evaluate terminal capacity, performance, and equipment …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Chen, W
+AU  - Hong, W
+AU  - Zhang, H
+AU  - Yang, P
+AU  - ...
+TI  - Multi-Fidelity Simulation Modeling for Discrete Event Simulation: An Optimization Perspective
+JF  - IEEE Transactions on …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9775096/
+UR  - https://www.researchgate.net/profile/Wenjie-Chen-21/publication/360649380_Multi-Fidelity_Simulation_Modeling_for_Discrete_Event_Simulation_An_Optimization_Perspective/links/628c4cbcb5de4f1ad1707a57/Multi-Fidelity-Simulation-Modeling-for-Discrete-Event-Simulation-An-Optimization-Perspective.pdf
+PY  - 2022///
+AB  - … Experimental results in a digital twin emergency department demonstrate that the computer-… [12] proposed an O2DES-based container terminal modeling framework to build multi-fidelity …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+
+TY  - JOUR
+AU  - Mazzarino, M
+AU  - Braidotti, L
+AU  - Cociancich, M
+AU  - ...
+TI  - On the digitalisation processes in the adriatic region
+JF  - … and Maritime Culture …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=3mTIDwAAQBAJ&oi=fnd&pg=PA180&dq=%22digital+twin%22+%22container+terminal%22&ots=H9QDxuT815&sig=_EgQRPe_TTPFzAqNojoSiniyZWE
+UR  - https://indico.atenanazionale.org/event/2/papers/188/files/292-FP_id40_Mazzarino.pdf
+PY  - 2019///
+AB  - … gaining attention in maritime domain: digital twin. The digital twin of an asset is a model capable … However, container terminal automation is still at relatively early stages since, currently, …
+M1  - Query date: 2023-03-21 08:59:27
+M1  - 5 cites: https://scholar.google.com/scholar?cites=10955682272469854761&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 5
+ER  - 
+
+TY  - PDF
+AU  - Kazlouskaya, M
+AU  - Ladutska, N
+TI  - Digital Technologies of Cargo Transport Terminals
+PB  - rep.bntu.by
+UR  - https://rep.bntu.by/bitstream/handle/data/112731/126-128.pdf?sequence=1
+UR  - https://rep.bntu.by/bitstream/handle/data/112731/126-128.pdf?sequence=1
+PY  - 2022///
+AB  - Kazlouskaya, M. Digital Technologies of Cargo Transport Terminals/M. Kazlouskaya, N. Ladutska//Знание иностранного языка как основной фактор для работы в инновационных …
+M1  - Query date: 2023-03-21 08:59:27
+ER  - 
+

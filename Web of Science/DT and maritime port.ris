@@ -1,0 +1,674 @@
+﻿TY  - JOUR
+AU  - Zhou, CH
+AU  - Xu, J
+AU  - Miller-Hooks, E
+AU  - Zhou, WW
+AU  - Chen, CH
+AU  - Lee, LH
+AU  - Chew, EP
+AU  - Li, HB
+TI  - Analytics with digital-twinning: A decision support system for maintaining a resilient port
+T2  - DECISION SUPPORT SYSTEMS
+LA  - English
+KW  - Port resilience
+KW  - Digital-twinning-driven analytics
+KW  - Decision support systems
+KW  - Port performance
+KW  - Simulation-optimization
+KW  - Maritime transport
+KW  - SIMULATION BUDGET ALLOCATION
+KW  - CONTAINER
+KW  - OPTIMIZATION
+KW  - PERFORMANCE
+KW  - OPERATIONS
+KW  - TRANSPORTATION
+KW  - EFFICIENCY
+KW  - FRAMEWORK
+AB  - In this paper, a Decision Support System (DSS) with digital twinning-based resilience analysis is proposed as a modern tool for port resilience computation and updating. The proposed DSS assesses the resilience of a port under possible disruptive events given its design, operations and potential pre-defined post-event recovery actions to mitigate the impact of the disruption. Digital twinning provides the fidelity required to realistically predict port performance with taken post-event recovery actions under various possible disruptive events. In addition to hedging against impacts from probabilistically known disruption events, this approach also enables inclusion of ordinary operational uncertainties within the resilience evaluation. This is not generally feasible with other existing resilience quantification approaches. To tackle computational challenges of applying a digital twin for real-world size applications, an optimal computing budget allocation policy is adopted to improve computational efficiency. Results of numerical experiments using a real-world size port demonstrate the effectiveness of the proposed DSS and criticality of accounting for ordinary uncertainties in operations in resilience estimation.
+AD  - Natl Univ Singapore, Dept Ind Syst Engn & Management, Singapore, SingaporeAD  - George Mason Univ, Dept Syst Engn & Operat Res, Fairfax, VA 22030 USAAD  - George Mason Univ, Dept Civil Environm & Infrastruct Engn, Fairfax, VA 22030 USAAD  - Natl Univ Singapore, Ctr Maritime Studies, Singapore, SingaporeC3  - National University of SingaporeC3  - George Mason UniversityC3  - George Mason UniversityC3  - National University of SingaporeFU  - Singapore Maritime Institute [SMI2018PE01]; Air Force Office of Scientific Research [FA95501910383]; National Science Foundation [DMS1923145]; National Natural Science Foundation of China [71720107003, 61603321]
+FX  - This research was made possible with funding support from Singapore Maritime Institute under grant no. SMI2018PE01, the Air Force Office of Scientific Research under grant no. FA95501910383, National Science Foundation under grant no. DMS1923145, and the National Natural Science Foundation of China under Grant 71720107003 and 61603321.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0167-9236
+SN  - 1873-5797
+J9  - DECIS SUPPORT SYST
+JI  - Decis. Support Syst.
+DA  - APR
+PY  - 2021
+VL  - 143
+C7  - 113496
+DO  - 10.1016/j.dss.2021.113496
+C6  - FEB 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000634866100002
+N1  - Times Cited in Web of Science Core Collection:  22
+Total Times Cited:  22
+Cited Reference Count:  68
+ER  -
+
+TY  - CPAPER
+AU  - Tesse, J
+AU  - Baldauf, U
+AU  - Schirmer, I
+AU  - Drews, P
+AU  - Saxe, S
+A1  - Assoc Informat Syst
+TI  - Extending Internet of Things Enterprise Architectures by Digital Twins Exemplified in the Context of the Hamburg Port Authority
+T2  - DIGITAL INNOVATION AND ENTREPRENEURSHIP (AMCIS 2021)
+LA  - English
+CP  - 27th Annual Americas Conference on Information Systems (AMCIS)
+KW  - Enterprise Architecture Management
+KW  - Digital Twin
+KW  - Maritime Logistics Industry
+AB  - This paper examines the influence of the Digital Twin paradigm on the concrete industry context that the Hamburg Port Authority operates in. In cooperation with the practitioner, we develop architectural extensions for a maturing Enterprise Architecture in the context of Internet of Things in the maritime logistics industry. We derive formalized learnings in the form of a Digital Twin metamodel and an architectural view that builds upon the SmartBrick paradigm from EA research, and introduces a Digital Twin layer to leverage the benefits of SmartBricks in strategic management of IoT cloud architectures.
+AD  - Univ Hamburg, Hamburg, GermanyAD  - Hamburg Port Author, Hamburg, GermanyAD  - Leuphana Univ Luneburg, Luneburg, GermanyAD  - Interface Soc, Hamburg, GermanyC3  - University of HamburgC3  - Leuphana University LuneburgPU  - ASSOC INFORMATION SYSTEMS
+PI  - ATLANTA
+PA  - P.O. BOX 2712, ATLANTA, GA 30301-2712 USA
+PY  - 2021
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000672599801015
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  29
+ER  -
+
+TY  - JOUR
+AU  - Wang, K
+AU  - Hu, QQ
+AU  - Zhou, MJ
+AU  - Zun, Z
+AU  - Qian, XM
+TI  - Multi-aspect applications and development challenges of digital twin-driven management in global smart ports
+T2  - CASE STUDIES ON TRANSPORT POLICY
+LA  - English
+KW  - Digital twin
+KW  - Smart port
+KW  - Visual-based management
+KW  - Digital twin model
+KW  - Systematic framework
+KW  - WIRELESS COMMUNICATION
+KW  - INDUSTRIAL INTERNET
+KW  - IMPLEMENTATION
+KW  - SUPPORT
+KW  - SYSTEMS
+KW  - BIM
+KW  - INTEGRATION
+KW  - AUTOMATION
+KW  - OPERATION
+KW  - FRAMEWORK
+AB  - Digital twin (DT) creates a revolutionary opportunity for the smart ports' authorities, with the capability of high-fidelity digital representation of real-world things. DT-driven management is able to predict potential risk, it is considered to be a key integration involves transport and operation related with smart port supply chains. This paper presents DT information visualizations & outcome loop of global smart ports' management, and core technique towards smart ports' processes based on DT-driven management. A systematic framework of DT-based model for smart port's management is presented, which can be categorized into physical layer, data layer, model layer, service layer and application layer. Decision-makers engage in operational management through the DT-based models and platform. To illustrate DT mechanism, multi-aspect functional applications of DT-driven management are discussed, including cargo handling and transportation, containers operation and storage, data communication and sharing, risk prediction, and environmental protection in global smart ports. Meanwhile, this paper proposes concerned challenges of DT-driven management integrated with optimized cross-platform in smart ports' processes, to indicate there are barriers ahead to get to an ideal visual-based management system. Current challenges help decision-makers to determine where to find a proper strategy to win, in the future, DT visual applications can be extended in several directions of global port industry. This work contributes to address a comprehensive overview of DT managing capabilities together with details of necessary architecture to support effective simulations in virtual port's space. It provides DT-driven platform will enable better management across the smart port activities from design to transport to operation and sustainment of innovative plan.
+AD  - Shanghai Maritime Univ, Coll Ocean Sci & Engn, Shanghai, Peoples R ChinaAD  - Shanghai Maritime Univ, Dept Safety Sci & Engn, Shanghai, Peoples R ChinaAD  - Shanghai Maritime Univ, Marine Publ Safety Res Ctr, Shanghai, Peoples R ChinaAD  - Beijing Inst Technol, Sch Mechatron Engn, Beijing, Peoples R ChinaC3  - Shanghai Maritime UniversityC3  - Shanghai Maritime UniversityC3  - Shanghai Maritime UniversityC3  - Beijing Institute of TechnologyFU  - Shanghai Key Projects of Soft Science [20692193100]; National Natural Science Foundation of China [52001196]; State Key Laboratory of Explosion Science and Technology in BIT, China Institute of Communications Education [JTYB20-60]
+FX  - This work is financially sponsored by Shanghai Key Projects of Soft Science (20692193100) and National Natural Science Foundation of China (52001196). Kan WANG acknowledges State Key Laboratory of Explosion Science and Technology in BIT, China Institute of Communications Education (JTYB20-60) for providing supporting. More importantly, the authors would like to gratefully acknowledge the editors and reviewers for the valuable suggestions and comments.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2213-624X
+SN  - 2213-6258
+J9  - CASE STUD TRANSP POL
+JI  - Case Stud. Transp. Policy
+DA  - SEP
+PY  - 2021
+VL  - 9
+IS  - 3
+SP  - 1298
+EP  - 1312
+DO  - 10.1016/j.cstp.2021.06.014
+C6  - AUG 2021
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000687100100001
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  93
+ER  -
+
+TY  - JOUR
+AU  - Gao, YP
+AU  - Chang, DF
+AU  - Chen, CH
+AU  - Xu, ZY
+TI  - Design of digital twin applications in automated storage yard scheduling
+T2  - ADVANCED ENGINEERING INFORMATICS
+LA  - English
+KW  - Port optimization
+KW  - Automated storage yard scheduling
+KW  - Digital twin
+KW  - Simulation
+KW  - Uncertain scenarios
+KW  - DECISION-SUPPORT-SYSTEM
+KW  - CONTAINER
+KW  - STACKING
+KW  - CRANES
+AB  - A digital twin-enabled automated storage yard scheduling framework for uncertain port dispatching is proposed in this paper. Digital twin technology is employed to establish the virtual yet realistic storage yard and the connection between them. In the proposed framework, disturbed scenarios during practical operation are monitored, and real-time data is visualized in the virtual space to adapt to the time-varying environment. The proposed framework focuses on the optimization of three main resources, viz. storage area, automated stacking cranes (ASCs), and automated guided vehicles (AGVs). In addition, three key technologies, the Internet of Things (IoT), virtual reality, and digital thread, are adopted to develop the proposed scheduling system. A case study of ASC rescheduling due to dynamic arrival is used to demonstrate the effectiveness of the proposed framework and the significance of obtaining uncertainties in port optimization. Sensitivity analysis is conducted to define the appropriate configuration required to handle all tasks. The results show that digital twin applications in automated storage yard scheduling help operators make optimization decisions.
+AD  - Shanghai Maritime Univ, Inst Logist Sci & Engn, 1550 Haigang Ave, Shanghai 201306, Peoples R ChinaAD  - Nanyang Technol Univ, Sch Mech & Aerosp Engn, 50 Nanyang Ave, Singapore 639798, SingaporeC3  - Shanghai Maritime UniversityC3  - Nanyang Technological University & National Institute of Education (NIE) SingaporeC3  - Nanyang Technological UniversityFU  - National Key Research and Devel-opment Plan of China [2019YFB1704403]; Shanghai Maritime University Graduate Outstanding Creative Talent Training Program [2019YBR014]; China Scholarship Council
+FX  - Acknowledgment This work was supported by the National Key Research and Devel-opment Plan of China (No. 2019YFB1704403) , Shanghai Maritime University Graduate Outstanding Creative Talent Training Program (No. 2019YBR014) and the China Scholarship Council.
+PU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 1474-0346
+SN  - 1873-5320
+J9  - ADV ENG INFORM
+JI  - Adv. Eng. Inform.
+DA  - JAN
+PY  - 2022
+VL  - 51
+C7  - 101477
+DO  - 10.1016/j.aei.2021.101477
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000798568700008
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  38
+ER  -
+
+TY  - CPAPER
+AU  - Hofmann, W
+AU  - Branding, F
+TI  - Implementation of an IoT- and Cloud-based Digital Twin for Real-Time Decision Support in Port Operations
+T2  - IFAC PAPERSONLINE
+LA  - English
+CP  - 9th IFAC/IFIP/IFORS/IISE/INFORMS Conference on Manufacturing Modelling, Management and Control (IFAC MIM)
+KW  - Digital Twin
+KW  - Internet of Things
+KW  - Cloud Computing
+KW  - SimPy
+KW  - Maritime Economy
+KW  - SIMULATION
+KW  - TOOL
+AB  - Seaborne trade volumes are growing and the resulting traffic load on the road infrastructure in port areas calls for new solutions to improve handling and coordination of vehicles and shipments. In this contribution, a digital twin for truck dispatching operator assistance is presented, which enables the determination of optimal dispatching policies using simulation-based performance forecasts. Proprietary simulation software with limited interfaces, the application deployment in demanding industrial environments, and the integration of real-time sensor information represent three major challenges when realizing digital twin applications for logistics systems. This implementation, therefore, uses an extensible open-source simulation package and it is coupled with an IoT-platform for easy integration of real-time information. The digital twin is deployed as a cloud-based service, allowing for simple deployment and scalability. (C) 2019, IFAC (International Federation of Automatic Control) Hosting by Elsevier Ltd. All rights reserved.
+AD  - Lufthansa Ind Solut AS GmbH, Schutzenwall 1, D-22844 Norderstedt, GermanyPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2405-8963
+J9  - IFAC PAPERSONLINE
+JI  - IFAC PAPERSONLINE
+PY  - 2019
+VL  - 52
+IS  - 13
+SP  - 2104
+EP  - 2109
+DO  - 10.1016/j.ifacol.2019.11.516
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000504282400357
+N1  - Times Cited in Web of Science Core Collection:  28
+Total Times Cited:  28
+Cited Reference Count:  28
+ER  -
+
+TY  - CPAPER
+AU  - Li, HB
+AU  - Cao, XH
+AU  - Sharma, P
+AU  - Lee, LH
+AU  - Chew, EP
+A1  - IEEE
+TI  - FRAMEWORK OF (ODES)-D-2.NET DIGITAL TWINS FOR NEXT GENERATION PORTS AND WAREHOUSE SOLUTIONS
+T2  - 2020 WINTER SIMULATION CONFERENCE (WSC)
+LA  - English
+CP  - Winter Simulation Conference
+AB  - Innovative solutions are proposed to meet the challenges bringing by the development of next generation ports and warehouses. In order to test the feasibility of the solutions and increase the "wisdom" of maritime logistics facilities, a maritime Digital Twin (DT), SingaPort.Net Suite, is developed and presented in this paper. An object-oriented discrete event simulation ((ODES)-D-2.NET) framework is proposed as the development framework. Seven functions achieved by (ODES)-D-2.NET are embedded in the SingaPort.Net Suite and are illustrated in this paper. It is hoped that with the help of SingaPort.Net Suite and (ODES)-D-2.NET, the maritime logistics DT ecosystem could experience a vivid and healthy growth in the future decades.
+AD  - Natl Univ Singapore, Dept Ind Syst Engn & Management, 1 Engn Dr 2, Singapore 117576, SingaporeC3  - National University of SingaporeFU  - Singapore Maritime Institute
+FX  - This research has been made possible by the funding support from the Singapore Maritime Institute.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 0891-7736
+SN  - 978-1-7281-9499-8
+J9  - WINT SIMUL C PROC
+PY  - 2020
+SP  - 3188
+EP  - 3199
+DO  - 10.1109/WSC48552.2020.9384111
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000679196303019
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  18
+ER  -
+
+TY  - JOUR
+AU  - Meyer, C
+AU  - Gerlitz, L
+AU  - Philipp, R
+AU  - Paulauskas, V
+TI  - A DIGITAL OR SUSTAINABLE SMALL AND MEDIUM-SIZED PORT? SUSTAINABLE PORT BLUEPRINT IN THE BALTIC SEA REGION BASED ON PORT BENCHMARKING
+T2  - TRANSPORT AND TELECOMMUNICATION JOURNAL
+LA  - English
+KW  - environmental obstacles
+KW  - Small and medium-sized ports
+KW  - Baltic Sea Region
+KW  - sustainable port
+KW  - Digital benchmarking
+KW  - sustainable development
+KW  - SUPPLY CHAIN MANAGEMENT
+KW  - ENVIRONMENTAL PERFORMANCE
+KW  - TECHNOLOGIES
+KW  - RESPONSIBILITY
+KW  - INDICATORS
+AB  - Small and medium-sized ports (SMSPs) in the Baltic Sea Region (BSR) are caught in a dilemma of less financial support by the European funding programmes due to their peripheral position in the TEN-T Core Network. Most of the BSR ports belong to the TEN-T Comprehensive Network, which is rationally less important in the topical financial, infrastructural and policy discourses. Despite this, BSR ports are of a colossal importance for the regional economic development serving as gateways for the individual regions and drivers of socio-economic and environmental transition. In addition, ports are essential in pursuing new innovation avenues. The environmental targets published by the European Commission for maritime sector in 2030 and 2050 are applicable for SMSPs as well, creating further obstacles and future challenges on the one hand, but opening new horizons to grow and innovate on the other one. A successful environmental and digital transformation going hand in hand in SMSPs enable sustainable boost of sustainable development. Thus, as a first step, the assessment of sustainable readiness in SMSPs is incumbent in order to implement tailor-made solutions on individual basis, by ensuring efficient usage of available resources and capabilities. In line with the Connect2SmallPorts project, part-financed by the INTERREG South Baltic Programme, 38 SMSPs in the BSR were approached to mapping their digital readiness according to the methodology of the Digital Readiness Index for Ports (DRIP), published within the project in 2020. Building upon this, this paper introduces the idea of digital and environmental twinning to conclude on sustainable development potentials in SMSPs with an adaptation of the DRIP score. Hence, the research contributes to the sustainable port concept and illustrates the positioning of SMSPs in the progress of sustainable development.
+AD  - Tallinn Univ Technol, Ehitajate Tee 5, EE-19086 Tallinn, EstoniaAD  - Univ Appl Sci Technol Business & Design, Hsch Wismar, Philipp Muller Str 14, D-23966 Wismar, GermanyAD  - Klaipeda Univ, H Manto G 84, LT-92294 Klaipeda, LithuaniaC3  - Tallinn University of TechnologyC3  - Klaipeda UniversityPU  - SCIENDO
+PI  - WARSAW
+PA  - BOGUMILA ZUGA 32A, WARSAW, MAZOVIA, POLAND
+SN  - 1407-6160
+SN  - 1407-6179
+J9  - TRANSP TELECOMMUN J
+JI  - Transp. Telecommun. J.
+DA  - JUN
+PY  - 2021
+VL  - 22
+IS  - 3
+SP  - 332
+EP  - 342
+DO  - 10.2478/ttj-2021-0026
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000729178000007
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  94
+ER  -
+
+TY  - JOUR
+AU  - Gao, YP
+AU  - Chang, DF
+AU  - Chen, CH
+TI  - A digital twin-based approach for optimizing operation energy consumption at automated container terminals
+T2  - JOURNAL OF CLEANER PRODUCTION
+LA  - English
+KW  - Sustainable development
+KW  - Energy consumption
+KW  - Digital twin
+KW  - Automatic stacking crane scheduling
+KW  - Container yard
+KW  - STACKING CRANES
+KW  - YARD CRANE
+KW  - MODEL
+KW  - OPTIMIZATION
+KW  - TRUCK
+AB  - The sustainable development of port operation management is strongly related to the energy consumption of production at automated container terminals (ACTs). This paper focuses on the production activities at a container yard, which is the primary facility of ACTs. A digital twin-based approach is proposed to optimize the operation of an automatic stacking crane (ASC) handling containers in terms of energy consumption. A virtual container yard that syncs with a physical container yard in the ACT digital twin system for observation and validation is developed. A mathematical model is established to minimize the total energy consumption of completing all tasks. Then, the Q-learning algorithm is adapted to optimize a solution based on the operating data from the ACT digital twin system. Numerical experiments are conducted to demonstrate the effectiveness of the proposed approach by comparing it with two other solution algorithms, viz., genetic algorithm (GA) and particle swarm optimization (PSO). The total energy consumption of two operation strategies (i.e., centralized and decentralized) are also compared using the proposed digital twin-based approach. With digital twin, the operational environment and energy consumption are visualized to support optimization and management of ASCs. Managers and operators can choose an appropriate strategy according to the designated sustainable goal.
+AD  - Shanghai Univ, Sch Management, 99 Shangda Rd, Shanghai 200444, Peoples R ChinaAD  - Shanghai Maritime Univ, Logist Engn Coll, 1550 Haigang Ave, Shanghai 201306, Peoples R ChinaAD  - Nanyang Technol Univ, Sch Mech & Aerosp Engn, 50 Nanyang Ave, Singapore 639798, SingaporeC3  - Shanghai UniversityC3  - Shanghai Maritime UniversityC3  - Nanyang Technological University & National Institute of Education (NIE) SingaporeC3  - Nanyang Technological UniversityFU  - National Key Research and Devel- opment Plan of China [2019YFB1704403]
+FX  - This work was supported by the National Key Research and Devel- opment Plan of China (No. 2019YFB1704403) .
+PU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 0959-6526
+SN  - 1879-1786
+J9  - J CLEAN PROD
+JI  - J. Clean Prod.
+DA  - JAN 20
+PY  - 2023
+VL  - 385
+C7  - 135782
+DO  - 10.1016/j.jclepro.2022.135782
+C6  - DEC 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000913801900001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  62
+ER  -
+
+TY  - CPAPER
+AU  - Emanuele, A
+AU  - Anastasiia, R
+AU  - Roberto, R
+AU  - Sergey, S
+ED  - Fujita, H
+ED  - Fournier-Viger, P
+ED  - Ali, M
+ED  - Wang, Y
+TI  - An Agenda on the Employment of AI Technologies in Port Areas: The TEBETS Project
+T2  - ADVANCES AND TRENDS IN ARTIFICIAL INTELLIGENCE: THEORY AND PRACTICES IN ARTIFICIAL INTELLIGENCE
+LA  - English
+CP  - 35th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE)
+KW  - Simulation
+KW  - Anylogic
+KW  - Microsoft Project Bonsai
+KW  - Port safety
+AB  - This paper presents the agenda extending the project reported at the International Maritime Transport and Logistics Conference "Marlog 10" in 2021. Within the framework of the Smart Port model project proposed by the European Union institutions, we examined the control model of the port of Genoa and the digital twin representation of the Terminal San Giorgio. The application of digital technologies to intermodal systems like ports and harbors would give highly positive results in terms of efficiency and effectiveness. The resources employed were a Digital Twin realized with the Optimize software, a simulation developed through Anylogic, a tracking system operated by OpenGTS, and an AI platform developed through Bonsai. In addition, we have considered the libraries that, in our opinion, are necessary when designing a port simulation model. Our proposed model includes loading, unloading, storage planning, and other operations taking place at the port of Genoa. The article presents various agents which play a fundamental role in the simulation.
+AD  - Univ Genoa, I-16100 Genoa, ItalyAD  - Bauman Moscow State Tech Univ, Moscow 105005, RussiaC3  - University of GenoaC3  - Bauman Moscow State Technical UniversityPU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-08530-7
+SN  - 978-3-031-08529-1
+J9  - LECT NOTES ARTIF INT
+PY  - 2022
+VL  - 13343
+SP  - 633
+EP  - 647
+DO  - 10.1007/978-3-031-08530-7_53
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000876774100053
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  22
+ER  -
+
+TY  - JOUR
+AU  - Li, Y
+AU  - Chang, DF
+AU  - Gao, YP
+AU  - Zou, Y
+AU  - Bao, CT
+TI  - Automated Container Terminal Production Operation and Optimization via an AdaBoost-Based Digital Twin Framework
+T2  - JOURNAL OF ADVANCED TRANSPORTATION
+LA  - English
+KW  - CRANE SCHEDULING PROBLEM
+KW  - YARD CRANE
+AB  - Digital twin (DT), machine learning, and industrial Internet of things (IIoT) provide great potential for the transformation of the container terminal from automation to intelligence. The production control in the loading and unloading process of automated container terminals (ACTs) involves complex situations, which puts forward high requirements for efficiency and safety. To realize the real-time optimization and security of the ACT, a framework integrating DT with the AdaBoost algorithm is proposed in this study. The framework is mainly composed of physical space, a data service platform, and virtual space, in which the twin space and service system constitute virtual space. In the proposed framework, a multidimensional and multiscale DT model in twin space is first built through a 3D MAX and U3D technology. Second, we introduce a random forest and XGBoost to compare with AdaBoost to select the best algorithm to train and optimize the DT mechanism model. Third, the experimental results show that the AdaBoost algorithm is better than others by comparing the performance indexes of model accuracy, root mean square error, interpretable variance, and fitting error. In addition, we implement empirical experiments by different scales to further evaluate the proposed framework. The experimental results show that the mode of the DT-based terminal operation has higher loading and unloading efficiency than that of the conventional terminal operation, increasing by 23.34% and 31.46% in small-scale and large-scale problems, respectively. Moreover, the visualization service provided by the DT system can monitor the status of automation equipment in real time to ensure the safety of operation.
+AD  - Shanghai Maritime Univ, Inst Logist Sci & Engn, Shanghai 201306, Peoples R ChinaAD  - Shanghai Int Port Grp Co Ltd, Shanghai 201306, Peoples R ChinaC3  - Shanghai Maritime UniversityFU  - National Key Research and Development Plan of China [2019YFB1704403]
+FX  - This work was supported by the National Key Research and Development Plan of China under Grant 2019YFB1704403.
+PU  - WILEY-HINDAWI
+PI  - LONDON
+PA  - ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN  - 0197-6729
+SN  - 2042-3195
+J9  - J ADV TRANSPORT
+JI  - J. Adv. Transp.
+DA  - SEP 8
+PY  - 2021
+VL  - 2021
+C7  - 1936764
+DO  - 10.1155/2021/1936764
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000697297200002
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  44
+ER  -
+
+TY  - JOUR
+AU  - Yang, A
+AU  - Meng, XY
+AU  - He, H
+AU  - Wang, L
+AU  - Gao, J
+TI  - Towards Optimized ARMGs' Low-Carbon Transition Investment Decision Based on Real Options
+T2  - ENERGIES
+LA  - English
+KW  - low-carbon transition
+KW  - ARMGs
+KW  - investment decision
+KW  - real options
+KW  - ENERGY
+KW  - EMISSION
+KW  - TECHNOLOGIES
+KW  - REDUCTION
+KW  - PROJECTS
+KW  - PORT
+AB  - As a critical node of the global transportation network, ports have great potential in promoting transportation emission reduction. Promoting the low-carbon transition of ports by using clean energy is effective. Using hydrogen energy in automated container terminals (ACTs) has become popular in port emission-reduction research. The research object is the main port equipment-the automated rail-mounted container gantry crane (ARMG). This research designs a staged investment decision-making scheme for ARMGs' hydrogen energy transition. The Internet of Things (IoT) architecture in ACTs collects ARMG equipment operation and carbon emission data. It provides a basis for data acquisition in ARMGs' hydrogen energy transition. Furthermore, ports can adopt big data technology to analyze the correlation between equipment operation and carbon emissions. Finally, the digital twin platform will visualize the ARMG equipment operation and carbon emission behavior to remote operators. These advanced technologies can achieve status monitoring and simulation prediction, which will support ARMGs' hydrogen energy transition. However, the ARMGs' hydrogen energy transition has a long cycle, large investment, and strong variability. Ports should make staged investment decisions based on the digital twin platform's status monitoring and simulation prediction analysis results. Therefore, this research establishes an optimization model for ARMGs' low-carbon transition investment decision based on the real options method, and analyzes the staged investment scale and timing of ARMGs' hydrogen energy transition. The results provide a popularized decision-making scheme for the low-carbon transition of ports' equipment, which could facilitate the low-carbon transition of ports' equipment.
+AD  - Dalian Maritime Univ, Sch Maritime Econ & Management, Dalian 116026, Peoples R ChinaAD  - Shanghai Univ, Sch Econ, Shanghai 200444, Peoples R ChinaAD  - Univ South Australia, UniSA STEM, Adelaide, SA 5001, AustraliaC3  - Dalian Maritime UniversityC3  - Shanghai UniversityC3  - University of South AustraliaFU  - Social Science Planning Foundation of Liaoning Province [L20BGL056]
+FX  - This research was supported by the Social Science Planning Foundation of Liaoning Province (No. L20BGL056).
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 1996-1073
+J9  - ENERGIES
+JI  - Energies
+DA  - JUL
+PY  - 2022
+VL  - 15
+IS  - 14
+C7  - 5153
+DO  - 10.3390/en15145153
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000833325300001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  45
+ER  -
+
+TY  - CPAPER
+AU  - Finger, GM
+AU  - Schaub, MM
+AU  - Dahms, F
+AU  - Hassel, E
+AU  - Riebe, T
+AU  - Milbradt, G
+AU  - Wehner, K
+A1  - IEEE
+TI  - On-Board Support System for the eco-friendly ship operation in coastal and port areas
+T2  - OCEANS 2019 - MARSEILLE
+LA  - English
+CP  - OCEANS - Marseille Conference
+KW  - Electronic Support
+KW  - Controls
+KW  - Assistance Systems
+KW  - Automation
+KW  - Measurement & Monitoring
+KW  - Digital Twin - Manoeuvring
+AB  - Shipping in concerns of eco-friendly and economical efficient operation can be achieved by many different measures. Most of them are technological approaches, e.g by changing engine control parameters, usage of different fuels, exhaust gastreatment systems or internal measures to make the engine itself more efficient or eco-friendly. The lost part in this measures is, that there are still humans who are in charge of controlling the vessel and that they should be kept in the loop of efficiency. For numerous vessels, it is neither efficient nor economically reasonable to exchange or enhance the existing power generation or propulsion systems in order to improve efficiency or reduce emissions. Some internal measures even lead to a higher fuel consumption in order to reduce NOx-emissions.
+   Therefore optimal operational procedures for handling ships and specifically the outcome of engine manoeuvres is a substantial source for eco-friendly ship operations. The German research project MEmBran (Modelling Emissions and Fuel Consumption during Ship Manoeuvres) addresses especially the basis for optimising ship engine manoeuvres. It focusses on a very detailed simulation of the processes of currently existing ship diesel engines (in a first step 4-stroke engines) in order to apply them within a more comprehensive ship handling simulation software. As a part of an existing planning andprediction software that can be used on board, it enables the watchkeeping nautical officer and the shipping company to forecast and compare the fuel consumption of the ship for each manoeuvre. It further allows to identify the best option of the ship operator's possible actions under several conditions and afterwards a comparison of varying manoeuvre strategies of different navigators will be enabled
+AD  - Wismar Univ Appl Sci, Dept Martime Studies, Rostock, GermanyAD  - Rostock Univ, Chair Tech Thermodynam, Rostock, GermanyC3  - University of RostockFU  - German Federal Ministry of Economic Affairs and Energy
+FX  - The above described approach derived from a German research project, granted by the German Federal Ministry of Economic Affairs and Energy. The project duration is 36 months and will end in 2019. The following organizations are project members and contribute to the project: MARSIG GmbH Rostock, University of Wismar (Department of Maritime Studies), University of Rostock (Chair of Technical Thermodynamics), Rheinmetall Electronics Bremen (Division of Mmaritime Simulation) and associated partners.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 0197-7385
+SN  - 978-1-7281-1450-7
+J9  - OCEANS-IEEE
+PY  - 2019
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000591652100122
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  13
+ER  -
+
+TY  - JOUR
+AU  - Feng, X
+AU  - Bai, W
+AU  - Chen, XB
+AU  - Qian, L
+AU  - Ma, ZH
+TI  - Numerical investigation of viscous effects on the gap resonance between side-by-side barges
+T2  - OCEAN ENGINEERING
+LA  - English
+KW  - Computational fluid dynamics
+KW  - Side-by-side
+KW  - Gap resonance
+KW  - Viscous damping
+KW  - Wave tank
+KW  - WAVE
+KW  - BEHAVIOR
+KW  - PISTON
+KW  - FLOW
+AB  - This paper presents a numerical study of the gap resonance between two side-by-side barges by using a multiphase Navier-Stokes equations model. In order to verify the multiphase flow model, it is firstly applied to simulate a two-dimensional gap resonance problem for two fixed boxes under various wave conditions. A comparison of the free surface elevations obtained on successively refined grids confirms the mesh convergence of numerical solutions. The calculated wave elevation response amplitude operators (RAOs) in the gap compare well with the experimental measurements. The multiphase flow model is further extended to calculate a three-dimensional gap resonance problem for two adjacent rectangular barges. The computed free surface RAOs in the gap also agree well with the experimental results. A close examination of the flow velocity and vorticity in the gap region at the piston resonant mode reveals that large amount of vortices are generated by the sharp comers of the two barges and shed downwards, which provide an effective mechanism to dissipate the flow kinematic energy and to reduce the wave elevation in the gap. On the contrary, rounded corners are not able to induce the same level amount of vortices to dampen the gap resonance. The effects of incident wave steepness on the viscous damping associated with the twin-barge system are highlighted.
+AD  - Natl Univ Singapore, Dept Civil & Environm Engn, Singapore 117576, SingaporeAD  - Manchester Metropolitan Univ, Sch Comp Math & Digital Technol, Chester St, Manchester M1 5GD, Lancs, EnglandAD  - Bur Veritas Singapore, 20 Sci Pk Rd,Sci Pk 2, Singapore, SingaporeC3  - National University of SingaporeC3  - Manchester Metropolitan UniversityFU  - Maritime and Port Authority of Singapore (MPA) [R-261-502-006-592]
+FX  - The authors gratefully acknowledge the financial support provided by the Maritime and Port Authority of Singapore (MPA) Grant R-261-502-006-592.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0029-8018
+J9  - OCEAN ENG
+JI  - Ocean Eng.
+DA  - NOV 15
+PY  - 2017
+VL  - 145
+SP  - 44
+EP  - 58
+DO  - 10.1016/j.oceaneng.2017.08.060
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000414886600005
+N1  - Times Cited in Web of Science Core Collection:  38
+Total Times Cited:  39
+Cited Reference Count:  33
+ER  -
+
+TY  - CPAPER
+AU  - van Kol, TV
+AU  - Jovanova, J
+AU  - Mohajeri, MJ
+AU  - Schott, DL
+A1  - IEEE
+TI  - Introducing adaptive mechatronic designs in bulk handling industry
+T2  - 2021 IEEE/ASME INTERNATIONAL CONFERENCE ON ADVANCED INTELLIGENT MECHATRONICS (AIM)
+LA  - English
+CP  - IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
+KW  - Bulk material handling equipment
+KW  - mechatronics
+KW  - adaptive design
+KW  - VIBRATION
+KW  - MECHANISM
+AB  - The advances of mechatronic system design and system integration have shown improvements in functionality, performance and energy efficiency in many applications across industries, from autonomous ground vehicles and drones to conveyor belts. This trend has been adopted in some industries more than others. The design of equipment to handle granular or bulk material is commonly based on traditional approaches. Therefore, introducing mechatronic concepts in the design procedure can enable new possibilities, such as sensor integration and data analyses, adaptability and control. The efficiency of bulk material handling equipment in ports, agriculture and food processing is heavily influenced by the operational conditions. Typically, a piece of equipment is designed for defined operational conditions when the maximum performance can be achieved. In this work the concept of adaptability to varying operational conditions is explored by understanding the technologies implemented in other industries and the feasibility to be implemented in the bulk handling equipment design. Sensing technology, actuation and adaptability are systematically presented in this work to support the design process of the next generation of bulk handling equipment. This will pave the way for incorporating the technological trends in the design, such as: sustainability, "smartness", Internet of Things, Industry 4.0, digital twin and machine learning. Adaptive mechatronic solutions will play a crucial role in generating and implementing innovative sustainable solutions for bulk handling equipment.
+AD  - Delft Univ Technol, Dept Maritime & Transport Technol, Delft, NetherlandsC3  - Delft University of TechnologyPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2159-6255
+SN  - 978-1-6654-4139-1
+J9  - IEEE ASME INT C ADV
+PY  - 2021
+SP  - 1095
+EP  - 1100
+DO  - 10.1109/AIM46487.2021.9517377
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000702133100109
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  29
+ER  -
+
+TY  - CPAPER
+AU  - Liu, HM
+AU  - Wang, JH
+AU  - Wang, XS
+AU  - Ren, JH
+AU  - Chen, SY
+A1  - IEEE
+TI  - Wideband Planar Rat-Race Coupler with Small In-Band Phase Deviation Error
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Rat-race coupler
+KW  - wideband
+KW  - small phase deviation error
+KW  - compact
+KW  - planar
+KW  - DESIGN
+KW  - LINE
+AB  - A wideband planar rat-race coupler with small in-band phase deviation error is presented. Wide operation bandwidth is achieved by using shorted parallel-coupled (SPC) four-line. Flat in-band output ports phase differences are maintained by using the component-loaded transmission line (CL-TL). Equations are derived for the calculation of the circuit parameters. For validation, a prototype is designed, fabricated and measured. The measurement results show that a bandwidth of more than 50 % is realized under the criterions of 10-dB return loss, 0.5-dB amplitude imbalance, and 2 degrees phase deviation error.
+AD  - Dalian Maritime Univ, Sch Informat Sci & Technol, Dalian, Peoples R ChinaC3  - Dalian Maritime UniversityFU  - Liaoning Revitalization Talents Program [XLYC2007067]; Dalian Youth Science and Technology Star Project [2020RQ007]; Fundamental Research Funds for the Central Universities [3132022245]
+FX  - This work was supported in part by the Liaoning Revitalization Talents Program under Grant XLYC2007067, in part by the Dalian Youth Science and Technology Star Project under Grant 2020RQ007 and in part by the Fundamental Research Funds for the Central Universities under Grant 3132022245.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 758
+EP  - 760
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600247
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+
+TY  - CPAPER
+AU  - Liu, HM
+AU  - Zhang, HX
+AU  - Yu, D
+AU  - Zhao, ZM
+AU  - Wang, XS
+A1  - IEEE
+TI  - A Miniaturized Wideband Symmetric 3x3 Nolen Matrix with Phase Compensation Technique
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - Nolen matrix
+KW  - wideband
+KW  - phase compensation
+KW  - miniaturization
+AB  - In the paper, a miniaturized wideband symmetric 3x3 Nolen matrix with phase compensation technique is presented. By adjusting the phase slope through three pairs of differential phase shifters, the flatness of the output ports phase differences is improved. Besides, size reduction is obtained by using trans-directional couplers. Based on the designed equations, a prototype operating at 5.8 GHz is fabricated and measured. The fractional bandwidths (FBWs) for more than 10 dB return loss and isolation are 31.21 % and 45.17 %, respectively. Under the criterions of 1-dB amplitude imbalance and 5 degrees phase derivation error, the measured FBWs are more than 20.86% and 16.03%, separately.
+AD  - Dalian Maritime Univ, Sch Informat Sci & Technol, Dalian, Peoples R ChinaC3  - Dalian Maritime UniversityFU  - Liaoning Revitalization Talents Program [XLYC2007067]; Dalian Youth Science and Technology Star Project [2020RQ007]; Fundamental Research Funds for the Central Universities [3132022245]
+FX  - This work was supported in part by the Liaoning Revitalization Talents Program under Grant XLYC2007067, in part by the Dalian Youth Science and Technology Star Project under Grant 2020RQ007 and in part by the Fundamental Research Funds for the Central Universities under Grant 3132022245.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 755
+EP  - 757
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600246
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  8
+ER  -
+
+TY  - JOUR
+AU  - Aryai, V
+AU  - Abbassi, R
+AU  - Abdussamie, N
+AU  - Salehi, F
+AU  - Garaniya, V
+AU  - Asadnia, M
+AU  - Baksh, AA
+AU  - Penesis, I
+AU  - Karampour, H
+AU  - Draper, S
+AU  - Magee, A
+AU  - Keng, AK
+AU  - Shearer, C
+AU  - Sivandran, S
+AU  - Yew, LK
+AU  - Cook, D
+AU  - Underwood, M
+AU  - Martini, A
+AU  - Heasman, K
+AU  - Abrahams, J
+AU  - Wang, CM
+TI  - Reliability of multi-purpose offshore-facilities: Present status and future direction in Australia
+T2  - PROCESS SAFETY AND ENVIRONMENTAL PROTECTION
+LA  - English
+KW  - Blue economy
+KW  - Ocean multi-use
+KW  - Offshore platforms
+KW  - Structural integrity
+KW  - Reliability analysis
+KW  - TURBINE SUPPORT STRUCTURES
+KW  - WAVE ENERGY-CONVERSION
+KW  - OF-THE-ART
+KW  - WIND-TURBINE
+KW  - STRUCTURAL HEALTH
+KW  - FISH CAGE
+KW  - DIGITAL TWIN
+KW  - FLOATING STRUCTURES
+KW  - SYSTEM RELIABILITY
+KW  - CORROSION-FATIGUE
+AB  - Sustainable use of the ocean for food and energy production is an emerging area of research in different countries around the world. This goal is pursued by the Australian aquaculture, offshore engineering and renewable energy industries, research organisations and the government through the "Blue Economy Cooperative Research Centre". To address the challenges of offshore food and energy production, lever-aging the benefits of co-location, vertical integration, infrastructure and shared services, will be enabled through the development of novel Multi-Purpose Offshore-Platforms (MPOP). The structural integrity of the designed systems when being deployed in the harsh offshore environment is one of the main challenges in developing the MPOPs. Employing structural reliability analysis methods for assessing the structural safety of the novel aquaculture-MPOPs comes with different limitations. This review aims at shedding light on these limitations and discusses the current status and future directions for structural reliability analysis of a novel aquaculture-MPOP considering Australia's unique environment. To achieve this aim, challenges which exist at different stages of reliability assessment, from data collection and uncertainty quantification to load and structural modelling and reliability analysis implementation, are discussed. Furthermore, several solutions to these challenges are proposed based on the existing knowledge in other sectors, and particularly from the offshore oil and gas industry. Based on the identified gaps in the review process, potential areas for future research are introduced to enable a safer and more reliable operation of the MPOPs. (C) 2020 Institution of Chemical Engineers. Published by Elsevier B.V. All rights reserved.
+AD  - Macquarie Univ, Fac Sci & Engn, Sch Engn, Sydney, NSW, AustraliaAD  - Univ Tasmania, Australian Maritime Coll AMC, Natl Ctr Maritime Engn & Hydrodynam, Launceston, Tas, AustraliaAD  - Griffith Univ, Sch Engn & Built Environm, Gold Coast, AustraliaAD  - Univ Western Australia, Sch Civil Environm & Min Engn, Perth, WA, AustraliaAD  - Natl Univ Singapore, Dept Civil & Environm Engn, Singapore, SingaporeAD  - BMT Commercial Australia Pty Ltd, Brisbane, Qld, AustraliaAD  - BMT Singapore Pte Ltd, Singapore, SingaporeAD  - Plant & Food Res Ltd, New Zealand Inst, Seafood Prod Grp, Port Nelson, New ZealandAD  - CSIRO, Engn & Technol, Oceans & Atmosphere Hobart, Hobart, Tas, AustraliaAD  - Cawthron Inst, Nelson, New ZealandAD  - DNV GL Australia Pty Ltd, Sydney, NSW, AustraliaAD  - Univ Queensland, Sch Civil Engn, St Lucia, Qld, AustraliaC3  - Macquarie UniversityC3  - University of TasmaniaC3  - Griffith UniversityC3  - University of Western AustraliaC3  - National University of SingaporeC3  - New Zealand Institute for Plant & Food Research LtdC3  - Commonwealth Scientific & Industrial Research Organisation (CSIRO)C3  - Cawthron InstituteC3  - University of QueenslandFU  - Blue Economy Cooperative Research Centre (CRC); Australian Government's CRC Program [CRC20180101]; CRC Program
+FX  - The authors acknowledge the financial support of the Blue Economy Cooperative Research Centre (CRC), established and supported under the Australian Government's CRC Program, grant number CRC20180101. The CRC Program supports industry-led collaborations between industry, researchers and the community.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0957-5820
+SN  - 1744-3598
+J9  - PROCESS SAF ENVIRON
+JI  - Process Saf. Environ. Protect.
+DA  - APR
+PY  - 2021
+VL  - 148
+SP  - 437
+EP  - 461
+DO  - 10.1016/j.psep.2020.10.016
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000637217000036
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  309
+ER  -
+
+TY  - CPAPER
+AU  - Setiawan, A
+AU  - Yonemoto, N
+AU  - Nohmi, H
+AU  - Murata, H
+A1  - IEEE
+TI  - Analysis of Millimeter-Wave Imaging Using Dielectric Lens for Fourier Transformation
+T2  - 2022 ASIA-PACIFIC MICROWAVE CONFERENCE (APMC)
+LA  - English
+CP  - Asia-Pacific Microwave Conference (APMC)
+KW  - millimeter wave
+KW  - lens
+KW  - imaging
+KW  - fourier transforms
+AB  - Millimeter-waves (mmW) have the advantages to penetrate clothes and are safe for the human body which is suitable for use in public spaces for security applications. In this paper, analysis of single-frequency imaging in mmW with Fast Fourier Transform (FFT) by using a lens is introduced. Concept of imaging by collecting amplitudes and phases of the signals from the aperture after passing through a lens is given. Results show a noticeable two-dimensional image of reconstructed objects involving FFT for millimeter-wave imaging which coincided with the W-band imaging experimental results.
+AD  - Mie Univ, Grad Sch Engn, Tsu, Mie 5148507, JapanAD  - Natl Inst Maritime Port & Aviat Technol, Elect Nav Res Inst, 7-42-23 Jindaiji Higashi, Chofu, Tokyo 1820012, JapanAD  - Alouette Technol Inc, 3-2-24 Shimorenjaku, Mitaka, Tokyo 1810013, JapanAD  - Natl Res & Innovat Agcy, Bandung, IndonesiaC3  - Mie UniversityFU  - MIC, Japan [JPJ000254]
+FX  - This work was supported by the MIC, Japan through the project entitled "Research and Development of radar fundamental technology for advanced recognition of moving objects for security enhancement (JPJ000254).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-4-902339-56-7
+PY  - 2022
+SP  - 339
+EP  - 341
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000926771600111
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  7
+ER  -
+

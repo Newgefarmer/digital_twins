@@ -1,0 +1,80 @@
+﻿TY  - JOUR
+AU  - Rouja, PM
+AU  - Schneider, CW
+AU  - Rissolo, D
+AU  - Blasco, SM
+AU  - Petrovic, V
+AU  - Lo, ER
+AU  - Lightbourne, MA
+AU  - Tucker, WS
+AU  - Kuester, F
+TI  - The Royal Naval Dockyard in Bermuda: Use of a novel biological indicator and historical photographs for measuring local sea-level rise
+T2  - INTERNATIONAL JOURNAL OF MARITIME HISTORY
+LA  - English
+KW  - Black zone
+KW  - change detection
+KW  - climate change communication
+KW  - cyanobacteria
+KW  - digital heritage
+KW  - digital twin
+KW  - harbours
+KW  - historical photographs
+KW  - marine historical ecology
+KW  - photogrammetry
+KW  - sea-level rise
+KW  - spatio-temporal model synthesis
+KW  - FISH
+AB  - The authors explore a novel interdisciplinary approach to researching, collecting and communicating local site-specific data on recent sea-level rise using persistent black-zone biotic levels evident on historical coastal stone structures by a stable community of cyanobacteria (blue-green algae) at the Royal Naval Dockyard in Bermuda. Photographs taken at the Dockyard in 1870, 2007 and 2017 show an upward shift in this living cyanobacterial community. A spatio-temporal digital twin computed from historical and contemporary photo assets was created to test the viability of these black-zone lines as a proxy for sea-level-rise measurements in Bermuda. Black-zone cyanobacteria are highly sensitive to sea-level rise and, over long timescales, comparative imagery of black zones could present a proper indicator of average sea-level rise.
+AD  - Govt Bermuda, Hamilton Parish, BermudaAD  - Trinity Coll, Dept Biol, Biol, Hartford, CT USAAD  - Univ Calif San Diego, Qualcomm Inst, La Jolla, CA USAAD  - Bermuda Underwater Explorat Inst, Pembroke, BermudaAD  - Bermuda Arch, Hamilton, BermudaAD  - Univ Calif San Diego, Jacobs Sch Engn, Struct Engn & Comp Sci, La Jolla, CA USAAD  - Govt Bermuda, Dept Environm & Nat Resources, 17 North Shore Rd,FL04, Hamilton Parish, BermudaC3  - Trinity CollegeC3  - University of California SystemC3  - University of California San DiegoC3  - University of California SystemC3  - University of California San DiegoFU  - Fonds Wetenschappelijk Onderzoek
+FX  - The author(s) disclosed receipt of the followingfinancial support for the research, authorship, and/or publication of this article: This work was supported by the Fonds Wetenschappelijk Onderzoek.
+PU  - SAGE PUBLICATIONS LTD
+PI  - LONDON
+PA  - 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN  - 0843-8714
+SN  - 2052-7756
+J9  - INT J MARIT HIST
+JI  - Int. J. Marit. Hist.
+DA  - NOV
+PY  - 2022
+VL  - 34
+IS  - 4
+SP  - 634
+EP  - 657
+DO  - 10.1177/08438714221143297
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000901054300008
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  42
+ER  -
+
+TY  - CPAPER
+AU  - Page, BR
+AU  - DaRosa, J
+AU  - Lindler, J
+A1  - IEEE
+TI  - USV Fleet Planning Considering Logistical Constraints Using Genetic Algorithm
+T2  - 2022 OCEANS HAMPTON ROADS
+LA  - English
+CP  - OCEANS Hampton Roads Conference
+KW  - Unmanned Surface Vehicle (USV)
+KW  - Mission Planning
+KW  - Genetic Algorithm
+KW  - Logistics
+KW  - Fleet Operation
+AB  - Planning of cooperative missions using a heterogeneous fleet of Unmanned Surface Vehicles (USVs) is complicated by the logistical implications associated with long-duration missions. This paper presents an approach to address these logistical constraints through intelligent planning of at-sea sustainment operations. This is achieved through the use of a low-fidelity predictive digital twin capable of modelling system performance combined with a custom-built genetic algorithm. The proposed system is capable of efficiently generating fleet solutions with adaptability to support a range of scenarios. Several demonstration scenarios are presented with a range of target USVs and support vehicles navigating towards Honolulu Harbor. The results indicate that the planning tool is capable of generating feasible and effective fleet plans that can be implemented by existing USV navigation tools.
+AD  - PacMar Technol, Portland, ME 04102 USAAD  - PacMar Technol, Honolulu, HI USAFU  - Office of Naval Research [N00014-20-C-1111]
+FX  - This material is based upon work supported by the Office of Naval Research under Contract No. N00014-20-C-1111, PM Paul Hess. The authors gratefully acknowledge this support.
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 0197-7385
+SN  - 978-1-6654-6809-1
+J9  - OCEANS-IEEE
+PY  - 2022
+DO  - 10.1109/OCEANS47191.2022.9976967
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000925311400016
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  23
+ER  -
+

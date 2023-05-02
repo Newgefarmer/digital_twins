@@ -1,0 +1,311 @@
+﻿TY  - JOUR
+AU  - Gunes, B
+AU  - Kayisoglu, G
+AU  - Bolat, P
+TI  - Cyber security risk assessment for seaports: A case study of a container port
+T2  - COMPUTERS & SECURITY
+LA  - English
+KW  - Cyber physical system
+KW  - Port cyber security
+KW  - Cyber security risk assessment
+AB  - Seaports are fixed infrastructures of maritime transportation systems. Through Industry 3.0 and Industry 4.0, ports have faced with digital transformation based on networked cyber physical systems to be a part of smart and intelligent transportation systems. However, besides the advantages, this transformation has brought cyber security gaps and threats which can be resulted in breakdowns in maritime transportation domain. Therefore, port and port facilities should be prepared for cyber threats through holistic risk assessment frameworks for developing proactive actions. Based on these facts, this study has proposed to apply an integrated cyber risk assessment method for a container port with a cyber-physical perspective through analyzing four exemplary cyber-attack scenarios. For each cyber-attack scenario, risk assessment methodology has been applied using integrated cyber security management approach by taking into account the cyber physical assets of the container port. Results show that for the specified cyber threats, the risks have been evaluated non acceptable. Mitigation strategies have also been presented briefly in conclusion.
+   (c) 2021 Elsevier Ltd. All rights reserved.
+AD  - Kocaeli Port Author Port State Control, Kocaeli, TurkeyAD  - Istanbul Tech Univ, Maritime Fac, Istanbul, TurkeyC3  - Istanbul Technical UniversityPU  - ELSEVIER ADVANCED TECHNOLOGY
+PI  - OXFORD
+PA  - OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 0167-4048
+SN  - 1872-6208
+J9  - COMPUT SECUR
+JI  - Comput. Secur.
+DA  - APR
+PY  - 2021
+VL  - 103
+C7  - 102196
+DO  - 10.1016/j.cose.2021.102196
+C6  - JAN 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000623896600003
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  11
+Cited Reference Count:  41
+ER  -
+
+TY  - JOUR
+AU  - Salleh, NHM
+AU  - Selvaduray, M
+AU  - Jeevan, J
+AU  - Ngah, AH
+AU  - Zailani, S
+TI  - Adaptation of Industrial Revolution 4.0 in a Seaport System
+T2  - SUSTAINABILITY
+LA  - English
+KW  - industrial revolution 4.0
+KW  - Malaysian seaport
+KW  - maritime industry
+KW  - focus group discussion
+KW  - thematic analysis
+KW  - GROWTH
+AB  - As pillars of logistics, supply chains, and transport networks, seaports have led to a substantial demand for countless economic advantages. The sustainability and competitive advantage of seaport businesses depend on their ability to adapt to changing business requirements, while Industrial Revolution 4.0 (IR 4.0) is a current phenomenon that connects the global market through smart technologies involving cyber-physical systems to overcome global trade uncertainty. However, focusing only on growing economic benefits might lead to an ineffective sustainable implementation of IR 4.0 within a seaport system. Therefore, this paper compares the current status of IR 4.0 global implementation against the current Malaysian seaport system to ensure that the development of seaports in Malaysia is aligned with technological trends and global requirements. In addition, this paper investigates the critical sustainable factors (CSFs) for the implementation of IR 4.0 in Malaysian seaports. A Focus Group Discussion (FGD) is used to obtain the data from 13 domain experts, from various maritime stakeholders, which is further analysed by using Thematic Analysis. The result has shown that most seaports have started to initiate a fusion by focusing on IR 4.0 adaptation. In contrast, in Malaysia, the seaports in this country are still behind the global trend and are just starting to explore the concept of IR 4.0 instead of expanding to the next level (global benchmark). The current status and CSFs, for the implementation of IR 4.0 in Malaysian seaports, are presented in comparison to global requirements, and the marginal associations between them are shown. As a conclusion, by comparing a global seaport scenario with Malaysian seaports, the main considerations for sustaining the implementation of IR 4.0 in Malaysian seaports can be discovered.
+AD  - Univ Malaysia Terengganu, Fac Maritime Studies, Terengganu 21030, MalaysiaAD  - Univ Malaysia Terengganu, Fac Business, Econ & Social Dev, Terengganu 21030, MalaysiaAD  - Univ Malaya, Fac Business & Accountancy, Kuala Lumpur 50603, MalaysiaC3  - Universiti Malaysia TerengganuC3  - Universiti Malaysia TerengganuC3  - Universiti MalayaFU  - Ministry of Higher Education (MOHE) Fundamental Research Grant Scheme [UMT/RMIC/FRGS/1/2019/59587]
+FX  - This research was conducted under the Ministry of Higher Education (MOHE) Fundamental Research Grant Scheme (UMT/RMIC/FRGS/1/2019/59587) and using the research facilities of the University of Malaysia Terengganu (UMT).
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2071-1050
+J9  - SUSTAINABILITY-BASEL
+JI  - Sustainability
+DA  - OCT
+PY  - 2021
+VL  - 13
+IS  - 19
+C7  - 10667
+DO  - 10.3390/su131910667
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000706868100001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  29
+ER  -
+
+TY  - JOUR
+AU  - Bastug, S
+AU  - Arabelen, G
+AU  - Vural, CA
+AU  - Deveci, DA
+TI  - A value chain analysis of a seaport from the perspective of Industry 4.0
+T2  - INTERNATIONAL JOURNAL OF SHIPPING AND TRANSPORT LOGISTICS
+LA  - English
+KW  - Industry 40
+KW  - seaports
+KW  - value chain
+KW  - competitive advantage
+KW  - CONTAINER PORT COMPETITION
+KW  - LOGISTICS
+KW  - EFFICIENCY
+KW  - MARITIME
+KW  - TRANSFORMATION
+KW  - MANAGEMENT
+KW  - FRAMEWORK
+AB  - The main aim of this study is to reveal the role and contribution of Industry 4.0 in the value chain of seaports. It first reviews the literature to identify value chain activities in the port industry. It then explores the Industry 4.0 applications utilised by ports through content analysis of the websites of ten major innovative seaports. Seven main technological characteristics of Industry 4.0, namely digitalisation, autonomisation, transparency, mobility, modularisation, network-collaboration and socialising, are used as the main research main categories. The findings show that ports engage with Industry 4.0 in four different modules namely port community systems, cyber-physical systems, internet of things and big data. These four modules enable ports to achieve cost leadership advantages in their quest for competitiveness. To achieve differentiation, on the other hand, they need to increase connectivity with customers and stakeholders through communication channels such as social media.
+AD  - Iskenderun Tech Univ, Barbaros Hayrettin Naval Architecture & Maritime, Merkez Campus, TR-31200 Iskenderun, Hatay, TurkeyAD  - Dokuz Eylul Univ, Maritime Fac, Tinaztepe Campus, TR-35160 Izmir, TurkeyAD  - Chalmers Univ Technol, Dept Technol Management & Econ, SE-41296 Gothenburg, SwedenC3  - Iskenderun Technical UniversityC3  - Dokuz Eylul UniversityC3  - Chalmers University of TechnologyPU  - INDERSCIENCE ENTERPRISES LTD
+PI  - GENEVA
+PA  - WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215 GENEVA, SWITZERLAND
+SN  - 1756-6517
+SN  - 1756-6525
+J9  - INT J SHIP TRANS LOG
+JI  - Int. J. Shipp. Transp. Logist.
+PY  - 2020
+VL  - 12
+IS  - 4
+SP  - 367
+EP  - 397
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000552977900005
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  88
+ER  -
+
+TY  - CPAPER
+AU  - McIntosh, RD
+AU  - Becker, A
+ED  - Linkov, I
+ED  - PalmaOliveira, JM
+TI  - Seaport Climate Vulnerability Assessment at the Multi-port Scale: A Review of Approaches
+T2  - RESILIENCE AND RISK: METHODS AND APPLICATION IN ENVIRONMENT, CYBER AND SOCIAL DOMAINS
+LA  - English
+CP  - NATO Advanced Research Workshop (ARW) on Resilience-Based Approaches to Critical Infrastructure Safeguarding
+KW  - Seaport
+KW  - Port
+KW  - Shipping
+KW  - Climate assessment
+KW  - CIAV
+KW  - CCVA
+KW  - Resilience
+KW  - Climate change vulnerability assessment
+KW  - Comparative assessment
+KW  - Multi-port assessment
+KW  - Indicator-based assessment
+KW  - Regional scale assessment
+AB  - In the face of climate change impacts projected over the coining century, seaport decision makers have the responsibility to manage risks for a diverse array of stakeholders and enhance seaport resilience against climate and weather impacts. At the single port scale, decision makers such as port managers may consider the uninterrupted functioning of their port the number one priority. But, at the multi-port (regional or national) scale, policy-makers will need to prioritize competing port climate-adaptation needs in order to maximize the efficiency of limited physical and financial resources and maximize the resilience of the marine transportation system as a whole. This chapter provides an overview of a variety of approaches that set out to quantify various aspects of seaport vulnerability. It begins with discussion of the importance of a "multi-port" approach to complement the single case study approach more commonly applied to port assessments. It then addresses the components of climate vulnerability assessments and provides examples of a variety of approaches. Finally, it concludes with recommendations for next steps.
+AD  - Univ Rhode Isl, Dept Marine Affairs, Kingston, RI 02881 USAC3  - University of Rhode IslandPU  - SPRINGER
+PI  - DORDRECHT
+PA  - PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN  - 1871-4668
+SN  - 978-94-024-1126-3
+SN  - 978-94-024-1123-2
+SN  - 978-94-024-1122-5
+J9  - NATO SCI PEACE SECUR
+JI  - NATO Sci. Peace Secur. Ser. C- Environ. Secur.
+PY  - 2017
+SP  - 205
+EP  - 224
+DO  - 10.1007/978-94-024-1123-2_7
+WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:000576951600007
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  0
+ER  -
+
+TY  - CPAPER
+AU  - Kannika, N
+AU  - Tan, KH
+AU  - Pawar, K
+ED  - Dagli, CH
+ED  - Suer, GA
+TI  - Enhancing the Competitiveness of Container Seaports Through Sustainability: A Case Study of Thailand
+T2  - 25TH INTERNATIONAL CONFERENCE ON PRODUCTION RESEARCH MANUFACTURING INNOVATION: CYBER PHYSICAL MANUFACTURING
+LA  - English
+CP  - 25th International Conference on Production Research Manufacturing Innovation (ICPR) - Cyber Physical Manufacturing
+KW  - Port sustainability
+KW  - sustainability assessment
+KW  - sustainability criteria
+KW  - Best-worst method (BWM)
+KW  - Multi-criteria decision-making
+KW  - SUPPLY CHAINS
+KW  - MAJOR PORTS
+KW  - FRAMEWORK
+KW  - MANAGEMENT
+AB  - Sustainability has become a key goal of any supply chain which aims to be more competitive in the long term. And ports are a vital part of maritime transportation and maritime supply chains. Therefore, they need to comply with a global sustainability agenda while developing their competitiveness and performance as well. Their improvement should take economic, environmental and social aspects of sustainability into account simultaneously. Enabling of sustainability in ports is now widely recognised as increasing competitiveness. The sustainability of container seaports has become an increasing focus of attention in developed countries in particular, although emerging economies are the key driver of growth for the global economy. Hence, this paper aims to propose a set of criteria to investigate the port sustainability performance of container ports in an emerging country: Thailand. Thailand port system is one of the busiest of ASEAN. To address this issue, the new MCDM method called Best-Worst is proposed to evaluate the importance of factors. This propose to guide for assessment framework of port sustainability development within the Thailand context in the future. (C) 2019 The Authors. Published by Elsevier Ltd.
+AD  - Univ Nottingham, Nottingham Univ Business Sch, 7301 Wollaton Rd, Nottingham NG8 1BB, EnglandC3  - University of NottinghamPU  - ELSEVIER SCIENCE BV
+PI  - AMSTERDAM
+PA  - SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN  - 2351-9789
+J9  - PROCEDIA MANUF
+PY  - 2019
+VL  - 39
+SP  - 1587
+EP  - 1596
+DO  - 10.1016/j.promfg.2020.01.283
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000889480200184
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  38
+ER  -
+
+TY  - CPAPER
+AU  - Osorio, AL
+AU  - Camarinha-Matos, LM
+AU  - Dias, T
+AU  - Tavares, J
+ED  - CamarinhaMatos, LM
+ED  - Afsarmanesh, H
+ED  - Antonelli, D
+TI  - Adaptive Integration of IoT with Informatics Systems for Collaborative Industry: The SITL-IoT Case
+T2  - COLLABORATIVE NETWORKS AND DIGITAL TRANSFORMATION
+LA  - English
+CP  - 20th IFIP WG 5.5 Working Conference on Virtual Enterprises (PRO-VE)
+KW  - Collaborative networks
+KW  - Internet of Things
+KW  - Systems integration
+KW  - Cyber-physical systems
+KW  - Distributed systems
+KW  - ARCHITECTURE
+AB  - Legacy industrial infrastructures are facing complex challenges to evolve to integrated solutions through the adoption of novel computing and business paradigms. The fast-growing collaborative businesses introduce the additional complexity of managing cooperative interactions among systems of business partners. The SITL-IoT research project aims to develop an open integrated and collaborative systems landscape for the silos agri-food industry. This case considers a silos' operator managing a maritime silos terminal in collaboration with the seaport administration, where trucks transfer bulk products to silos or bulk storages and distribute them to factories. The existing legacy management and supervision solutions are neither integrated nor properly prepared to cope with collaborative processes. Furthermore, the interactions with business partners are complex and follow dedicated integration solutions that pose difficult challenges in terms of management and evolution, since they do not follow open collaborative models or technology implementations. This paper discusses the problem domain and the approach to co-design and implement a technology-agnostic open integration infrastructure to support such collaborative network. The proposed approach considers a multi-supplier strategy for the adaptive integration of things on Internet of Things (IoT), considering the collaborative networks dimension.
+AD  - Inst Politecn Lisboa, ISEL Inst Super Engn Lisboa, Lisbon, PortugalAD  - POLITEC&ID, Lisbon, PortugalAD  - NOVA Univ Lisbon, Fac Sci & Technol, Caparica, PortugalAD  - CTS UNINOVA, Caparica, PortugalAD  - Informat Syst & Solut Co, FORDESI, Lisbon, PortugalC3  - Polytechnic Institute of LisbonC3  - Universidade Nova de LisboaFU  - PT2020 project SITL-IoT by FORDESI company; BP Portugal through the research project HORUS; A-to-Be (Brisa Innovation and Technology) company; project MOBICS/CITS; Center of Technology and Systems -UNINOVA; Portuguese FCT-PEST program [UID/EEA/00066/2019]
+FX  - Special thanks to Paulo Borges, as a research fellow leading the development of ISoS in a pre-stage for an open specifications and open source initiative under SOCOLNET scientific network and its ARCON-ACM initiative. This work has been partially supported by the PT2020 project SITL-IoT promoted by FORDESI company, BP Portugal through the research project HORUS, and the A-to-Be (Brisa Innovation and Technology) company with the project MOBICS/CITS. Partial support also from the Center of Technology and Systems -UNINOVA, and the Portuguese FCT-PEST program UID/EEA/00066/2019.
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 978-3-030-28464-0
+SN  - 978-3-030-28463-3
+J9  - IFIP ADV INF COMM TE
+PY  - 2019
+SP  - 43
+EP  - 54
+DO  - 10.1007/978-3-030-28464-0_5
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000560401400005
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  21
+ER  -
+
+TY  - JOUR
+AU  - Dong, R
+AU  - Ratliff, LJ
+AU  - Cardenas, AA
+AU  - Ohlsson, H
+AU  - Sastry, SS
+TI  - Quantifying the Utility-Privacy Tradeoff in the Internet of Things
+T2  - ACM TRANSACTIONS ON CYBER-PHYSICAL SYSTEMS
+LA  - English
+KW  - Privacy
+KW  - smart grid
+KW  - RANDOMIZED-RESPONSE
+KW  - INFORMATION
+KW  - MODEL
+KW  - AGGREGATION
+AB  - The Internet of Things (IoT) promises many advantages in the control and monitoring of physical systems from both efficacy and efficiency perspectives. However, in the wrong hands, the data might pose a privacy threat. In this article, we consider the tradeoff between the operational value of data collected in the IoT and the privacy of consumers. We present a general framework for quantifying this tradeoff in the IoT, and focus on a smart grid application for a proof of concept. In particular, we analyze the tradeoff between smart grid operations and how often data are collected by considering a realistic direct-load control example using thermostatically controlled loads, and we give simulation results to show how its performance degrades as the sampling frequency decreases. Additionally, we introduce a new privacy metric, which we call inferential privacy. This privacy metric assumes a strong adversary model and provides an upper bound on the adversary's ability to infer a private parameter, independent of the algorithm he uses. Combining these two results allows us to directly consider the tradeoff between better operational performance and consumer privacy.
+AD  - Univ Calif Berkeley, 337 Cory Hall, Berkeley, CA 94720 USAAD  - Univ Washington, 185 Stevens Way Campus Box 352500, Seattle, WA 98195 USAAD  - Univ Texas Dallas, 800 West Campbell Rd,EC31, Richardson, TX 75080 USAAD  - Univ Calif Berkeley, 1300 Seaport Blvd 500, Redwood City, CA 94063 USAC3  - University of California SystemC3  - University of California BerkeleyC3  - University of WashingtonC3  - University of Washington SeattleC3  - University of Texas SystemC3  - University of Texas DallasC3  - University of California SystemC3  - University of California BerkeleyFU  - Foundations Of Resilient CybEr-Physical Systems (FORCES); National Science Foundation (NSF) [CNS-1238959, CNS-1238962, CNS-1239054, CNS-1239166]; NSF [CNS-1553683]; Direct For Computer & Info Scie & Enginr; Division Of Computer and Network Systems [1553683] Funding Source: National Science Foundation
+FX  - This work was supported in part by Foundations Of Resilient CybEr-Physical Systems (FORCES), which receives support from the National Science Foundation (NSF award numbers CNS-1238959, CNS-1238962, CNS-1239054, CNS-1239166). This work was also supported by NSF CNS-1553683.
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN  - 2378-962X
+SN  - 2378-9638
+J9  - ACM TRANS CYBER-PHYS
+JI  - ACM Trans. Cyber-Phys. Syst.
+DA  - JUN
+PY  - 2018
+VL  - 2
+IS  - 2
+C7  - 8
+DO  - 10.1145/3185511
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000437530000002
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  68
+ER  -
+
+TY  - JOUR
+AU  - Bakdi, A
+AU  - Glad, IK
+AU  - Vanem, E
+TI  - Testbed Scenario Design Exploiting Traffic Big Data for Autonomous Ship Trials Under Multiple Conflicts With Collision/Grounding Risks and Spatio-Temporal Dependencies
+T2  - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+LA  - English
+KW  - Marine vehicles
+KW  - Navigation
+KW  - Safety
+KW  - Complexity theory
+KW  - Testing
+KW  - Seaports
+KW  - Radar tracking
+KW  - AIS
+KW  - collision risk prediction
+KW  - COLREGs
+KW  - complex navigation
+KW  - digital nautical chart
+KW  - grounding risk
+KW  - maritime autonomous surface ship MASS
+KW  - multiple conflicts
+KW  - sea trials
+KW  - testbed scenario
+KW  - traffic big data
+KW  - traffic separation schemes
+KW  - vessel safety domain
+KW  - COLLISION-AVOIDANCE
+KW  - TRACKING
+KW  - SAFETY
+AB  - Autonomous ships are promoted as the future of the maritime transport industry aiming to overcome conventional vessels in terms of performance, safety and environmental impact. Yet their tangled cyber-physical-social interactions and new emerging properties induce questions regarding their liability and trustworthiness. Digital simulations and sea trials are launched to assure the safety requirements and social expectations are met a priori. This paper presents the design of realistic testbed scenarios from huge historical data through a high-performance computational method to recommend a complete set of navigation scenarios for autonomy tests. The developed approach integrates traffic big data from Automatic Identification System (AIS) with high-resolution digital maps, vessel information registry, and digital nautical charts. All historical vessel-to-ground and vessel-to-vessel interactions are efficiently analyzed through a hierarchical method for collision and grounding conflicts assessment with a 15-minutes prediction horizon. Relative risk is evaluated accurately over full periods of predicted close-quarters situations subject to physical limits and sea-room availability for evasive maneuverers under COLREG rules and traffic separation schemes. Spatial dependencies among multiple conflicts define risky momentary traffic situations modelled through directed graph representation of nested interactions. Their temporal dependencies describe navigation scenarios through dynamic co-behaviors between multiple participating vessels over a period of time. Finally, we analyze negative/positive actions that increase/decrease the complexity. The presented algorithms are computationally very efficient, they scale to several (country*year)s where millions of scenarios are extracted, classified, and scored by their relative risk, complexity, and likelihood for firm post-test conclusions.
+AD  - Univ Oslo, Dept Math, Oslo, NorwayAD  - DNV Grp Res & Dev, N-1322 Hovik, NorwayC3  - University of OsloFU  - Norwegian Research Council Research-Based Innovation Center BigInsight [237718]
+FX  - This work was supported by the Norwegian Research Council Research-Based Innovation Center BigInsight under Project 237718.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 1524-9050
+SN  - 1558-0016
+J9  - IEEE T INTELL TRANSP
+JI  - IEEE Trans. Intell. Transp. Syst.
+DA  - DEC
+PY  - 2021
+VL  - 22
+IS  - 12
+SP  - 7914
+EP  - 7930
+DO  - 10.1109/TITS.2021.3095547
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000722718400054
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  41
+ER  -
+

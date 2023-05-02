@@ -1,0 +1,293 @@
+﻿TY  - CPAPER
+AU  - Szpytko, J
+AU  - Duarte, YS
+TI  - Digital Twins Model for Cranes Operating in Container Terminal
+T2  - IFAC PAPERSONLINE
+LA  - English
+CP  - 13th International-Federation-of-Automatic-Control (IFAC) Workshop on Intelligent Manufacturing Systems (IMS)
+KW  - Gantry cranes
+KW  - Digital twins
+KW  - Maintenance scheduling
+KW  - Operation risk analysis
+KW  - Monte Carlo simulation
+KW  - Container terminal
+AB  - The paper presents an Integrated Maintenance Decision Making Model (IDMM) concept for cranes under operation especially into the container type terminals The target is to improve cranes operational efficiency through minimizing the risk of the Gantry Cranes Inefficiency (GCI) results based on implementation the Digital Twins concept. The proposed model makes a joint transportation process and crane maintenance scheduling, relevant to assure more robust performances in stochastic environments, as well as to assess and optimize performances at different levels, from components and transport device to production systems (container terminal) The crane operation risk is estimated with a sequential Monte Carlo Markov Chain (MCMC) simulation model and the optimization model behind of IDMM is supported through the Particle Swarm Optimization (PSO) algorithms. The developed model allows the terminal container operators to obtain a maintenance schedule that minimizes the GCI, as well as establishing the desired level of risk. The paper demonstrates the effectiveness of the proposed maintenance decision making concept model for cranes under operation with use the data coming from of a real container terminal (case study). (C) 2019, IFAC (International Federation of Automatic Control) Hosting by Elsevier Ltd. All rights reserved.
+AD  - AGH Univ Sci & Technol, Ave A Mickiewicza 30, PL-30059 Krakow, PolandC3  - AGH University of Science & TechnologyFU  - Polish Ministry of Science and Higher Education
+FX  - The work has been financially supported by the Polish Ministry of Science and Higher Education.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2405-8963
+J9  - IFAC PAPERSONLINE
+JI  - IFAC PAPERSONLINE
+PY  - 2019
+VL  - 52
+IS  - 10
+SP  - 25
+EP  - 30
+DO  - 10.1016/j.ifacol.2019.10.014
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000494006200006
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  9
+Cited Reference Count:  14
+ER  -
+
+TY  - JOUR
+AU  - Gao, YP
+AU  - Chang, DF
+AU  - Chen, CH
+TI  - A digital twin-based approach for optimizing operation energy consumption at automated container terminals
+T2  - JOURNAL OF CLEANER PRODUCTION
+LA  - English
+KW  - Sustainable development
+KW  - Energy consumption
+KW  - Digital twin
+KW  - Automatic stacking crane scheduling
+KW  - Container yard
+KW  - STACKING CRANES
+KW  - YARD CRANE
+KW  - MODEL
+KW  - OPTIMIZATION
+KW  - TRUCK
+AB  - The sustainable development of port operation management is strongly related to the energy consumption of production at automated container terminals (ACTs). This paper focuses on the production activities at a container yard, which is the primary facility of ACTs. A digital twin-based approach is proposed to optimize the operation of an automatic stacking crane (ASC) handling containers in terms of energy consumption. A virtual container yard that syncs with a physical container yard in the ACT digital twin system for observation and validation is developed. A mathematical model is established to minimize the total energy consumption of completing all tasks. Then, the Q-learning algorithm is adapted to optimize a solution based on the operating data from the ACT digital twin system. Numerical experiments are conducted to demonstrate the effectiveness of the proposed approach by comparing it with two other solution algorithms, viz., genetic algorithm (GA) and particle swarm optimization (PSO). The total energy consumption of two operation strategies (i.e., centralized and decentralized) are also compared using the proposed digital twin-based approach. With digital twin, the operational environment and energy consumption are visualized to support optimization and management of ASCs. Managers and operators can choose an appropriate strategy according to the designated sustainable goal.
+AD  - Shanghai Univ, Sch Management, 99 Shangda Rd, Shanghai 200444, Peoples R ChinaAD  - Shanghai Maritime Univ, Logist Engn Coll, 1550 Haigang Ave, Shanghai 201306, Peoples R ChinaAD  - Nanyang Technol Univ, Sch Mech & Aerosp Engn, 50 Nanyang Ave, Singapore 639798, SingaporeC3  - Shanghai UniversityC3  - Shanghai Maritime UniversityC3  - Nanyang Technological University & National Institute of Education (NIE) SingaporeC3  - Nanyang Technological UniversityFU  - National Key Research and Devel- opment Plan of China [2019YFB1704403]
+FX  - This work was supported by the National Key Research and Devel- opment Plan of China (No. 2019YFB1704403) .
+PU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 0959-6526
+SN  - 1879-1786
+J9  - J CLEAN PROD
+JI  - J. Clean Prod.
+DA  - JAN 20
+PY  - 2023
+VL  - 385
+C7  - 135782
+DO  - 10.1016/j.jclepro.2022.135782
+C6  - DEC 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000913801900001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  62
+ER  -
+
+TY  - JOUR
+AU  - Lin, TY
+AU  - Shi, GQ
+AU  - Yang, C
+AU  - Zhang, YX
+AU  - Wang, JZ
+AU  - Jia, ZX
+AU  - Guo, LQ
+AU  - Xiao, YY
+AU  - Wei, ZQ
+AU  - Lan, SL
+TI  - Efficient container virtualization-based digital twin simulation of smart industrial systems
+T2  - JOURNAL OF CLEANER PRODUCTION
+LA  - English
+KW  - Digital twin
+KW  - Container virtualization
+KW  - Efficient parallel simulation
+KW  - Smart industrial service system
+KW  - Cloud simulation
+KW  - Simulation as a service
+KW  - INTERNET
+KW  - CLOUD
+KW  - MANAGEMENT
+KW  - DESIGN
+AB  - The great potential of digital twin (DT) in supporting smart industrial systems has brought huge requirements for on-demand DT-based simulation, a particularly useful and sustainable means, to assist various decision-making. However, there are major challenges to efficiently build and update the DT-based simulation system and provide simulation as a service (SimaaS): 1) virtualization machine based heavyweight methods to create simulation environments for DT models consume too much resource and time; 2) DT-based simulation systems in the cloud or developers' desktops could not well support the real-time response and synchronize with the physical counterparts at the edge of the network. Therefore, a methodology of container virtualization based simulation as a service (CVSimaaS) is put forward to utilize lightweight containers to realize convenient DT system deployment and less resource consumption with high efficiency. Then a device-edge-cloud system architecture with a formal process are proposed to support the CVSimaaS paradigm. A matrix based management and scheduling model for computing infrastructure, container images and services is established to support the efficient CVSimaaS process. Finally, the methodology is applied to building a DT-based simulation system for intelligent manufacturing. The results show that the DT-based simulation system can be 1) easily deployed to heterogeneous infrastructure and terminals at the cloud, edge and device, and 2) parallelly scheduled and operated on high performance cloud/edge on demand for large-scale online analysis. (C) 2020 Elsevier Ltd. All rights reserved.
+AD  - Beijing Inst Elect Syst Engn, State Key Lab Complex Prod Intelligent Mfg Syst T, Beijing, Peoples R ChinaAD  - Beijing Simulat Ctr, Beijing Complex Prod Adv Mfg Engn Res Ctr, Beijing, Peoples R ChinaAD  - Beijing Simulat Ctr, Sci & Technol Special Syst Simulat Lab, Beijing, Peoples R ChinaAD  - Beijing Inst Technol, Sch Comp Sci & Technol, Beijing, Peoples R ChinaAD  - Huazhong Univ Sci & Technol, Sch Comp Sci & Technol, Wuhan, Hubei, Peoples R ChinaAD  - Univ Chinese Acad Sci, Sch Econ & Management, Beijing, Peoples R ChinaC3  - Beijing Institute of TechnologyC3  - Huazhong University of Science & TechnologyC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASFU  - National Defense Basic Scientific Research Project, Ministry of Industry and Information Technology, China [JCKY2018204C004]; National key R&D Program of China; Ministry of Industry and Information Technology, China [2018YFB1701600]; Beijing Institute of Technology Research Fund Program for Young Scholars
+FX  - The research is supported by the National Defense Basic Scientific Research Project, Ministry of Industry and Information Technology, China (No. JCKY2018204C004), the National key R&D Program of China, Ministry of Industry and Information Technology, China(No. 2018YFB1701600) and the Beijing Institute of Technology Research Fund Program for Young Scholars.
+PU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN  - 0959-6526
+SN  - 1879-1786
+J9  - J CLEAN PROD
+JI  - J. Clean Prod.
+DA  - JAN 25
+PY  - 2021
+VL  - 281
+C7  - 124443
+DO  - 10.1016/j.jclepro.2020.124443
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000609019300016
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  11
+Cited Reference Count:  67
+ER  -
+
+TY  - CPAPER
+AU  - Jakovlev, S
+AU  - Eglynas, T
+AU  - Voznak, M
+AU  - Partila, P
+AU  - Tovarek, J
+AU  - Jusis, M
+AU  - Pocevicius, E
+AU  - Purlaura, Z
+ED  - Grabis, J
+ED  - Romanovs, A
+ED  - Kulesova, G
+TI  - Development of an Intelligent Digital Twins Framework for Secure Container Terminal Operations
+T2  - 2021 62ND INTERNATIONAL SCIENTIFIC CONFERENCE ON INFORMATION TECHNOLOGY AND MANAGEMENT SCIENCE OF RIGA TECHNICAL UNIVERSITY (ITMS)
+LA  - English
+CP  - 62nd International Scientific Conference on Information Technology and Management Science of Riga-Technical-University (ITMS)
+KW  - intelligent transportation systems
+KW  - data mining
+KW  - control systems
+KW  - neural nets
+KW  - ARTIFICIAL-INTELLIGENCE
+KW  - FAULT-DIAGNOSIS
+KW  - MODEL
+AB  - This paper aims to analyze the operations performed at the container terminal and to propose a new digital twin (DT)-based framework increasing the level of safety and security. This paper discusses the physical space as well as demonstrates the capabilities of the virtual framework from the cyber-physical security point of view. The main contribution of this paper is the demonstration of the dynamics of both, the physical and the virtual systems from a qualitative perspective.
+AD  - Klaipeda Univ, Marine Res Inst, Klaipeda, LithuaniaAD  - Riga Tech Univ, Fac E Learning Technol & Humanities, Riga, LatviaC3  - Klaipeda UniversityC3  - Riga Technical UniversityFU  - European Regional Development Fund [01.2.2-LMT-K-718-030001]; Research Council of Lithuania (LMTLT); project JKSMART
+FX  - This research was supported by project JKSMART. This project has received funding from European Regional Development Fund (project No. 01.2.2-LMT-K-718-030001) under grant agreement with the Research Council of Lithuania (LMTLT).
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-1-6654-0615-4
+PY  - 2021
+DO  - 10.1109/ITMS52826.2021.9615313
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000853013700021
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  23
+ER  -
+
+TY  - JOUR
+AU  - Li, Y
+AU  - Chang, DF
+AU  - Gao, YP
+AU  - Zou, Y
+AU  - Bao, CT
+TI  - Automated Container Terminal Production Operation and Optimization via an AdaBoost-Based Digital Twin Framework
+T2  - JOURNAL OF ADVANCED TRANSPORTATION
+LA  - English
+KW  - CRANE SCHEDULING PROBLEM
+KW  - YARD CRANE
+AB  - Digital twin (DT), machine learning, and industrial Internet of things (IIoT) provide great potential for the transformation of the container terminal from automation to intelligence. The production control in the loading and unloading process of automated container terminals (ACTs) involves complex situations, which puts forward high requirements for efficiency and safety. To realize the real-time optimization and security of the ACT, a framework integrating DT with the AdaBoost algorithm is proposed in this study. The framework is mainly composed of physical space, a data service platform, and virtual space, in which the twin space and service system constitute virtual space. In the proposed framework, a multidimensional and multiscale DT model in twin space is first built through a 3D MAX and U3D technology. Second, we introduce a random forest and XGBoost to compare with AdaBoost to select the best algorithm to train and optimize the DT mechanism model. Third, the experimental results show that the AdaBoost algorithm is better than others by comparing the performance indexes of model accuracy, root mean square error, interpretable variance, and fitting error. In addition, we implement empirical experiments by different scales to further evaluate the proposed framework. The experimental results show that the mode of the DT-based terminal operation has higher loading and unloading efficiency than that of the conventional terminal operation, increasing by 23.34% and 31.46% in small-scale and large-scale problems, respectively. Moreover, the visualization service provided by the DT system can monitor the status of automation equipment in real time to ensure the safety of operation.
+AD  - Shanghai Maritime Univ, Inst Logist Sci & Engn, Shanghai 201306, Peoples R ChinaAD  - Shanghai Int Port Grp Co Ltd, Shanghai 201306, Peoples R ChinaC3  - Shanghai Maritime UniversityFU  - National Key Research and Development Plan of China [2019YFB1704403]
+FX  - This work was supported by the National Key Research and Development Plan of China under Grant 2019YFB1704403.
+PU  - WILEY-HINDAWI
+PI  - LONDON
+PA  - ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN  - 0197-6729
+SN  - 2042-3195
+J9  - J ADV TRANSPORT
+JI  - J. Adv. Transp.
+DA  - SEP 8
+PY  - 2021
+VL  - 2021
+C7  - 1936764
+DO  - 10.1155/2021/1936764
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000697297200002
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  44
+ER  -
+
+TY  - JOUR
+AU  - Szpytko, J
+AU  - Duarte, YS
+TI  - A digital twins concept model for integrated maintenance: a case study for crane operation
+T2  - JOURNAL OF INTELLIGENT MANUFACTURING
+LA  - English
+KW  - Gantry cranes
+KW  - Digital twins
+KW  - Maintenance scheduling
+KW  - Operation risk analysis
+KW  - Monte Carlo simulation
+KW  - Container terminal
+AB  - The paper presents an Integrated Maintenance Decision Making Model (IMDMM) concept for cranes under operation especially into the container type terminals. The target is to improve cranes operational efficiency through minimizing the risk of the Gantry Cranes Inefficiency (GCI) results based on the implementation of the Digital Twins concept for maintenance purposes. The proposed model makes a joint transportation process and crane maintenance scheduling, relevant to assure more robust performances in stochastic environments, as well as to assess and optimize performances at different levels, from components and transport device to production systems (container terminal). The crane operation risk is estimated with a sequential Markov chain Monte Carlo simulation model and the optimization model behind of IMDMM is supported through the Particle Swarm Optimization algorithms because the objective function a non-linear stochastics problem with bounded constrains. The developed model allows the container terminal operators (management process) to obtain a maintenance schedule that minimizes the GCI (holistic indicator), as well as establishing the desired level of risk. The paper demonstrates the effectiveness of the proposed maintenance decision making concept model for cranes under operation using data from of a real container terminal (case study).
+AD  - AGH Univ Sci & Technol, Ave A Mickiewicza 30, PL-30059 Krakow, PolandC3  - AGH University of Science & TechnologyFU  - Polish Ministry of Science and Higher Education
+FX  - The work has been financially supported by the Polish Ministry of Science and Higher Education.
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0956-5515
+SN  - 1572-8145
+J9  - J INTELL MANUF
+JI  - J. Intell. Manuf.
+DA  - OCT
+PY  - 2021
+VL  - 32
+IS  - 7
+SP  - 1863
+EP  - 1881
+DO  - 10.1007/s10845-020-01689-5
+C6  - NOV 2020
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000587256900001
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  11
+Cited Reference Count:  38
+ER  -
+
+TY  - CPAPER
+AU  - Cao, Y
+AU  - Zeng, QC
+AU  - He, HR
+AU  - Yang, A
+ED  - Wang, Y
+ED  - Lin, S
+ED  - Shen, GQP
+TI  - Next-Generation Infrastructure Design Method Based on Digital Twin Technology for Automated Container Terminal
+T2  - CARBON PEAK AND NEUTRALITY STRATEGIES OF THE CONSTRUCTION INDUSTRY (ICCREM 2022)
+LA  - English
+CP  - International Conference on Construction and Real Estate Management (ICCREM)
+KW  - PRODUCT DESIGN
+AB  - With increased investment in automated container terminals (ACTs), research on the design method for ACT infrastructure becomes popular. However, the performance of the ACT infrastructure design scheme is subject to the coordination and interaction of the container handling system in different design layouts and dynamic environments. The traditional design method has difficulty in effectively analyzing the above effects in the design process. This work discusses the characteristics of the ACT infrastructure design in the design process framework including preliminary design, detailed design, and scheme evaluation. The benefits of adopting digital twin (DT) in the infrastructure layout design are analyzed in this framework to propose the next-generation design method. The Guangdong-Hong Kong-Macao Greater Bay Area is taken as a case to test the availability of the proposed DT-based design platform. This paper hopes to improve the infrastructure design to obtain efficient and stable operations for ACTs.
+AD  - Dalian Maritime Univ, Sch Shipping Econ & Management, Dalian, Peoples R ChinaC3  - Dalian Maritime UniversityFU  - Social Science Planning Foundation of Liaoning Province [L20BGL056]
+FX  - This research was supported by the Social Science Planning Foundation of Liaoning Province (No. L20BGL056).
+PU  - AMER SOC CIVIL ENGINEERS
+PI  - NEW YORK
+PA  - UNITED ENGINEERING CENTER, 345 E 47TH ST, NEW YORK, NY 10017-2398 USA
+SN  - 978-0-7844-8456-2
+PY  - 2022
+SP  - 402
+EP  - 409
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000943603000043
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  15
+ER  -
+
+TY  - JOUR
+AU  - Yang, A
+AU  - Meng, XY
+AU  - He, H
+AU  - Wang, L
+AU  - Gao, J
+TI  - Towards Optimized ARMGs' Low-Carbon Transition Investment Decision Based on Real Options
+T2  - ENERGIES
+LA  - English
+KW  - low-carbon transition
+KW  - ARMGs
+KW  - investment decision
+KW  - real options
+KW  - ENERGY
+KW  - EMISSION
+KW  - TECHNOLOGIES
+KW  - REDUCTION
+KW  - PROJECTS
+KW  - PORT
+AB  - As a critical node of the global transportation network, ports have great potential in promoting transportation emission reduction. Promoting the low-carbon transition of ports by using clean energy is effective. Using hydrogen energy in automated container terminals (ACTs) has become popular in port emission-reduction research. The research object is the main port equipment-the automated rail-mounted container gantry crane (ARMG). This research designs a staged investment decision-making scheme for ARMGs' hydrogen energy transition. The Internet of Things (IoT) architecture in ACTs collects ARMG equipment operation and carbon emission data. It provides a basis for data acquisition in ARMGs' hydrogen energy transition. Furthermore, ports can adopt big data technology to analyze the correlation between equipment operation and carbon emissions. Finally, the digital twin platform will visualize the ARMG equipment operation and carbon emission behavior to remote operators. These advanced technologies can achieve status monitoring and simulation prediction, which will support ARMGs' hydrogen energy transition. However, the ARMGs' hydrogen energy transition has a long cycle, large investment, and strong variability. Ports should make staged investment decisions based on the digital twin platform's status monitoring and simulation prediction analysis results. Therefore, this research establishes an optimization model for ARMGs' low-carbon transition investment decision based on the real options method, and analyzes the staged investment scale and timing of ARMGs' hydrogen energy transition. The results provide a popularized decision-making scheme for the low-carbon transition of ports' equipment, which could facilitate the low-carbon transition of ports' equipment.
+AD  - Dalian Maritime Univ, Sch Maritime Econ & Management, Dalian 116026, Peoples R ChinaAD  - Shanghai Univ, Sch Econ, Shanghai 200444, Peoples R ChinaAD  - Univ South Australia, UniSA STEM, Adelaide, SA 5001, AustraliaC3  - Dalian Maritime UniversityC3  - Shanghai UniversityC3  - University of South AustraliaFU  - Social Science Planning Foundation of Liaoning Province [L20BGL056]
+FX  - This research was supported by the Social Science Planning Foundation of Liaoning Province (No. L20BGL056).
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 1996-1073
+J9  - ENERGIES
+JI  - Energies
+DA  - JUL
+PY  - 2022
+VL  - 15
+IS  - 14
+C7  - 5153
+DO  - 10.3390/en15145153
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000833325300001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  45
+ER  -
+

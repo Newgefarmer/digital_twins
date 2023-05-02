@@ -1,0 +1,95 @@
+﻿TY  - JOUR
+AU  - Agapaki, E
+AU  - Brilakis, I
+TI  - CLOI: An Automated Benchmark Framework for Generating Geometric Digital Twins of Industrial Facilities
+T2  - JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT
+LA  - English
+KW  - POINT-CLOUD
+KW  - MODELS
+KW  - RECONSTRUCTION
+KW  - SEGMENTATION
+AB  - This paper devised, implemented, and benchmarked a novel framework, named CLOI, that can generate accurate individual labelled point clusters of the most important shapes of existing industrial facilities with minimal manual effort in a generic point-level format. CLOI employs a combination of deep learning and geometric methods to segment the points into classes and individual instances. The current geometric digital twin generation from point cloud data in commercial software is a tedious, manual process. Experiments with our CLOI framework revealed that the method reliably can segment complex and incomplete point clouds of industrial facilities, yielding 82% class segmentation accuracy. Compared with the current state of practice, the proposed framework can realize estimated time-savings of 30% on average. CLOI is the first framework of its kind to have achieved geometric digital twinning for the most important objects of industrial factories. It provides the foundation for further research on the generation of semantically enriched digital twins of the built environment. (C) 2021 American Society of Civil Engineers.
+AD  - PTC Inc, 121 Seaport Blvd, Boston, MA 02210 USAAD  - Univ Cambridge, Dept Engn, Cambridge CB2 1PZ, EnglandC3  - University of CambridgeFU  - Engineering and Physical Sciences Research Council (EPSRC); US National Academy of Engineering (NAE); BP International Centre for Business and Technology (ICBT) [RG83104, RG90532]
+FX  - We thank our colleague Graham Miatt, who provided insight, expertise, and data that greatly assisted this research. We also express our gratitude to Bob Flint from BP International Centre for Business and Technology (ICBT), who provided data for evaluation. The research leading to these results received funding from the Engineering and Physical Sciences Research Council (EPSRC) and the US National Academy of Engineering (NAE). AVEVA Group and BP International Centre for Business and Technology (ICBT) partially sponsored this research under Grant agreements RG83104 and RG90532, respectively. We gratefully acknowledge the collaboration of all academic and industrial project partners. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the aforementioned institutes.
+PU  - ASCE-AMER SOC CIVIL ENGINEERS
+PI  - RESTON
+PA  - 1801 ALEXANDER BELL DR, RESTON, VA 20191-4400 USA
+SN  - 0733-9364
+SN  - 1943-7862
+J9  - J CONSTR ENG M
+JI  - J. Constr. Eng. Manage.
+DA  - NOV 1
+PY  - 2021
+VL  - 147
+IS  - 11
+C7  - 04021145
+DO  - 10.1061/(ASCE)CO.1943-7862.0002171
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000696606600010
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  85
+ER  -
+
+TY  - CPAPER
+AU  - Ali-Tolppa, J
+AU  - Kajo, M
+A1  - IEEE
+TI  - Mobility and QoS Prediction for Dynamic Coverage Optimization
+T2  - NOMS 2020 - PROCEEDINGS OF THE 2020 IEEE/IFIP NETWORK OPERATIONS AND MANAGEMENT SYMPOSIUM 2020: MANAGEMENT IN THE AGE OF SOFTWARIZATION AND ARTIFICIAL INTELLIGENCE
+LA  - English
+CP  - IEEE/IFIP Network Operations and Management Symposium (NOMS)
+KW  - Machine Learning
+KW  - Cognitive Network Management
+KW  - Closed-loop Automation
+KW  - Digital Twin
+AB  - This demonstrator shows, how Machine Learning (ML) based predictions can be used for closed-loop optimization in operational network management. It is based on data collected from an actual testbed deployed at the Hamburg Smart Seaport and uses a digital twin of the testbed to demonstrate how Coverage and Capacity Optimization (CCO) and Beam Adaptation (BA) functions can utilize mobility and Quality of Service (QoS) predictions to prevent service degradations. At the same time it studies the use of digital twins in operational network management automation and the robustness of ML models against changes in the environment.
+AD  - Nokia Bell Labs, Holmdel, NJ 07733 USAAD  - Tech Univ Munich, Dept Informat, Munich, GermanyC3  - Nokia CorporationC3  - Nokia Bell LabsC3  - Technical University of MunichPU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 1542-1201
+SN  - 978-1-7281-4973-8
+J9  - IEEE IFIP NETW OPER
+PY  - 2020
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000716920500120
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  2
+ER  -
+
+TY  - JOUR
+AU  - Agapaki, E
+AU  - Brilakis, I
+TI  - Instance Segmentation of Industrial Point Cloud Data
+T2  - JOURNAL OF COMPUTING IN CIVIL ENGINEERING
+LA  - English
+KW  - Instance segmentation
+KW  - Industrial facilities
+KW  - Laser scanning
+KW  - Point clouds
+KW  - Digital twins
+KW  - Building information modeling (BIM)
+KW  - SEMANTIC SEGMENTATION
+KW  - CLASSIFICATION
+KW  - MODELS
+AB  - The challenge that this paper addresses is how to efficiently minimize the cost and manual labor for automatically generating object oriented geometric digital twins (gDTs) of industrial facilities, so that the benefits provide even more value compared to the initial investment to generate these models. Our previous work achieved the current state-of-the-art class segmentation performance (75% average accuracy per point and average area under the ROC curve, AUC, 90% in the CLOI dataset classes) and directly produces labelled point clusters of the most important to model objects (CLOI classes) from laser scanned industrial data. CLOI stands for C-shapes, L-shapes, O-shapes, I-shapes and their combinations. However, the problem of automated segmentation of individual instances that can then be used to fit geometric shapes remains unsolved. We argue that the use of instance segmentation algorithms has the theoretical potential to provide the output needed for the generation of gDTs. We solve instance segmentation in this paper through (1) using a CLOI-Instance graph connectivity algorithm that segments the point clusters of an object class into instances, and (2) boundary segmentation of points that improves Step 1. Our method was tested on the CLOI benchmark dataset and segmented instances with 76.25% average precision and 70% average recall per point among all classes. This proved that it is the first to automatically segment industrial point cloud shapes with no prior knowledge other than the class point label and is the bedrock for efficient gDT generation in cluttered industrial point clouds.
+AD  - PTC Inc, 121 Seaport Blvd, Boston, MA 02210 USAAD  - Univ Cambridge, Dept Engn, Cambridge CB2 1PZ, EnglandC3  - University of CambridgeFU  - Engineering and Physical Sciences Research Council (EPSRC); US National Academy of Engineering (NAE); BP International Centre for Business and Technology (ICBT) [RG90532]; AVEVA Group Plc. [RG83104]
+FX  - We thank our colleague Graham Miatt, who has provided insight, expertise, and data that greatly assisted this research. We also express gratitude to Bob Flint from BP International Centre for Business and Technology (ICBT), who provided data for evaluation. The research leading to these results has received funding from the Engineering and Physical Sciences Research Council (EPSRC) and the US National Academy of Engineering (NAE). AVEVA Group Plc. and BP International Centre for Business and Technology (ICBT) partially sponsor this research under grant agreements RG83104 and RG90532, respectively. We gratefully acknowledge the collaboration of all academic and industrial project partners. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the institutes mentioned above.
+PU  - ASCE-AMER SOC CIVIL ENGINEERS
+PI  - RESTON
+PA  - 1801 ALEXANDER BELL DR, RESTON, VA 20191-4400 USA
+SN  - 0887-3801
+SN  - 1943-5487
+J9  - J COMPUT CIVIL ENG
+JI  - J. Comput. Civil. Eng.
+DA  - NOV 1
+PY  - 2021
+VL  - 35
+IS  - 6
+C7  - 04021022
+DO  - 10.1061/(ASCE)CP.1943-5487.0000972
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000696606500004
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  69
+ER  -
+
